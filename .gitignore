@@ -1,3 +1,7 @@
+#Folders to ignore
+PythonDocumentation/
+
+
 # History files
 .Rhistory
 .Rapp.history
