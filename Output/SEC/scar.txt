@@ -1,0 +1,103 @@
+
+xgood
+GameID: SCAR_ABAM_0405201901
+!!!ERROR: BRUnit.get_start_base_batbr; Holcombe out at first 1b to 2b to 1b (2-1);
+!!!ERROR: BRUnit.get_start_base_batbr; Breaux out at first 1b to p (1-0).
+!!!ERROR: BRUnit.get_start_base_batbr; Jenkins struck out swinging, out at first c to 1b (1-2).
+
+xgood
+GameID: SCAR_ABAM_0405201902
+!!!ERROR: BRUnit.get_start_base_batbr; Allen out at first 1b to p (0-2).
+
+xgood
+GameID: SCAR_ABAM_0406201901
+*!!!ERROR: BRUnit.get_start_base; Hopkins scored, unearned.
+!!!ERROR: BRUnit.get_start_base_batbr; Williamson out at first 1b to p (2-0).
+
+xgood
+GameID: SCAR_FLOR_0411201901
+!!!Warning: 'other' value for AUTypes[i]; *Runner was called out on wild pitch, play was reviewed and upheld.
+!!!ERROR: BRUnit.get_start_base_batbr; Cullen struck out swinging, out at first c to 1b (0-2 SSFS).
+!!!ERROR: BRUnit.get_start_base_batbr; Campbell out at first 1b to p (2-2 KFBB);
+*!!!ERROR: BRUnit.get_start_base; Beamon scored on a wild pitch.
+
+xgood
+GameID: SCAR_FLOR_0412201901
+!!!ERROR: BRUnit.get_start_base_batbr; Campbell out at first 1b to p (0-0).
+!!!ERROR: BRUnit.get_start_base_batbr; Beamon out at first 1b to p (2-2 BBKF).
+
+xgood
+GameID: SCAR_FLOR_0413201901
+!!!ERROR: BRUnit.get_start_base_batbr; Perez out at first 1b to p (0-2 FF).
+!!!ERROR: BRUnit.get_start_base_batbr; Perez struck out swinging, out at first c to 1b (2-2 KFBBFS).
+
+xgood
+GameID: SCAR_MIZZ_0426201901
+!!!ERROR: BRUnit.get_start_base_batbr; Allen struck out, out at first c to 1b (2-2).
+!!!ERROR: BRUnit.get_start_base_batbr; Brumfield out at first 1b to p (2-1).
+
+xgood
+GameID: SCAR_MIZZ_0427201901
+!!!ERROR: BRUnit.get_start_base_batbr; Jenkins out at first 1b to p (0-0).
+*fix !!!ERROR: BRUnit.get_start_base; Holt scored, unearned.
+
+xgood
+GameID: SCAR_MIZZ_0428201901
+!!!ERROR: BRUnit.get_start_base_batbr; Cullen struck out swinging, out at first c to 1b (3-2).
+
+**fix or rerun
+GameID: SCAR_MSST_0516201901
+!!!ERROR: BRUnit.get_start_base_batbr; Westburg out at first 1b to p (3-1).
+!!!ERROR: BRUnit.get_start_base_batbr; Hancock out at first 1b to p (3-2).
+*!!!ERROR: BatUnit.get_batter_name, not in batting order, ts: Beamon flied out to lf (1-0).
+!!!ERROR: BRUnit.get_start_base_batbr; Hancock struck out swinging, out at first c to 1b (0-2).
+!!!Warning: 'other' value for AUTypes[i]; /  for Ganopulos.
+!!!ERROR: BatUnit.get_batter_name, not in batting order, ts: Beamon struck out swinging (0-2).
+!!!ERROR: BatUnit.get_batter_name, not in batting order, ts: Brewer struck out swinging (1-2).
+!!!ERROR: BatUnit.get_batter_name, not in batting order, ts: Ganopulos struck out looking (3-2).
+!!!ERROR: BatUnit.get_batter_name, not in batting order, ts: Beamon singled to left field (0-0);
+!!!ERROR: BatUnit.get_batter_name, not in batting order, ts: Brewer struck out swinging (1-2).
+!!!ERROR: BatUnit.get_batter_name, not in batting order, ts: Ganopulos singled, RBI (2-1);
+!!!ERROR: BRUnit.get_start_base; Beamon advanced to second;
+
+xgood
+GameID: SCAR_MSST_0517201901
+!!!ERROR: BRUnit.get_start_base_batbr; Beamon struck out swinging, out at first c to 1b (2-2).
+!!!ERROR: BRUnit.get_start_base_batbr; Hopkins out at first 1b to p (1-1).
+*!!!ERROR: BRUnit.get_start_base; Olson stole third.
+*!!!ERROR: BRUnit.get_start_base; Beamon advanced to third on a wild pitch;
+*!!!ERROR: BRUnit.get_start_base; Cullen scored on a wild pitch.
+*!!!ERROR: BRUnit.get_start_base; Eyster advanced to third on a wild pitch;
+*!!!ERROR: BRUnit.get_start_base; Beamon scored on a wild pitch.
+!!!ERROR: BRUnit.get_start_base_batbr; Gilbert out at first 1b to p (0-1).
+!!!ERROR: BRUnit.get_start_base_batbr; Callil struck out swinging, out at first c to 1b (1-2).
+*!!!ERROR: BRUnit.get_start_base; English advanced to second.
+
+****
+GameID: SCAR_MSST_0518201901
+Traceback (most recent call last):
+
+
+  File "C:\Users\Jan\Desktop\Scrape\PBPStripper\NewGame.py", line 145, in get_day_night
+    elif int(self.starttime[0:self.starttime.find(":")]) < 5 or int(self.starttime[0:self.starttime.find(":")]) > 11:
+
+ValueError: invalid literal for int() with base 10: '1 p'
+
+xgood
+GameID: SCAR_TENN_0322201901
+!!!ERROR: BRUnit.get_start_base_batbr; AMMONS out at first p to 3b to 1b (0-0);
+*!!!ERROR: BRUnit.get_start_base; Campbell scored on a wild pitch, unearned.
+!!!ERROR: BRUnit.get_start_base_batbr; Perez struck out swinging, out at first c to 1b (3-2 BBFBFS).
+!!!ERROR: BRUnit.get_start_base_batbr; FERGUSON, M. out at first 1b to p (1-1 BK).
+?Error: Subunit.get_hole; Name not found in batting orders
+
+xgood
+GameID: SCAR_TENN_0323201901
+!!!ERROR: BRUnit.get_start_base_batbr; Neville out at first 1b to p (0-0).
+*!!!ERROR: BRUnit.get_start_base; RUCKER, J. advanced to second.
+*!!!ERROR: BRUnit.get_start_base; Hopkins stole third.
+
+*fix
+GameID: SCAR_TENN_0324201901
+!!!ERROR: BRUnit.get_start_base_batbr; Allen out at first p to 2b to 1b (0-0);
+*!!!ERROR: BRUnit.get_start_base; DANIELS, Z. advanced to second;

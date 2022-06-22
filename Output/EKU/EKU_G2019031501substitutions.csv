@@ -1,0 +1,8 @@
+GameID,PlateAppID,SubType,PlayerOut,PlayerIn,SubbedPos
+2019031501,2019031501Away0603s,off,Lucio,Brewer,ph
+2019031501,2019031501Away0606s,def,NA,ERROR: SubUnit.get_players, ts: ,NA
+2019031501,2019031501Away0805s,def,Smith,Ziegelmeyer,p
+2019031501,2019031501Home0601s,def,NA,Johnson,1b
+2019031501,2019031501Home0602s,def,NA,Thomason,3b
+2019031501,2019031501Home0603s,def,NA,Brewer,lf
+2019031501,2019031501Home0701s,def,Teague,Brian,p

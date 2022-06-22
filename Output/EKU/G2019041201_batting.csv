@@ -1,0 +1,40 @@
+HomeAway,BatterName,BatterHole,CountBalls,CountStrikes,pitchBalls,pitchFouls,pitchKSwing,pitchKLook,pitchBIPs,Pitches,BIP,H,Bases,Singles,Doubles,Triples,HR,HitLocation,HitQuality,HitType,INFH,FO,FOLocation,FOQuality,FOType,DP,DPType,Reach,RBOE,FC,SAC,SF,BB,IBB,UBB,SO,KSwing,KLook,UCTS,SOReach,HBP,TrueOutcome,BasesAdded,RunsAdded,OutsAdded,bostartOuts,bostartOnFirst,bostartOnSecond,bostartOnThird,bostartBaseState,bostartBaseOutState,boendOuts,boendOnFirst,boendOnSecond,boendOnThird,boendBaseState,boendBaseOutState
+home,Kerrigan,1,2,2,2,1,0,1,1,5,1,1,1,1,0,0,0,right field,hard,fly ball,0,0,,,,0,NA,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,A,A0,0,Kerrigan,NA,NA,B,B0
+home,Emme,2,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,NA,NA,NA,0,1,to 3b,foul,fly ball,0,NA,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Kerrigan,NA,NA,B,B0,1,Kerrigan,NA,NA,B,B1
+home,Morris,3,,,0,0,0,0,1,1,1,0,0,0,0,0,0,NA,NA,NA,0,0,,,,0,NA,TRUE,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Kerrigan,NA,NA,B,B1,1,Morris,NA,NA,B,B1
+home,Govern,4,2,2,2,1,0,1,1,5,1,0,0,0,0,0,0,NA,NA,NA,0,1,to 1b,soft,ground ball,0,64,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Morris,Kerrigan,NA,E,E1,2,Morris,Kerrigan,NA,E,E2
+home,Pena,5,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,NA,NA,NA,0,1,to 3b,soft,ground ball,0,NA,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1
+home,Knernschield,6,0,0,0,0,1,1,1,3,1,1,1,1,0,0,0,left field,hard,fly ball,0,0,,,,0,NA,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,NA,NA,NA,A,A1,1,Knernschield,NA,NA,B,B1
+home,Waznis,7,0,2,0,0,2,1,0,3,0,0,0,0,0,0,0,NA,NA,NA,0,0,,,,0,NA,FALSE,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,1,Knernschield,NA,NA,B,B1,2,Knernschield,NA,NA,B,B2
+home,Sweeney,8,0,0,0,0,1,0,1,2,1,0,0,0,0,0,0,NA,NA,NA,0,0,,,,0,NA,TRUE,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,Knernschield,NA,NA,B,B2,2,Sweeney,NA,NA,B,B2
+home,Tesmond,9,1,0,1,0,0,0,1,2,1,0,0,0,0,0,0,NA,NA,NA,0,0,,,,0,NA,TRUE,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,Sweeney,Knernschield,NA,E,E2,2,Tesmond,Knernschield,NA,E,E2
+home,Kerrigan,1,0,0,0,0,0,1,1,2,1,0,0,0,0,0,0,NA,NA,NA,0,1,to cf,medium,fly ball,0,NA,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1
+home,Emme,2,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,NA,NA,NA,0,1,to 3b,hard,line drive,0,NA,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2
+home,Morris,3,1,0,1,0,0,0,1,2,1,0,0,0,0,0,0,NA,NA,NA,0,1,to cf,medium,fly ball,0,NA,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3
+home,Govern,4,2,1,2,0,1,0,1,4,1,0,0,0,0,0,0,NA,NA,NA,0,1,to lf,medium,fly ball,0,NA,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1
+home,Pena,5,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,up the middle,hard,ground ball,0,0,,,,0,NA,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,NA,NA,NA,A,A1,1,Pena,NA,NA,B,B1
+home,Knernschield,6,1,2,1,1,1,0,1,4,1,1,1,1,0,0,0,third base,medium,ground ball,1,0,,,,0,NA,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Pena,NA,NA,B,B1,1,Knernschield,NA,NA,B,B1
+home,Waznis,7,0,2,0,0,2,1,0,3,0,0,0,0,0,0,0,NA,NA,NA,0,0,,,,0,NA,FALSE,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,1,NA,Knernschield,Pena,G,G1,2,NA,Knernschield,Pena,G,G2
+home,Sweeney,8,1,2,1,0,0,2,1,4,1,1,1,1,0,0,0,up the middle,hard,ground ball,0,0,,,,0,NA,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,NA,Knernschield,Pena,G,G2,2,Sweeney,Knernschield,Pena,H,H2
+home,Tesmond,9,0,2,0,2,0,0,1,3,1,0,0,0,0,0,0,NA,NA,NA,0,0,,,,0,NA,TRUE,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,Sweeney,Knernschield,Pena,H,H2,2,Tesmond,Knernschield,Pena,H,H2
+home,Kerrigan,1,0,1,0,0,0,1,1,2,1,0,0,0,0,0,0,NA,NA,NA,0,1,to cf,medium,fly ball,0,NA,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1
+home,Emme,2,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,NA,NA,NA,0,1,to 3b,soft,fly ball,0,NA,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2
+home,Morris,3,1,0,1,0,0,0,1,2,1,1,1,1,0,0,0,right ,hard,ground ball,0,0,,,,0,NA,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,NA,NA,NA,A,A2,2,Morris,NA,NA,B,B2
+home,Govern,4,0,2,0,2,0,1,1,4,1,1,1,1,0,0,0,lf line,hard,ground ball,0,0,,,,0,NA,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,Morris,NA,NA,B,B2,2,Govern,NA,NA,B,B2
+home,Pena,5,3,2,3,0,1,1,1,6,1,0,0,0,0,0,0,NA,NA,NA,0,1,to 2b,soft,fly ball,0,NA,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,Govern,Morris,NA,E,E2,3,Govern,Morris,NA,E,E3
+home,Knernschield,6,0,2,0,2,1,0,1,4,1,0,0,0,0,0,0,NA,NA,NA,0,1,to cf,medium,fly ball,0,NA,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1
+home,Waznis,7,3,2,4,0,0,2,0,6,0,0,1,0,0,0,0,NA,NA,NA,0,0,,,,0,NA,FALSE,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,1,NA,NA,NA,A,A1,1,Waznis,NA,NA,B,B1
+home,Sweeney,8,0,0,0,0,1,0,1,2,1,0,0,0,0,0,0,NA,NA,NA,0,1,to cf,medium,fly ball,0,NA,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Waznis,NA,NA,B,B1,2,Waznis,NA,NA,B,B2
+home,Tesmond,9,0,2,0,1,1,1,0,3,0,0,0,0,0,0,0,NA,NA,NA,0,0,,,,0,NA,FALSE,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,2,Waznis,NA,NA,B,B2,3,Waznis,NA,NA,B,B3
+home,Kerrigan,1,1,1,1,0,1,0,1,3,1,0,0,0,0,0,0,NA,NA,NA,0,1,to 1b,soft,ground ball,0,NA,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1
+home,Emme,2,2,2,2,1,0,2,1,6,1,0,0,0,0,0,0,NA,NA,NA,0,1,to 3b,soft,ground ball,0,NA,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2
+home,Morris,3,1,2,1,1,1,0,1,4,1,0,0,0,0,0,0,NA,NA,NA,0,1,to lf,medium,fly ball,0,NA,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3
+home,Govern,4,2,2,2,1,0,1,1,5,1,0,0,0,0,0,0,NA,NA,NA,0,1,to rf,medium,fly ball,0,NA,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1
+home,Pena,5,0,1,0,1,0,0,1,2,1,1,1,1,0,0,0,right field,hard,fly ball,0,0,,,,0,NA,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,NA,NA,NA,A,A1,1,Pena,NA,NA,B,B1
+home,Knernschield,6,0,0,0,0,1,1,1,3,1,0,0,0,0,0,0,NA,NA,NA,0,1,to 1b,soft,fly ball,0,NA,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Pena,NA,NA,B,B1,2,Pena,NA,NA,B,B2
+home,Toppel,7,3,1,4,0,0,1,0,5,0,0,1,0,0,0,0,NA,NA,NA,0,0,,,,0,NA,FALSE,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,2,Pena,NA,NA,B,B2,2,Toppel,NA,NA,B,B2
+home,Sweeney,8,3,1,3,0,0,1,1,5,1,1,1,1,0,0,0,shallow infield,soft,ground ball,1,0,,,,0,NA,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,Toppel,Pena,NA,E,E2,2,Sweeney,Pena,NA,E,E2
+home,Tesmond,9,0,0,0,0,1,0,1,2,1,0,0,0,0,0,0,NA,NA,NA,0,1,to lf,medium,fly ball,0,NA,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,NA,Sweeney,Toppel,G,G2,3,NA,Sweeney,Toppel,G,G3
+home,Kerrigan,1,1,2,1,0,0,2,1,4,1,0,0,0,0,0,0,NA,NA,NA,0,1,to 1b,soft,ground ball,0,NA,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1
+home,Emme,2,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,NA,NA,NA,0,1,to p,soft,ground ball,0,NA,FALSE,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2
+home,Morris,3,1,2,1,0,3,0,0,4,0,0,0,0,0,0,0,NA,NA,NA,0,0,,,,0,NA,FALSE,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3

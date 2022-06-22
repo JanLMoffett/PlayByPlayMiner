@@ -1,0 +1,14 @@
+GameID,PlateAppID,SubType,PlayerOut,PlayerIn,SubbedPos
+2019031901,2019031901Away0406s,def,Ferris,Brian,p
+2019031901,2019031901Away0507s,def,Brian,Blair,p
+2019031901,2019031901Away0605s,def,Blair,Lewis,p
+2019031901,2019031901Away0801s,def,Lewis,Ochsenbein,p
+2019031901,2019031901Home0601s,off,Pinkham,Rumoro,c
+2019031901,2019031901Home0602s,def,Smith,Perkins,p
+2019031901,2019031901Home0701s,off,Oriente,Lavey,2b
+2019031901,2019031901Home0702s,def,NA,Poland,p
+2019031901,2019031901Home0703s,off,Perkins,ERROR: SubUnit.get_players, ts: /  for Perkins.,NA
+2019031901,2019031901Home0801s,off,Britton,Stringer,rf
+2019031901,2019031901Home0901s,def,Lavey,Kirian,p
+2019031901,2019031901Home0902s,def,NA,Poland,2b
+2019031901,2019031901Home0903s,off,Lucio,Lovell,ph

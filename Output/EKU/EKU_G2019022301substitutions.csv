@@ -1,0 +1,23 @@
+GameID,PlateAppID,SubType,PlayerOut,PlayerIn,SubbedPos
+2019022301,2019022301Away0401s,def,Ferris,Labarbera,p
+2019022301,2019022301Away0601s,def,Labarbera,Morris,p
+2019022301,2019022301Away0604s,off,Tunnell,Schreur,ph
+2019022301,2019022301Away0609s,def,Morris,Farley,p
+2019022301,2019022301Away0801s,def,NA,Lucio,3b
+2019022301,2019022301Away0802s,off,Lovell,Thomason,2b
+2019022301,2019022301Away0804s,off,Marshall,Nicastro,ph
+2019022301,2019022301Away0807s,def,Farley,Beavers,p
+2019022301,2019022301Away08011s,def,Beavers,Laster,p
+2019022301,2019022301Away0901s,def,NA,Johnson,lf
+2019022301,2019022301Away0902s,off,Weaver,Abbott,1b
+2019022301,2019022301Away0903s,def,Laster,Ochsenbein,p
+2019022301,2019022301Home0501s,def,Walston,Carpenter,p
+2019022301,2019022301Home0505s,def,NA,ERROR: SubUnit.get_players, ts: ,NA
+2019022301,2019022301Home0601s,def,NA,Schreur,lf
+2019022301,2019022301Home0602s,off,Doherty,Davis,c
+2019022301,2019022301Home0603s,off,Roets,Jamieson,3b
+2019022301,2019022301Home0705s,off,Conklin,Lovell,ph
+2019022301,2019022301Home0707s,def,NA,ERROR: SubUnit.get_players, ts: ,NA
+2019022301,2019022301Home0801s,def,Carpenter,Cordell,p
+2019022301,2019022301Home0807s,off,Howie,Blair,pr
+2019022301,2019022301Home0808s,def,Cordell,Rabb,p

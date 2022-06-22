@@ -1,0 +1,104 @@
+
+xgood
+GameID: TXAM_ABAM_0510201901
+!!!Warning: 'other' value for AUTypes[i]; Out at first reviewed - Call upheld.
+!!!Warning: 'other' value for AUTypes[i]; Texas A&M mound visit.
+!!!Warning: 'other' value for AUTypes[i]; Alabama mound visit.
+*!!!ERROR: BRUnit.get_start_base; SHEWMAKE stole third.
+
+xgood
+GameID: TXAM_ABAM_0511201901
+!!!Warning: 'other' value for AUTypes[i]; Texas A&M mound visit.
+!!!Warning: 'other' value for AUTypes[i]; Asa Lacy ejected for arguing balls & strikes.
+!!!Warning: 'other' value for AUTypes[i]; Alabama mound visit.
+!!!Warning: 'other' value for AUTypes[i]; Force out at first reviewed - Call upheld.
+!!!Warning: 'other' value for AUTypes[i]; Texas A&M mound visit.
+!!!Warning: 'other' value for AUTypes[i]; Caught stealing reviewed - Call upheld.
+
+xgood 
+GameID: TXAM_ABAM_0512201901
+!!!Warning: 'other' value for AUTypes[i]; Alabama mound visit.
+!!!Warning: 'other' value for AUTypes[i]; Texas A&M mound visit.
+!!!ERROR: BRUnit.get_start_base_batbr; Robinson out at first 1b to p (1-1).
+!!!Warning: 'other' value for AUTypes[i]; Texas A&M mound visit.
+!!!ERROR: BRUnit.get_start_base_batbr; SHEWMAKE out at first 1b to p (1-0).
+!!!Warning: 'other' value for AUTypes[i]; Offensive time out - Texas A&M.
+!!!Warning: 'other' value for AUTypes[i]; Play at the plate reviewed - Call of safe confirmed.
+***!!!ERROR: BatUnit.get_batter_name, not in batting order, ts: Game resumed at 5:52 (48 minute rain delay).
+
+xgood
+GameID: TXAM_KENT_0322201901
+
+xgood
+GameID: TXAM_KENT_0323201901
+!!!Warning: 'other' value for AUTypes[i]; No play.
+!!!ERROR: BRUnit.get_start_base_batbr; E. Curtis out at first 1b to p (2-2 KKFBB).
+
+xgood
+GameID: TXAM_KENT_0324201901
+!!!Warning: 'other' value for AUTypes[i]; Ruling of safe on steal of second reviewed, call stands.
+!!!Warning: 'other' value for AUTypes[i]; Play reviewed;
+!!!Warning: 'other' value for AUTypes[i]; Shewmake ruled safe at 3B, call confirmed.
+!!!Warning: 'other' value for AUTypes[i]; Coleman intially ruled out on force at 2B;
+!!!Warning: 'other' value for AUTypes[i]; reviewed, overturned.
+!!!Warning: 'other' value for AUTypes[i]; Ruled strike by leaning into HBP;
+!!!Warning: 'other' value for AUTypes[i]; Reviewed and upheld.
+
+xgood
+GameID: TXAM_LSTU_0405201901
+!!!ERROR: BRUnit.get_start_base_batbr; SHEWMAKE struck out swinging, out at first c to 1b (1-2 SFBFS).
+!!!ERROR: BRUnit.get_start_base_batbr; HOEHNER struck out swinging, out at first c to 1b (0-2 SFS).
+!!!ERROR: BRUnit.get_start_base_batbr; HOEHNER struck out swinging, out at first c to 1b (1-2 SBFFS).
+
+xgood
+GameID: TXAM_LSTU_0406201901
+!!!Warning: 'other' value for AUTypes[i]; Dropped foul ball, E3.
+
+xgood
+GameID: TXAM_LSTU_0406201902
+*!!!ERROR: BRUnit.get_start_base; BLAUM stole third.
+!!!ERROR: BRUnit.get_start_base_batbr; SHEWMAKE out at first 1b to p (1-0 B).
+!!!ERROR: BRUnit.get_start_base_batbr; COLEMAN, T. out at first p to 2b to 1b (2-2 SSBB).
+!!!ERROR: BRUnit.get_start_base_batbr; DELOACH struck out swinging, out at first c to 1b (0-2 SSS).
+
+xgood
+GameID: TXAM_OMSS_0425201901
+!!!Warning: 'other' value for AUTypes[i]; Hit by pitch was reviewed. Call stands.
+*!!!ERROR: BRUnit.get_start_base; C. Gindl advanced to second.
+**!!!ERROR: BRUnit.get_start_base; C. Johnson out at first p to ss to 1b.
+**!!!ERROR: BRUnit.get_start_base; FRIZZELL out at first 1b to 2b to 1b;
+!!!Warning: 'other' value for AUTypes[i]; Play at the plate was reviewed. Call stands.
+
+xgood
+GameID: TXAM_OMSS_0426201901
+*!!!ERROR: BRUnit.get_start_base; C. Gindl scored.
+!!!ERROR: BRUnit.get_start_base_batbr; C. Gindl struck out swinging, out at first c to 1b.
+
+xgood
+GameID: TXAM_OMSS_0427201901
+!!!Warning: 'other' value for AUTypes[i]; Play at second was reviewed. Call overturned.
+!!!Warning: 'other' value for AUTypes[i]; Play at the plate was reviewed. Call overturned.
+*!!!ERROR: BRUnit.get_start_base; J. Hall out at second c to ss, caught stealing.
+!!!Warning: 'other' value for AUTypes[i]; Play at second was reviewed. Call stands.
+
+xgood
+GameID: TXAM_SCAR_0418201901
+!!!Warning: 'other' value for AUTypes[i]; No play.
+*!!!ERROR: BRUnit.get_start_base; WINGATE scored.
+!!!Warning: 'other' value for AUTypes[i]; Carolina is reviewing the out call at first;
+!!!Warning: 'other' value for AUTypes[i]; play is upheld.
+
+xgood
+GameID: TXAM_SCAR_0420201901
+!!!Warning: 'other' value for AUTypes[i]; No play.
+!!!Warning: 'other' value for AUTypes[i]; Carolina reviewed the fair ball on the drop;
+!!!Warning: 'other' value for AUTypes[i]; play was upheld.
+!!!Warning: 'other' value for AUTypes[i]; Carolina is reviewing the call of out at second;
+!!!Warning: 'other' value for AUTypes[i]; play was upheld.
+
+xgood
+GameID: TXAM_SCAR_0420201902
+!!!Warning: 'other' value for AUTypes[i]; No play.
+!!!ERROR: BRUnit.get_start_base_batbr; HOEHNER out at first 1b to p (2-0 BB).
+!!!ERROR: BRUnit.get_start_base_batbr; WALTERS struck out swinging, out at first c to 1b (2-2 BKSBFS).
+!!!ERROR: BRUnit.get_start_base_batbr; SHEWMAKE struck out swinging, out at first c to 1b (1-2 SFBS).

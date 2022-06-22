@@ -1,0 +1,12 @@
+GameID,PlateAppID,SubType,PlayerOut,PlayerIn,SubbedPos
+2019030901,2019030901Away0307s,def,NA,ERROR: SubUnit.get_players, ts: ,NA
+2019030901,2019030901Away0605s,def,Teague,Blair,p
+2019030901,2019030901Away0701s,def,Blair,Lewis,p
+2019030901,2019030901Away0706s,def,Lewis,Laster,p
+2019030901,2019030901Away0801s,off,Lucio,Brewer,rf
+2019030901,2019030901Away0901s,def,Laster,Labarbera,p
+2019030901,2019030901Away0904s,def,Labarbera,Ochsenbein,p
+2019030901,2019030901Home0504s,def,NA,ERROR: SubUnit.get_players, ts: LOVELL, B. struck out swinging.,c
+2019030901,2019030901Home0701s,def,Parr,Puckett,p
+2019030901,2019030901Home0706s,def,Puckett,Fuller,p
+2019030901,2019030901Home0708s,off,Lovell,Lucio,ph

@@ -1,0 +1,125 @@
+
+xgood
+GameID: VAND_ABAM_0419201901
+!!!Warning: 'other' value for AUTypes[i]; Infante originally called safe at 2nd - Call reviewed & overturned.
+!!!ERROR: BRUnit.get_start_base_batbr; Bleday struck out swinging, out at first c to 1b (1-2).
+!!!ERROR: BRUnit.get_start_base_batbr; Holcombe struck out swinging, out at first c to 1b (0-2).
+!!!Warning: 'other' value for AUTypes[i]; Alabama mound visit.
+!!!Warning: 'other' value for AUTypes[i]; Vanderbilt mound visit.
+!!!Warning: 'other' value for AUTypes[i]; Diving catch in center reviewed - Safe call upheld.
+!!!ERROR: BRUnit.get_start_base_batbr; Scott struck out swinging, out at first c to 1b (1-2);
+!!!ERROR: BRUnit.get_start_base_batbr; Bleday struck out swinging, out at first c to 1b (0-2).
+!!!ERROR: BRUnit.get_start_base_batbr; Ras struck out swinging, out at first c to 1b (1-2).
+
+xgood
+GameID: VAND_ABAM_0420201901
+!!!Warning: 'other' value for AUTypes[i]; Alabama mound visit.
+!!!Warning: 'other' value for AUTypes[i]; Vanderbilt mound visit.
+!!!ERROR: BRUnit.get_start_base_batbr; Paul struck out swinging, out at first c to 1b (2-2).
+!!!Warning: 'other' value for AUTypes[i]; Vanderbilt mound visit.
+!!!Warning: 'other' value for AUTypes[i]; Alabama mound visit.
+!!!Warning: 'other' value for AUTypes[i]; Out at first reviewed - Call upheld.
+!!!ERROR: BRUnit.get_start_base_batbr; Duvall out at first p to 2b to 1b (0-0);
+
+xgood
+GameID: VAND_ABAM_0421201901
+!!!Warning: 'other' value for AUTypes[i]; Alabama mound visit.
+!!!ERROR: BRUnit.get_start_base_batbr; Holcombe out at first 1b to p (1-1).
+!!!ERROR: BRUnit.get_start_base_batbr; Bleday out at first 1b to p (3-2).
+!!!ERROR: BRUnit.get_start_base_batbr; Paul struck out swinging, out at first c to 1b (0-2).
+!!!ERROR: BRUnit.get_start_base_batbr; Infante struck out swinging, out at first c to 1b (2-2).
+
+xgood
+GameID: VAND_GEOR_0405201901
+*!!!ERROR: BRUnit.get_start_base; Davis advanced to third on an error by p, failed pickoff attempt.
+!!!ERROR: BRUnit.get_start_base_batbr; Paul struck out, out at first c to 1b.
+**!!!ERROR: BRUnit.get_start_base; Paul out at first p to 3b to 1b.
+!!!ERROR: BRUnit.get_start_base_batbr; Bleday struck out, out at first c to 1b.
+!!!ERROR: BRUnit.get_start_base_batbr; Paul struck out, out at first c to 1b.
+***!!!ERROR: stdz_name, too many spaces
+Invalid Entry: /  for Kristofak
+***Error: Subunit.get_hole; Name not found in batting orders
+!!!Warning: 'other' value for AUTypes[i]; Martin groundout Under Review. Ruling Upheld. Out.
+*!!!ERROR: BRUnit.get_start_base; Gonzalez advanced to third on a wild pitch.
+
+xgood
+GameID: VAND_GEOR_0406201901
+!!!Warning: 'other' value for AUTypes[i]; Force out at 2nd Under Review. Ruling Upheled, Out.
+*!!!ERROR: BRUnit.get_start_base; Minter out at second p to 1b to ss, picked off, caught stealing.
+!!!Warning: 'other' value for AUTypes[i]; Double Play at 2nd Under Review. Call Upheld. Out.
+
+xgood
+GameID: VAND_GEOR_0407201901
+!!!Warning: 'other' value for AUTypes[i]; Cable 2B if it was caught by LF under review. Upheld. Safe.
+!!!ERROR: BRUnit.get_start_base_batbr; Marshall struck out, out at first c to 1b (1-2 BSSFS).
+
+xgood
+GameID: VAND_KENT_0516201901
+!!!Warning: 'other' value for AUTypes[i]; Hill ruled out on leaning into pitch, reviewed, overturned to HBP.
+!!!ERROR: BRUnit.get_start_base_batbr; C. Kessler struck out swinging, out at first c to 1b (1-2 KSFB).
+!!!Warning: 'other' value for AUTypes[i]; Call of force out at 2B reviewed, confirmed.
+!!!ERROR: BRUnit.get_start_base_batbr; D. Reed struck out swinging, out at first c to 1b (0-2 KF).
+!!!ERROR: BRUnit.get_start_base_batbr; Bleday out at first 1b to p (1-0 B).
+!!!Warning: 'other' value for AUTypes[i]; Ruling of HBP on Rodriguez reviewed, confirmed.
+!!!Warning: 'other' value for AUTypes[i]; Weather delay at 9:16 pm ET.
+!!!Warning: 'other' value for AUTypes[i]; Game resumes at 11:20 pm ET, delay of 2:04.
+*!!!ERROR: BRUnit.get_start_base; Fentress advanced to second on an error by p, failed pickoff attempt.
+*!!!ERROR: BRUnit.get_start_base; Paul advanced to third.
+!!!Warning: 'other' value for AUTypes[i]; Review of out call at 1B, confirmed.
+
+xgood
+GameID: VAND_KENT_0517201901
+!!!ERROR: BRUnit.get_start_base_batbr; Z. Lewis struck out swinging, out at first c to 1b (0-2 KF).
+!!!ERROR: BRUnit.get_start_base_batbr; DeMarco struck out swinging, out at first c to 1b (1-2 KKBFFF).
+***!!!ERROR: stdz_name, too many spaces
+Invalid Entry: Attendance of 4,491 is fourth-largest in school history
+
+xgood
+GameID: VAND_KENT_0518201901
+!!!ERROR: BRUnit.get_start_base_batbr; C. Kessler out at first 1b to p (2-2 KBFB).
+!!!Warning: 'other' value for AUTypes[i]; Ruling of caught stealing reviewed, confirmed.
+!!!ERROR: BRUnit.get_start_base_batbr; R. Shinn struck out swinging, out at first c to 1b (0-2 KS).
+
+xgood
+GameID: VAND_SCAR_0503201901
+!!!Warning: 'other' value for AUTypes[i]; No play.
+!!!ERROR: BRUnit.get_start_base_batbr; Callil out at first 1b to 2b, SAC, bunt (1-1 FB);
+*!!!ERROR: BRUnit.get_start_base; Infante advanced to third on a wild pitch;
+*!!!ERROR: BRUnit.get_start_base; Duvall scored on a wild pitch.
+*!!!ERROR: BRUnit.get_start_base; Scott stole third.
+*!!!ERROR: BRUnit.get_start_base; Ray advanced to third on a wild pitch.
+***!!!ERROR: BatUnit.get_batter_name, not in batting order, ts: Beamon walked (3-0 BBBB).
+***!!!ERROR: BatUnit.get_batter_name, not in batting order, ts: English walked (3-0 BBBB).
+***!!!ERROR: BatUnit.get_batter_name, not in batting order, ts: Beamon struck out swinging (2-2 KBSBS).
+
+xgood
+GameID: VAND_SCAR_0505201901
+!!!Warning: 'other' value for AUTypes[i]; No play.
+!!!ERROR: BRUnit.get_start_base_batbr; Campbell struck out swinging, out at first c to 1b (1-2 BFFFS).
+*!!!ERROR: BRUnit.get_start_base; Martin stole third.
+!!!ERROR: BRUnit.get_start_base_batbr; Callil struck out swinging, out at first c to 1b (2-2 BKBFFFFS).
+*!!!ERROR: BRUnit.get_start_base; Grisanti advanced to second.
+
+xgood
+GameID: VAND_SCAR_0505201902
+!!!Warning: 'other' value for AUTypes[i]; No play.
+!!!Warning: 'other' value for AUTypes[i]; Carolina challenged the call of home run;
+!!!Warning: 'other' value for AUTypes[i]; play was upheld.
+*!!!ERROR: BRUnit.get_start_base; English advanced to second;
+!!!Warning: 'other' value for AUTypes[i]; Carolina is reviewing the call of safe at first;
+!!!Warning: 'other' value for AUTypes[i]; the play stands.
+
+xgood
+GameID: VAND_TXAM_0315201901
+*!!!ERROR: BRUnit.get_start_base; PAUL advanced to third on a wild pitch;
+*!!!ERROR: BRUnit.get_start_base; CLARKE scored on a wild pitch.
+!!!ERROR: BRUnit.get_start_base_batbr; PAUL struck out swinging, out at first c to 1b (2-2 KBKBS).
+
+xgood
+GameID: VAND_TXAM_0316201901
+!!!ERROR: BRUnit.get_start_base_batbr; DELOACH out at first 1b to 2b to p (3-2 BBBKKF).
+
+xgood
+GameID: VAND_TXAM_0317201901
+!!!ERROR: BRUnit.get_start_base_batbr; CLARKE out at first 1b to p (0-0).
+!!!ERROR: BRUnit.get_start_base_batbr; PAUL out at first 1b to p (2-2 KSBB).

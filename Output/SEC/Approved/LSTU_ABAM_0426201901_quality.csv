@@ -1,0 +1,111 @@
+GameID,PlateAppID,AUType,AUString,startOuts,startOnFirst,startOnSecond,startOnThird,startBaseState,startBaseOutState,endOuts,endOnFirst,endOnSecond,endOnThird,endBaseState,endBaseOutState,RPrime
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA01AWAY01,bat,Smith struck out swinging (1-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA01AWAY02,bat,Watson flied out to rf (0-1).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA01AWAY03,bat,Duplantis flied out to cf (1-2).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA02HOME01,bat,Holcombe lined out to cf (0-0).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA02HOME02,bat,Reeves homered to left field  RBI (1-0).,1,NA,NA,NA,A,A1,1,NA,NA,NA,A,A1,1
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA02HOME03,bat,McCullough flied out to cf to right center (2-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA02HOME04,bat,Gentry homered to left field  RBI (1-2).,2,NA,NA,NA,A,A2,2,NA,NA,NA,A,A2,1
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA02HOME05,batbr,Williamson out at first 1b to p (0-0).,2,NA,NA,NA,A,A2,2,NA,NA,NA,A,A2,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA02HOME05,batbr,Williamson out at first 1b to p (0-0).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA03AWAY01,bat,Reid flied out to cf to right center (2-1).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA03AWAY02,bat,Cabrera struck out swinging (1-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA03AWAY03,bat,Willis struck out swinging (2-2).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA04HOME01,bat,Auerbach doubled to left center (3-1).,0,NA,NA,NA,A,A0,0,NA,Auerbach,NA,C,C0,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA04HOME02,bat,Breaux singled to third base  bunt (0-0);,0,NA,Auerbach,NA,C,C0,0,Breaux,Auerbach,NA,E,E0,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA04HOME02,br,Auerbach advanced to third.,0,NA,Auerbach,NA,C,C0,0,Breaux,NA,Auerbach,F,F0,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA04HOME03,bat,Robinson hit by pitch (0-0);,0,Breaux,NA,Auerbach,F,F0,0,Robinson,NA,Auerbach,F,F0,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA04HOME03,br,Breaux advanced to second.,0,Breaux,NA,Auerbach,F,F0,0,Robinson,Breaux,Auerbach,H,H0,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA04HOME04,other,LSU mound visit.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA04HOME05,bat,Trousdale flied out to rf  SF  RBI (0-0);,0,Robinson,Breaux,Auerbach,H,H0,1,Robinson,Breaux,Auerbach,H,H1,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA04HOME05,br,Breaux advanced to third;,0,Robinson,Breaux,Auerbach,H,H0,1,Robinson,NA,Breaux,F,F1,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA04HOME05,br,Auerbach scored.,0,Robinson,Breaux,Auerbach,H,H0,1,Robinson,NA,Breaux,F,F1,1
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA04HOME06,bat,Holcombe struck out swinging (1-2);,1,Robinson,NA,Breaux,F,F1,2,Robinson,NA,Breaux,F,F2,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA04HOME06,br,Robinson stole second.,1,Robinson,NA,Breaux,F,F1,2,NA,Robinson,Breaux,G,G2,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA04HOME07,bat,Reeves struck out swinging (1-2).,2,NA,Robinson,Breaux,G,G2,3,NA,Robinson,Breaux,G,G3,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA05AWAY01,bat,Beloso singled to center field (2-2).,0,NA,NA,NA,A,A0,0,Beloso,NA,NA,B,B0,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA05AWAY02,bat,Broussard struck out looking (1-2).,0,Beloso,NA,NA,B,B0,1,Beloso,NA,NA,B,B1,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA05AWAY03,bat,Garza flied out to rf (0-1).,1,Beloso,NA,NA,B,B1,2,Beloso,NA,NA,B,B2,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA05AWAY04,bat,Smith singled up the middle (2-1);,2,Beloso,NA,NA,B,B2,2,Smith,NA,NA,B,B2,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA05AWAY04,br,Beloso advanced to second.,2,Beloso,NA,NA,B,B2,2,Smith,Beloso,NA,E,E2,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA05AWAY05,bat,Watson flied out to cf (0-1).,2,Smith,Beloso,NA,E,E2,3,Smith,Beloso,NA,E,E3,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA06HOME01,bat,McCullough singled to right field (2-1).,0,NA,NA,NA,A,A0,0,Mccullough,NA,NA,B,B0,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA06HOME02,bat,"Gentry reached on a fielders choice to third base (2-0);,0,Mccullough,NA,NA,B,B0,0,Gentry,NA,NA,B,B0,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA06HOME02,br,McCullough out at second 3b to 2b.",0,Mccullough,NA,NA,B,B0,1,Gentry,NA,NA,B,B1,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA06HOME03,other,Originally ruled a double play reviewed - Call overturned.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA06HOME04,br,Gentry advanced to second on a wild pitch.,1,Gentry,NA,NA,B,B1,1,NA,Gentry,NA,C,C1,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA06HOME05,bat,Williamson struck out swinging (2-2).,1,NA,Gentry,NA,C,C1,2,NA,Gentry,NA,C,C2,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA06HOME06,bat,Auerbach singled to right center  RBI (3-2);,2,NA,Gentry,NA,C,C2,2,Auerbach,Gentry,NA,E,E2,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA06HOME06,br,Gentry scored.,2,NA,Gentry,NA,C,C2,2,Auerbach,NA,NA,B,B2,1
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA06HOME07,bat,Breaux grounded out to 2b (1-1).,2,Auerbach,NA,NA,B,B2,3,Auerbach,NA,NA,B,B3,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA07AWAY01,bat,Duplantis flied out to rf (3-1).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA07AWAY02,bat,Reid grounded out to 2b (2-0).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA07AWAY03,bat,Cabrera grounded out to 1b unassisted (0-0).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA08HOME01,bat,Robinson flied out to cf (3-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA08HOME02,bat,Trousdale walked (3-2).,1,NA,NA,NA,A,A1,1,Trousdale,NA,NA,B,B1,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA08HOME03,bat,Holcombe struck out swinging (3-2);,1,Trousdale,NA,NA,B,B1,2,Trousdale,NA,NA,B,B2,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA08HOME03,br,Trousdale stole second.,1,Trousdale,NA,NA,B,B1,2,NA,Trousdale,NA,C,C2,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA08HOME04,bat,Reeves grounded out to 3b (2-1).,2,NA,Trousdale,NA,C,C2,3,NA,Trousdale,NA,C,C3,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA09AWAY01,bat,Willis struck out swinging (1-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA09AWAY02,bat,Beloso singled to right center (3-1).,1,NA,NA,NA,A,A1,1,Beloso,NA,NA,B,B1,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA09AWAY03,bat,"Broussard reached on a fielders choice to pitcher (1-1);,1,Beloso,NA,NA,B,B1,1,Broussard,NA,NA,B,B1,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA09AWAY03,br,Beloso out at second p to ss.",1,Beloso,NA,NA,B,B1,2,Broussard,NA,NA,B,B2,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA09AWAY04,bat,Garza doubled to left field (2-0);,2,Broussard,NA,NA,B,B2,2,Broussard,Garza,NA,E,E2,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA09AWAY04,br,Broussard advanced to third.,2,Broussard,NA,NA,B,B2,2,NA,Garza,Broussard,G,G2,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA09AWAY05,bat,Smith grounded out to 1b unassisted (1-2).,2,NA,Garza,Broussard,G,G2,3,NA,Garza,Broussard,G,G3,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA10HOME01,bat,McCullough singled to left field (0-1).,0,NA,NA,NA,A,A0,0,Mccullough,NA,NA,B,B0,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA10HOME02,bat,Gentry struck out swinging (0-2).,0,Mccullough,NA,NA,B,B0,1,Mccullough,NA,NA,B,B1,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA10HOME03,bat,Williamson singled to right center (2-0);,1,Mccullough,NA,NA,B,B1,1,Williamson,NA,NA,B,B1,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA10HOME03,br,McCullough advanced to second.,1,Mccullough,NA,NA,B,B1,1,Williamson,Mccullough,NA,E,E1,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA10HOME04,sub,George to p for Hess.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA10HOME05,bat,Auerbach singled to right field (2-1);,1,Williamson,Mccullough,NA,E,E1,1,Auerbach,Mccullough,NA,E,E1,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA10HOME05,br,Williamson advanced to second;,1,Williamson,Mccullough,NA,E,E1,1,Auerbach,Williamson,NA,E,E1,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA10HOME05,br,McCullough advanced to third.,1,Williamson,Mccullough,NA,E,E1,1,Auerbach,Williamson,Mccullough,H,H1,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA10HOME06,bat,"Breaux reached on a fielders choice to second base  RBI (3-2);,1,Auerbach,Williamson,Mccullough,H,H1,1,Breaux,Williamson,Mccullough,H,H1,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA10HOME06,br,Auerbach out at second 2b to ss;,1,Auerbach,Williamson,Mccullough,H,H1,2,Breaux,Williamson,Mccullough,H,H2,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA10HOME06,br,Williamson advanced to third;,1,Auerbach,Williamson,Mccullough,H,H1,2,Breaux,NA,Williamson,F,F2,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA10HOME06,br,McCullough scored.",1,Auerbach,Williamson,Mccullough,H,H1,2,Breaux,NA,Williamson,F,F2,1
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA10HOME07,bat,Robinson grounded out to ss (0-0).,2,Breaux,NA,Williamson,F,F2,3,Breaux,NA,Williamson,F,F3,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA11AWAY01,bat,Watson walked (3-2).,0,NA,NA,NA,A,A0,0,Watson,NA,NA,B,B0,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA11AWAY02,bat,"Duplantis reached on a fielders choice to second base (1-2);,0,Watson,NA,NA,B,B0,0,Duplantis,NA,NA,B,B0,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA11AWAY02,br,Watson out at second 2b to ss.",0,Watson,NA,NA,B,B0,1,Duplantis,NA,NA,B,B1,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA11AWAY03,bat,Reid singled through the right side (2-1);,1,Duplantis,NA,NA,B,B1,1,Reid,NA,NA,B,B1,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA11AWAY03,br,Duplantis advanced to second.,1,Duplantis,NA,NA,B,B1,1,Reid,Duplantis,NA,E,E1,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA11AWAY04,bat,Cabrera struck out looking (0-2).,1,Reid,Duplantis,NA,E,E1,2,Reid,Duplantis,NA,E,E2,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA11AWAY05,sub,Dugas pinch hit for Willis.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA11AWAY06,bat,Dugas grounded out to 3b (0-1).,2,Reid,Duplantis,NA,E,E2,3,Reid,Duplantis,NA,E,E3,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA12HOME01,sub,Hilliard to p for George.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA12HOME02,bat,Trousdale flied out to lf (0-1).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA12HOME03,bat,Holcombe struck out swinging (2-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA12HOME04,bat,Reeves struck out looking (0-2).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA13AWAY01,sub,Lee to p for Finnerty.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA13AWAY02,bat,Beloso lined out to 1b (1-0).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA13AWAY03,sub,DiGiacomo pinch hit for Broussard.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA13AWAY04,bat,DiGiacomo grounded out to 2b (2-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA13AWAY05,bat,Garza struck out looking (3-2).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA14HOME01,sub,Dugas to dh.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA14HOME02,sub,Hughes to 2b for DiGiacomo.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA14HOME03,bat,McCullough grounded out to 2b (2-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA14HOME04,bat,Gentry flied out to cf (3-1).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA14HOME05,bat,Williamson walked (3-2).,2,NA,NA,NA,A,A2,2,Williamson,NA,NA,B,B2,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA14HOME06,br,Williamson advanced to second on a wild pitch.,2,Williamson,NA,NA,B,B2,2,NA,Williamson,NA,C,C2,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA14HOME07,bat,Auerbach doubled down the lf line  RBI (3-2);,2,NA,Williamson,NA,C,C2,2,NA,Auerbach,NA,C,C2,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA14HOME07,br,Williamson scored.,2,NA,Williamson,NA,C,C2,2,NA,Auerbach,NA,C,C2,1
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA14HOME08,bat,Breaux hit by pitch (0-0).,2,NA,Auerbach,NA,C,C2,2,Breaux,Auerbach,NA,E,E2,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA14HOME09,bat,Robinson popped up to 2b (0-1).,2,Breaux,Auerbach,NA,E,E2,3,Breaux,Auerbach,NA,E,E3,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA15AWAY01,bat,Smith struck out looking (2-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA15AWAY02,bat,Watson lined out to cf (2-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA15AWAY03,bat,Duplantis singled up the middle (1-0).,2,NA,NA,NA,A,A2,2,Duplantis,NA,NA,B,B2,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA15AWAY04,sub,Guffey to p for Lee.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA15AWAY05,bat,Reid struck out looking (1-2).,2,Duplantis,NA,NA,B,B2,3,Duplantis,NA,NA,B,B3,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA16HOME01,bat,Trousdale grounded out to 2b (1-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA16HOME02,bat,Holcombe struck out swinging (0-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA16HOME03,bat,Reeves struck out looking (1-2).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA17AWAY01,bat,Cabrera singled to second base (0-0).,0,NA,NA,NA,A,A0,0,Cabrera,NA,NA,B,B0,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA17AWAY02,bat,Dugas struck out looking (0-2).,0,Cabrera,NA,NA,B,B0,1,Cabrera,NA,NA,B,B1,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA17AWAY03,bat,Beloso struck out swinging (1-2).,1,Cabrera,NA,NA,B,B1,2,Cabrera,NA,NA,B,B2,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA17AWAY04,sub,Bianco pinch hit for Hughes.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA17AWAY05,br,Cabrera advanced to second on a wild pitch.,2,Cabrera,NA,NA,B,B2,2,NA,Cabrera,NA,C,C2,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA17AWAY06,bat,Bianco doubled down the lf line  RBI (2-1);,2,NA,Cabrera,NA,C,C2,2,NA,Bianco,NA,C,C2,0
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA17AWAY06,br,Cabrera scored.,2,NA,Cabrera,NA,C,C2,2,NA,Bianco,NA,C,C2,1
+LSTU_ABAM_0426201901,LSTU_ABAM_0426201901_PA17AWAY07,bat,Garza flied out to rf (1-1).,2,NA,Bianco,NA,C,C2,3,NA,Bianco,NA,C,C3,0

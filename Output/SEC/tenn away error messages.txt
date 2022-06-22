@@ -1,0 +1,103 @@
+
+xgood
+GameID: TENN_ARKS_0426201901
+!!!ERROR: BRUnit.get_start_base_batbr; AMMONS struck out swinging, out at first c to 1b (0-2 KSS).
+!!!ERROR: BRUnit.get_start_base_batbr; D. Fletcher out at first 1b to p (3-2 BKBBKF).
+
+
+xgood
+GameID: TENN_ARKS_0428201901
+!!!ERROR: BRUnit.get_start_base_batbr; T. Ezell struck out swinging, out at first c to 1b (1-2 FKBFS).
+!!!ERROR: BRUnit.get_start_base_batbr; DERKAY out at first 1b to p (2-2 BBKK).
+!!!ERROR: BRUnit.get_start_base_batbr; SOULARIE, A. struck out swinging, out at first c to 1b (1-2 KBSS).
+!!!ERROR: BRUnit.get_start_base_batbr; J. Nesbit struck out swinging, out at first c to 1b (2-2 SBFBS).
+!!!ERROR: BRUnit.get_start_base_batbr; J. Nesbit struck out swinging, out at first c to 1b (3-2 BBKSFFBS).
+!!!ERROR: BRUnit.get_start_base_batbr; GRAY, L. out at first 1b to 2b, SAC, bunt (0-0);
+*!!!ERROR: BRUnit.get_start_base; C Washington advanced to second.
+
+xgood
+GameID: TENN_AUBN_0315201901
+!!!ERROR: BRUnit.get_start_base_batbr; Howell, K. struck out swinging, out at first c to 1b (1-2 BSKK).
+*!!!ERROR: BRUnit.get_start_base; Howell, K. scored, unearned.
+*!!!ERROR: BRUnit.get_start_base; Eaton, J. stole second.
+
+xgood
+GameID: TENN_AUBN_0316201901
+!!!ERROR: BRUnit.get_start_base_batbr; RUCKER, J. struck out swinging, out at first c to 1b (0-2 FKS).
+!!!Warning: 'other' value for AUTypes[i]; "Fielders choice, 5-4 putout to end the 5th was reviewed: overturned."
+!!!ERROR: BRUnit.get_start_base_batbr; MARTINEZ, R. out at first 1b to p (0-1 F).
+!!!Warning: 'other' value for AUTypes[i]; 643 GDP in eighth inning was reviewed (tag): upheld.
+
+xgood
+GameID: TENN_AUBN_0317201901
+!!!ERROR: BRUnit.get_start_base_batbr; Julien, E. out at first 1b to p (0-1 K).
+*!!!ERROR: BRUnit.get_start_base; SOULARIE, A. scored on an error by c, unearned.
+!!!Warning: 'other' value for AUTypes[i]; Kason Howell HBP in bottom of the 5th reviewed: upheld.
+!!!Warning: 'other' value for AUTypes[i]; E5 in bottom 6th was reviewed: upheld.
+!!!ERROR: BRUnit.get_start_base_batbr; Davis, Co. out at first 1b to p (1-0 B).
+!!!Warning: 'other' value for AUTypes[i]; Double play to end bottom 7th was reviewed: upheld.
+!!!Warning: 'other' value for AUTypes[i]; Soularie touching first base on the HR in the 8th was reviewed: upheld.
+*!!!ERROR: BRUnit.get_start_base; CHARLESTON stole third.
+
+xgood
+GameID: TENN_FLOR_0510201901
+!!!Warning: 'other' value for AUTypes[i]; Play on 2nd base called safe under review. Play stands.
+!!!ERROR: BRUnit.get_start_base_batbr; Fabian struck out swinging, out at first c to 1b (2-2 BKKBS).
+!!!Warning: 'other' value for AUTypes[i]; Stolen base under review. Play stands.
+
+xgood
+GameID: TENN_FLOR_0511201901
+!!!ERROR: BRUnit.get_start_base_batbr; AMMONS struck out swinging, out at first c to 1b (0-2 KFS).
+*!!!ERROR: BRUnit.get_start_base; AMMONS advanced to third on a wild pitch.
+*!!!ERROR: BRUnit.get_start_base; SOULARIE, A. advanced to third on a passed ball.
+
+xgood
+GameID: TENN_FLOR_0512201901
+!!!Warning: 'other' value for AUTypes[i]; Play on first base under review. Called reversed.
+!!!ERROR: BRUnit.get_start_base_batbr; Langworthy out at first 1b to p (3-1 BBFB).
+!!!ERROR: BRUnit.get_start_base_batbr; Calilao struck out swinging, out at first c to 1b (2-2 BFSBS).
+*!!!ERROR: BRUnit.get_start_base; AMMONS stole third.
+!!!ERROR: BRUnit.get_start_base_batbr; CHARLESTON out at first p to 2b to 1b, RBI (0-0);
+!!!ERROR: BRUnit.get_start_base_batbr; RUCKER, J. out at first p to 2b, SAC, bunt (0-1 F);
+!!!Warning: 'other' value for AUTypes[i]; /  for Butler.
+!!!ERROR: BRUnit.get_start_base_batbr; Acton out at first 1b to p (3-2 BFBFB).
+
+xgood
+GameID: TENN_KENT_0418201901
+**!!!ERROR: BRUnit.get_start_base; A. Schultz out at first 1b to p.
+**!!!ERROR: BRUnit.get_start_base; C. Kessler out at first 1b to p.
+!!!ERROR: BRUnit.get_start_base_batbr; LIPCIUS, A. struck out swinging, out at first c to 1b.
+*!!!ERROR: BRUnit.get_start_base; R. Ellington advanced to second on a wild pitch.
+
+xgood
+GameID: TENN_KENT_0419201901
+*!!!ERROR: BRUnit.get_start_base; LIPCIUS, A. advanced to third;
+*!!!ERROR: BRUnit.get_start_base; FERGUSON, M. scored on a wild pitch.
+!!!ERROR: BRUnit.get_start_base_batbr; AMMONS out at first p to 2b to 1b (1-1 BK);
+*!!!ERROR: BRUnit.get_start_base; AMMONS advanced to third.
+**!!!ERROR: BatUnit.get_batter_name, not in batting order, ts: Rain Delay lasted one hour and 28 minutes. (10:52 pm restart).
+*!!!ERROR: BRUnit.get_start_base; MARTINEZ, R. advanced to third.
+!!!ERROR: BRUnit.get_start_base_batbr; C. Kessler out at first 1b to p (0-0).
+
+xgood
+GameID: TENN_KENT_0420201901
+*!!!ERROR: BRUnit.get_start_base; DERKAY scored;
+*!!!ERROR: BRUnit.get_start_base; RUCKER, J. scored, unearned;
+
+xgood
+GameID: TENN_VAND_0329201901
+*!!!ERROR: BRUnit.get_start_base; RUSSELL, E. advanced to third on a wild pitch.
+
+good
+GameID: TENN_VAND_0330201901
+!!!ERROR: BRUnit.get_start_base_batbr; AMMONS out at first 1b to p (1-1 FB);
+!!!Warning: 'other' value for AUTypes[i]; Official review: Initial call (43 GO) overturned.
+!!!ERROR: BRUnit.get_start_base_batbr; Paul out at first p to ss to 1b (2-2 SBBFF).
+
+*fix
+GameID: TENN_VAND_0331201901
+!!!ERROR: BRUnit.get_start_base_batbr; Infante struck out swinging, out at first c to 1b (1-2 FBSS).
+!!!ERROR: BRUnit.get_start_base_batbr; GRAY, L. struck out swinging, out at first c to 1b (0-2 FKS).
+!!!ERROR: BRUnit.get_start_base_batbr; AMMONS struck out swinging, out at first c to 1b (1-2 BKSS).
+!!!ERROR: BRUnit.get_start_base_batbr; FERGUSON, M. out at first 1b to p (3-2 KBFBB).
+*!!!ERROR: BRUnit.get_start_base; Grisanti advanced to third, out at home lf to ss to c.

@@ -1,0 +1,162 @@
+GameID,PlateAppID,AUType,AUString,startOuts,startOnFirst,startOnSecond,startOnThird,startBaseState,startBaseOutState,endOuts,endOnFirst,endOnSecond,endOnThird,endBaseState,endBaseOutState,RPrime
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA01AWAY01,bat,Smith struck out looking (3-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA01AWAY02,bat,Watson singled to shortstop (1-1).,1,NA,NA,NA,A,A1,1,Watson,NA,NA,B,B1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA01AWAY03,batbr,Duplantis reached on an error by lf advanced to second (0-0);,1,Watson,NA,NA,B,B1,1,Duplantis,NA,NA,B,B1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA01AWAY03,batbr,Duplantis reached on an error by lf advanced to second (0-0);,1,Watson,NA,NA,B,B1,1,NA,Duplantis,NA,C,C1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA01AWAY03,br,Watson advanced to third.,1,Watson,NA,NA,B,B1,1,NA,Duplantis,Watson,G,G1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA01AWAY04,bat,Reid doubled to left field  2 RBI (0-0);,1,NA,Duplantis,Watson,G,G1,1,NA,Reid,Watson,G,G1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA01AWAY04,br,Duplantis scored unearned;,1,NA,Duplantis,Watson,G,G1,1,NA,Reid,Watson,G,G1,1
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA01AWAY04,br,Watson scored unearned.,1,NA,Duplantis,Watson,G,G1,1,NA,Reid,NA,C,C1,1
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA01AWAY05,bat,Cabrera grounded out to 1b unassisted (0-1);,1,NA,Reid,NA,C,C1,2,NA,Reid,NA,C,C2,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA01AWAY05,br,Reid advanced to third.,1,NA,Reid,NA,C,C1,2,NA,NA,Reid,D,D2,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA01AWAY06,bat,Broussard singled to center field  RBI (1-1);,2,NA,NA,Reid,D,D2,2,Broussard,NA,Reid,F,F2,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA01AWAY06,br,Reid scored unearned.,2,NA,NA,Reid,D,D2,2,Broussard,NA,NA,B,B2,1
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA01AWAY07,br,Broussard out at second p to 1b to ss caught stealing.,2,Broussard,NA,NA,B,B2,3,NA,NA,NA,A,A3,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA02HOME01,bat,Holt hit by pitch (0-1).,0,NA,NA,NA,A,A0,0,Holt,NA,NA,B,B0,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA02HOME02,bat,Cornelius walked (3-2);,0,Holt,NA,NA,B,B0,0,Cornelius,NA,NA,B,B0,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA02HOME02,br,Holt advanced to second.,0,Holt,NA,NA,B,B0,0,Cornelius,Holt,NA,E,E0,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA02HOME03,sub,Hilliard to p for Hess.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA02HOME04,bat,Misner walked (3-2);,0,Cornelius,Holt,NA,E,E0,0,Misner,Holt,NA,E,E0,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA02HOME04,br,Cornelius advanced to second;,0,Cornelius,Holt,NA,E,E0,0,Misner,Cornelius,NA,E,E0,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA02HOME04,br,Holt advanced to third.,0,Cornelius,Holt,NA,E,E0,0,Misner,Cornelius,Holt,H,H0,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA02HOME05,bat,Zimmermann singled to left field  2 RBI (2-1);,0,Misner,Cornelius,Holt,H,H0,0,Zimmermann,Cornelius,Holt,H,H0,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA02HOME05,br,Misner advanced to second;,0,Misner,Cornelius,Holt,H,H0,0,Zimmermann,Misner,Holt,H,H0,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA02HOME05,br,Cornelius scored;,0,Misner,Cornelius,Holt,H,H0,0,Zimmermann,Misner,Holt,H,H0,1
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA02HOME05,br,Holt scored.,0,Misner,Cornelius,Holt,H,H0,0,Zimmermann,Misner,NA,E,E0,1
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA02HOME06,br,Zimmermann advanced to second;,0,Zimmermann,Misner,NA,E,E0,0,NA,Zimmermann,NA,C,C0,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA02HOME06,br,Misner advanced to third on a wild pitch.,0,Zimmermann,Misner,NA,E,E0,0,NA,Zimmermann,Misner,G,G0,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA02HOME07,bat,McDaniel walked (3-2).,0,NA,Zimmermann,Misner,G,G0,0,Mcdaniel,Zimmermann,Misner,H,H0,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA02HOME08,br,McDaniel advanced to second;,0,Mcdaniel,Zimmermann,Misner,H,H0,0,NA,Mcdaniel,Misner,G,G0,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA02HOME08,br,Zimmermann advanced to third;,0,Mcdaniel,Zimmermann,Misner,H,H0,0,NA,Mcdaniel,Zimmermann,G,G0,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA02HOME08,br,Misner scored on a wild pitch.,0,Mcdaniel,Zimmermann,Misner,H,H0,0,NA,Mcdaniel,Zimmermann,G,G0,1
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA02HOME09,bat,Broyles singled to second base  2 RBI (2-2);,0,NA,Mcdaniel,Zimmermann,G,G0,0,Broyles,Mcdaniel,Zimmermann,H,H0,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA02HOME09,br,McDaniel scored;,0,NA,Mcdaniel,Zimmermann,G,G0,0,Broyles,NA,Zimmermann,F,F0,1
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA02HOME09,br,Zimmermann scored.,0,NA,Mcdaniel,Zimmermann,G,G0,0,Broyles,NA,NA,B,B0,1
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA02HOME10,br,Broyles stole second.,0,Broyles,NA,NA,B,B0,0,NA,Broyles,NA,C,C0,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA02HOME11,br,Broyles advanced to third on a wild pitch scored.,0,NA,Broyles,NA,C,C0,0,NA,NA,Broyles,D,D0,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA02HOME12,bat,James singled to shortstop (1-2).,0,NA,NA,Broyles,D,D0,0,James,NA,Broyles,F,F0,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA02HOME13,bat,Ortiz grounded out to 3b  SAC (0-1);,0,James,NA,Broyles,F,F0,1,James,NA,Broyles,F,F1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA02HOME13,br,James advanced to second.,0,James,NA,Broyles,F,F0,1,NA,James,Broyles,G,G1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA02HOME14,bat,Gomez walked (3-2).,1,NA,James,Broyles,G,G1,1,Gomez,James,Broyles,H,H1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA02HOME15,bat,Holt popped up to ss (0-1).,1,Gomez,James,Broyles,H,H1,2,Gomez,James,Broyles,H,H2,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA02HOME16,br,Gomez stole second;,2,Gomez,James,Broyles,H,H2,2,NA,Gomez,Broyles,G,G2,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA02HOME16,br,James stole third.,2,Gomez,James,Broyles,H,H2,2,NA,Gomez,James,G,G2,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA02HOME17,bat,Cornelius flied out to cf (2-0).,2,NA,Gomez,James,G,G2,3,NA,Gomez,James,G,G3,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA03AWAY01,sub,Brumfield to lf for Holt.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA03AWAY02,bat,Beloso grounded out to 2b (2-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA03AWAY03,bat,Hughes grounded out to 3b (2-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA03AWAY04,bat,Mathis struck out swinging (1-2).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA04HOME01,bat,Misner flied out to lf (2-1).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA04HOME02,bat,Zimmermann grounded out to ss (0-1).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA04HOME03,bat,McDaniel struck out looking (2-2).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA05AWAY01,bat,Smith walked (3-2).,0,NA,NA,NA,A,A0,0,Smith,NA,NA,B,B0,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA05AWAY02,bat,"Watson reached on a fielders choice (0-1);,0,Smith,NA,NA,B,B0,0,Watson,NA,NA,B,B0,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA05AWAY02,br,Smith out on the play out at second 3b to 2b.",0,Smith,NA,NA,B,B0,1,Watson,NA,NA,B,B1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA05AWAY03,bat,Duplantis singled to center field (1-0);,1,Watson,NA,NA,B,B1,1,Duplantis,NA,NA,B,B1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA05AWAY03,br,Watson advanced to second.,1,Watson,NA,NA,B,B1,1,Duplantis,Watson,NA,E,E1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA05AWAY04,bat,Reid walked (3-2);,1,Duplantis,Watson,NA,E,E1,1,Reid,Watson,NA,E,E1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA05AWAY04,br,Duplantis advanced to second;,1,Duplantis,Watson,NA,E,E1,1,Reid,Duplantis,NA,E,E1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA05AWAY04,br,Watson advanced to third.,1,Duplantis,Watson,NA,E,E1,1,Reid,Duplantis,Watson,H,H1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA05AWAY05,bat,Cabrera singled to shortstop  RBI (0-1);,1,Reid,Duplantis,Watson,H,H1,1,Cabrera,Duplantis,Watson,H,H1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA05AWAY05,br,Reid advanced to second;,1,Reid,Duplantis,Watson,H,H1,1,Cabrera,Reid,Watson,H,H1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA05AWAY05,br,Duplantis advanced to third;,1,Reid,Duplantis,Watson,H,H1,1,Cabrera,Reid,Duplantis,H,H1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA05AWAY05,br,Watson scored.,1,Reid,Duplantis,Watson,H,H1,1,Cabrera,Reid,Duplantis,H,H1,1
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA05AWAY06,bat,Broussard doubled to left field  2 RBI (1-1);,1,Cabrera,Reid,Duplantis,H,H1,1,Cabrera,Broussard,Duplantis,H,H1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA05AWAY06,br,Cabrera advanced to third;,1,Cabrera,Reid,Duplantis,H,H1,1,NA,Broussard,Cabrera,G,G1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA05AWAY06,br,Reid scored;,1,Cabrera,Reid,Duplantis,H,H1,1,NA,Broussard,Cabrera,G,G1,1
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA05AWAY06,br,Duplantis scored.,1,Cabrera,Reid,Duplantis,H,H1,1,NA,Broussard,Cabrera,G,G1,1
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA05AWAY07,bat,Beloso doubled to right field  2 RBI (0-0);,1,NA,Broussard,Cabrera,G,G1,1,NA,Beloso,Cabrera,G,G1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA05AWAY07,br,Broussard scored;,1,NA,Broussard,Cabrera,G,G1,1,NA,Beloso,Cabrera,G,G1,1
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA05AWAY07,br,Cabrera scored.,1,NA,Broussard,Cabrera,G,G1,1,NA,Beloso,NA,C,C1,1
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA05AWAY08,bat,Hughes flied out to rf (1-1).,1,NA,Beloso,NA,C,C1,2,NA,Beloso,NA,C,C2,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA05AWAY09,bat,Mathis struck out swinging (2-2).,2,NA,Beloso,NA,C,C2,3,NA,Beloso,NA,C,C3,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA06HOME01,bat,Broyles fouled out to 3b (3-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA06HOME02,bat,James struck out swinging (2-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA06HOME03,bat,Ortiz doubled to left field (0-0).,2,NA,NA,NA,A,A2,2,NA,Ortiz,NA,C,C2,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA06HOME04,bat,Gomez struck out looking (1-2).,2,NA,Ortiz,NA,C,C2,3,NA,Ortiz,NA,C,C3,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA07AWAY01,bat,Smith hit by pitch (0-1).,0,NA,NA,NA,A,A0,0,Smith,NA,NA,B,B0,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA07AWAY02,bat,Watson homered to right field  2 RBI (1-0);,0,Smith,NA,NA,B,B0,0,NA,NA,NA,A,A0,1
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA07AWAY02,br,Smith scored.,0,Smith,NA,NA,B,B0,0,NA,NA,NA,A,A0,1
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA07AWAY03,bat,Duplantis hit by pitch (0-0).,0,NA,NA,NA,A,A0,0,Duplantis,NA,NA,B,B0,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA07AWAY04,sub,Ash to p for Cantleberry.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA07AWAY05,bat,Reid walked (3-1);,0,Duplantis,NA,NA,B,B0,0,Reid,NA,NA,B,B0,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA07AWAY05,br,Duplantis advanced to second.,0,Duplantis,NA,NA,B,B0,0,Reid,Duplantis,NA,E,E0,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA07AWAY06,bat,Cabrera struck out swinging (1-2).,0,Reid,Duplantis,NA,E,E0,1,Reid,Duplantis,NA,E,E1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA07AWAY07,bat,Broussard flied out to rf (0-1);,1,Reid,Duplantis,NA,E,E1,2,Reid,Duplantis,NA,E,E2,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA07AWAY07,br,Duplantis advanced to third.,1,Reid,Duplantis,NA,E,E1,2,Reid,NA,Duplantis,F,F2,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA07AWAY08,bat,Beloso singled to center field  RBI (1-0);,2,Reid,NA,Duplantis,F,F2,2,Beloso,NA,Duplantis,F,F2,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA07AWAY08,br,Reid advanced to third;,2,Reid,NA,Duplantis,F,F2,2,Beloso,NA,Reid,F,F2,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA07AWAY08,br,Duplantis scored.,2,Reid,NA,Duplantis,F,F2,2,Beloso,NA,Reid,F,F2,1
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA07AWAY09,batbr,Hughes struck out swinging out at first c to 1b (3-2).,2,Beloso,NA,Reid,F,F2,3,Beloso,NA,Reid,F,F3,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA07AWAY09,batbr,Hughes struck out swinging out at first c to 1b (3-2).,2,Beloso,NA,Reid,F,F2,3,Beloso,NA,Reid,F,F3,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA08HOME01,bat,Brumfield struck out swinging (1-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA08HOME02,bat,Cornelius singled to center field (1-0).,1,NA,NA,NA,A,A1,1,Cornelius,NA,NA,B,B1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA08HOME03,bat,Misner struck out swinging (0-2).,1,Cornelius,NA,NA,B,B1,2,Cornelius,NA,NA,B,B2,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA08HOME04,bat,Zimmermann grounded out to 3b (3-2).,2,Cornelius,NA,NA,B,B2,3,Cornelius,NA,NA,B,B3,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA09AWAY01,bat,Mathis struck out swinging (0-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA09AWAY02,bat,Smith fouled out to 3b.,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA09AWAY03,bat,Watson reached on an error by ss (2-1).,2,NA,NA,NA,A,A2,2,Watson,NA,NA,B,B2,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA09AWAY04,bat,Duplantis singled to right field (1-0);,2,Watson,NA,NA,B,B2,2,Duplantis,NA,NA,B,B2,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA09AWAY04,br,Watson advanced to third.,2,Watson,NA,NA,B,B2,2,Duplantis,NA,Watson,F,F2,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA09AWAY05,bat,Reid grounded out to ss (0-0).,2,Duplantis,NA,Watson,F,F2,3,Duplantis,NA,Watson,F,F3,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA10HOME01,bat,McDaniel singled to right field (0-0).,0,NA,NA,NA,A,A0,0,Mcdaniel,NA,NA,B,B0,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA10HOME02,br,McDaniel stole second.,0,Mcdaniel,NA,NA,B,B0,0,NA,Mcdaniel,NA,C,C0,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA10HOME03,bat,Broyles singled to left field (1-1);,0,NA,Mcdaniel,NA,C,C0,0,Broyles,Mcdaniel,NA,E,E0,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA10HOME03,br,McDaniel advanced to third.,0,NA,Mcdaniel,NA,C,C0,0,Broyles,NA,Mcdaniel,F,F0,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA10HOME04,br,Broyles stole second;,0,Broyles,NA,Mcdaniel,F,F0,0,NA,Broyles,Mcdaniel,G,G0,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA10HOME04,br,McDaniel scored on a wild pitch.,0,Broyles,NA,Mcdaniel,F,F0,0,NA,Broyles,NA,C,C0,1
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA10HOME05,bat,James flied out to rf (2-2);,0,NA,Broyles,NA,C,C0,1,NA,Broyles,NA,C,C1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA10HOME05,br,Broyles advanced to third.,0,NA,Broyles,NA,C,C0,1,NA,NA,Broyles,D,D1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA10HOME06,sub,Vietmeier to p for Hilliard.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA10HOME07,bat,Ortiz grounded out to 1b unassisted  SAC  RBI (0-0);,1,NA,NA,Broyles,D,D1,2,NA,NA,Broyles,D,D2,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA10HOME07,br,Broyles scored.,1,NA,NA,Broyles,D,D1,2,NA,NA,NA,A,A2,1
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA10HOME08,bat,Gomez struck out swinging (2-2).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA11AWAY01,bat,Cabrera struck out looking (2-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA11AWAY02,bat,Broussard flied out to rf (3-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA11AWAY03,bat,Beloso flied out to rf (1-1).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA12HOME01,bat,Brumfield singled to right field (0-2).,0,NA,NA,NA,A,A0,0,Brumfield,NA,NA,B,B0,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA12HOME02,bat,Cornelius grounded out to c (0-0);,0,Brumfield,NA,NA,B,B0,1,Brumfield,NA,NA,B,B1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA12HOME02,br,Brumfield advanced to second.,0,Brumfield,NA,NA,B,B0,1,NA,Brumfield,NA,C,C1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA12HOME03,bat,Misner walked (3-2).,1,NA,Brumfield,NA,C,C1,1,Misner,Brumfield,NA,E,E1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA12HOME04,bat,Zimmermann popped up to ss (1-0).,1,Misner,Brumfield,NA,E,E1,2,Misner,Brumfield,NA,E,E2,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA12HOME05,bat,McDaniel homered to right field  3 RBI (0-1);,2,Misner,Brumfield,NA,E,E2,2,NA,NA,NA,A,A2,1
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA12HOME05,br,Misner scored;,2,Misner,Brumfield,NA,E,E2,2,NA,NA,NA,A,A2,1
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA12HOME05,br,Brumfield scored.,2,Misner,Brumfield,NA,E,E2,2,NA,NA,NA,A,A2,1
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA12HOME06,bat,Broyles grounded out to p (2-2).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA13AWAY01,bat,Hughes flied out to rf (1-1).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA13AWAY02,bat,Mathis popped up to 3b (1-0).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA13AWAY03,bat,Smith lined out to ss (3-2).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA14HOME01,sub,Peterson to p for Vietmeier.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA14HOME02,bat,James grounded out to ss (0-0).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA14HOME03,bat,Ortiz struck out swinging (1-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA14HOME04,bat,Gomez struck out swinging (2-2).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA15AWAY01,bat,Watson grounded out to ss (0-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA15AWAY02,bat,Duplantis flied out to cf (0-0).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA15AWAY03,bat,Reid walked (3-2).,2,NA,NA,NA,A,A2,2,Reid,NA,NA,B,B2,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA15AWAY04,bat,Cabrera struck out swinging (3-2).,2,Reid,NA,NA,B,B2,3,Reid,NA,NA,B,B3,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA16HOME01,sub,DiGiacomo to cf for Watson.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA16HOME02,bat,Brumfield struck out swinging (0-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA16HOME03,bat,Cornelius struck out looking (2-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA16HOME04,bat,Misner grounded out to ss (0-2).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA17AWAY01,sub,Gubelman to p for Ash.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA17AWAY02,bat,Broussard popped up to 2b (2-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA17AWAY03,bat,Beloso singled to center field (0-2).,1,NA,NA,NA,A,A1,1,Beloso,NA,NA,B,B1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA17AWAY04,bat,Hughes struck out swinging (3-2);,1,Beloso,NA,NA,B,B1,2,Beloso,NA,NA,B,B2,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA17AWAY04,br,Beloso out at second c to 2b caught stealing.,1,Beloso,NA,NA,B,B1,3,NA,NA,NA,A,A3,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA18HOME01,bat,Zimmermann grounded out to ss (0-0).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA18HOME02,bat,McDaniel grounded out to 2b (3-1).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA18HOME03,batbr,Broyles struck out swinging out at first c to 1b (0-2).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA18HOME03,batbr,Broyles struck out swinging out at first c to 1b (0-2).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA19AWAY01,bat,Mathis struck out looking (0-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA19AWAY02,bat,Smith singled to center field (2-2).,1,NA,NA,NA,A,A1,1,Smith,NA,NA,B,B1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA19AWAY03,bat,DiGiacomo singled to right field (1-1);,1,Smith,NA,NA,B,B1,1,Digiacomo,NA,NA,B,B1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA19AWAY03,br,Smith advanced to third.,1,Smith,NA,NA,B,B1,1,Digiacomo,NA,Smith,F,F1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA19AWAY04,bat,"Duplantis reached on a fielders choice  RBI (1-1);,1,Digiacomo,NA,Smith,F,F1,1,Duplantis,NA,Smith,F,F1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA19AWAY04,br,DiGiacomo advanced to second;,1,Digiacomo,NA,Smith,F,F1,1,Duplantis,Digiacomo,Smith,H,H1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA19AWAY04,br,Smith scored.",1,Digiacomo,NA,Smith,F,F1,1,Duplantis,Digiacomo,NA,E,E1,1
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA19AWAY05,bat,Reid grounded into double play p to ss to 1b (2-1);,1,Duplantis,Digiacomo,NA,E,E1,2,Duplantis,Digiacomo,NA,E,E2,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA19AWAY05,br,Duplantis out on the play.,1,Duplantis,Digiacomo,NA,E,E1,3,NA,Digiacomo,NA,C,C3,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA20HOME01,sub,Fontenot to p for Peterson.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA20HOME02,bat,James grounded out to 2b (2-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA20HOME03,bat,Ortiz grounded out to p (1-1).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+LSTU_MIZZ_0412201901,LSTU_MIZZ_0412201901_PA20HOME04,bat,Gomez grounded out to 3b (0-1).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0

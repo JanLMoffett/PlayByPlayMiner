@@ -1,0 +1,99 @@
+GameID,PlateAppID,AUType,AUString,startOuts,startOnFirst,startOnSecond,startOnThird,startBaseState,startBaseOutState,endOuts,endOnFirst,endOnSecond,endOnThird,endBaseState,endBaseOutState,RPrime
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA01AWAY01,bat,A. Servideo grounded out to 2b (3-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA01AWAY02,bat,G. Kessinger singled to center field (2-0).,1,NA,NA,NA,A,A1,1,Kessinger,NA,NA,B,B1,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA01AWAY03,bat,T. Keenan singled to right field (1-2);,1,Kessinger,NA,NA,B,B1,1,Keenan,NA,NA,B,B1,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA01AWAY03,br,G. Kessinger advanced to third.,1,Kessinger,NA,NA,B,B1,1,Keenan,NA,Kessinger,F,F1,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA01AWAY04,bat,T. Dillard struck out looking (2-2).,1,Keenan,NA,Kessinger,F,F1,2,Keenan,NA,Kessinger,F,F2,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA01AWAY05,bat,R. Olenek grounded out to p (0-1).,2,Keenan,NA,Kessinger,F,F2,3,Keenan,NA,Kessinger,F,F3,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA02HOME01,bat,Holt struck out swinging (2-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA02HOME02,bat,Misner struck out looking (3-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA02HOME03,bat,Zimmermann singled to right field (1-1).,2,NA,NA,NA,A,A2,2,Zimmermann,NA,NA,B,B2,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA02HOME04,bat,Cornelius singled to left field (1-1);,2,Zimmermann,NA,NA,B,B2,2,Cornelius,NA,NA,B,B2,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA02HOME04,br,Zimmermann advanced to second.,2,Zimmermann,NA,NA,B,B2,2,Cornelius,Zimmermann,NA,E,E2,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA02HOME05,bat,McDaniel reached on an error by ss (3-1);,2,Cornelius,Zimmermann,NA,E,E2,2,Mcdaniel,Zimmermann,NA,E,E2,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA02HOME05,br,Cornelius advanced to third;,2,Cornelius,Zimmermann,NA,E,E2,2,Mcdaniel,Zimmermann,Cornelius,H,H2,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA02HOME05,br,Zimmermann scored unearned.,2,Cornelius,Zimmermann,NA,E,E2,2,Mcdaniel,NA,Cornelius,F,F2,1
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA02HOME06,bat,Vierling grounded out to 2b (0-1).,2,Mcdaniel,NA,Cornelius,F,F2,3,Mcdaniel,NA,Cornelius,F,F3,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA03AWAY01,batbr,C. Zabowski struck out swinging out at first c to 1b (0-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA03AWAY01,batbr,C. Zabowski struck out swinging out at first c to 1b (0-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA03AWAY02,bat,C. Johnson struck out swinging (3-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA03AWAY03,bat,K. Loposer flied out to cf (2-2).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA04HOME01,bat,Ortiz flied out to cf (2-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA04HOME02,bat,Gomez grounded out to 3b (2-1).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA04HOME03,bat,C. Peterson singled to shortstop (2-1).,2,NA,NA,NA,A,A2,2,Peterson,NA,NA,B,B2,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA04HOME04,bat,Holt singled to right field (3-2);,2,Peterson,NA,NA,B,B2,2,Holt,NA,NA,B,B2,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA04HOME04,br,C. Peterson advanced to third out on the play out at home rf to 2b to c.,2,Peterson,NA,NA,B,B2,3,Holt,NA,NA,B,B3,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA05AWAY01,bat,J. Adams grounded out to 2b (1-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA05AWAY02,bat,A. Servideo flied out to lf (2-1).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA05AWAY03,bat,G. Kessinger struck out swinging (2-2).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA06HOME01,bat,Misner singled to right field (1-2).,0,NA,NA,NA,A,A0,0,Misner,NA,NA,B,B0,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA06HOME02,bat,Zimmermann struck out swinging (2-2).,0,Misner,NA,NA,B,B0,1,Misner,NA,NA,B,B1,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA06HOME03,bat,Cornelius grounded into double play 2b to ss to 1b (0-2);,1,Misner,NA,NA,B,B1,2,Misner,NA,NA,B,B2,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA06HOME03,br,Misner out on the play.,1,Misner,NA,NA,B,B1,3,NA,NA,NA,A,A3,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA07AWAY01,batbr,T. Keenan singled out on the play out at second rf to ss (3-1).,0,NA,NA,NA,A,A0,0,Keenan,NA,NA,B,B0,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA07AWAY01,batbr,T. Keenan singled out on the play out at second rf to ss (3-1).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA07AWAY02,bat,T. Dillard grounded out to ss (1-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA07AWAY03,bat,R. Olenek flied out to cf (0-1).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA08HOME01,bat,McDaniel grounded out to 2b (0-0).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA08HOME02,bat,Vierling grounded out to ss (1-0).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA08HOME03,bat,Ortiz struck out looking (1-2).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA09AWAY01,bat,C. Zabowski singled to right field (2-2).,0,NA,NA,NA,A,A0,0,Zabowski,NA,NA,B,B0,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA09AWAY02,br,C. Zabowski advanced to second on a wild pitch.,0,Zabowski,NA,NA,B,B0,0,NA,Zabowski,NA,C,C0,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA09AWAY03,bat,C. Johnson reached on a fielding error by p  SAC (1-1);,0,NA,Zabowski,NA,C,C0,0,Johnson,Zabowski,NA,E,E0,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA09AWAY03,br,C. Zabowski advanced to third.,0,NA,Zabowski,NA,C,C0,0,Johnson,NA,Zabowski,F,F0,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA09AWAY04,bat,K. Loposer singled to right field  RBI (0-2);,0,Johnson,NA,Zabowski,F,F0,0,Loposer,NA,Zabowski,F,F0,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA09AWAY04,br,C. Johnson advanced to second;,0,Johnson,NA,Zabowski,F,F0,0,Loposer,Johnson,Zabowski,H,H0,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA09AWAY04,br,C. Zabowski scored.,0,Johnson,NA,Zabowski,F,F0,0,Loposer,Johnson,NA,E,E0,1
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA09AWAY05,bat,"J. Adams reached on a fielders choice  SAC  bunt (0-0);,0,Loposer,Johnson,NA,E,E0,0,Adams,Johnson,NA,E,E0,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA09AWAY05,br,K. Loposer advanced to second;,0,Loposer,Johnson,NA,E,E0,0,Adams,Loposer,NA,E,E0,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA09AWAY05,br,C. Johnson advanced to third.",0,Loposer,Johnson,NA,E,E0,0,Adams,Loposer,Johnson,H,H0,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA09AWAY06,bat,A. Servideo struck out swinging (1-2).,0,Adams,Loposer,Johnson,H,H0,1,Adams,Loposer,Johnson,H,H1,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA09AWAY07,bat,G. Kessinger grounded into double play 2b to ss to 1b (2-2);,1,Adams,Loposer,Johnson,H,H1,2,Adams,Loposer,Johnson,H,H2,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA09AWAY07,br,J. Adams out on the play.,1,Adams,Loposer,Johnson,H,H1,3,NA,Loposer,Johnson,G,G3,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA10HOME01,bat,Gomez singled to left field (3-2).,0,NA,NA,NA,A,A0,0,Gomez,NA,NA,B,B0,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA10HOME02,bat,C. Peterson grounded out to p  SAC (0-2);,0,Gomez,NA,NA,B,B0,1,Gomez,NA,NA,B,B1,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA10HOME02,br,Gomez advanced to second.,0,Gomez,NA,NA,B,B0,1,NA,Gomez,NA,C,C1,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA10HOME03,bat,Holt doubled to right field  RBI (1-2);,1,NA,Gomez,NA,C,C1,1,NA,Holt,NA,C,C1,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA10HOME03,br,Gomez scored.,1,NA,Gomez,NA,C,C1,1,NA,Holt,NA,C,C1,1
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA10HOME04,bat,Misner intentionally walked (0-0).,1,NA,Holt,NA,C,C1,1,Misner,Holt,NA,E,E1,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA10HOME05,bat,Zimmermann struck out swinging (1-2).,1,Misner,Holt,NA,E,E1,2,Misner,Holt,NA,E,E2,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA10HOME06,bat,Cornelius grounded out to 2b (0-0).,2,Misner,Holt,NA,E,E2,3,Misner,Holt,NA,E,E3,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA11AWAY01,bat,T. Keenan struck out looking (1-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA11AWAY02,bat,T. Dillard struck out swinging (2-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA11AWAY03,bat,R. Olenek singled to pitcher (0-1).,2,NA,NA,NA,A,A2,2,Olenek,NA,NA,B,B2,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA11AWAY04,br,R. Olenek out at second c to ss caught stealing.,2,Olenek,NA,NA,B,B2,3,NA,NA,NA,A,A3,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA12HOME01,bat,McDaniel grounded out to 3b (1-0).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA12HOME02,bat,Vierling walked (3-1).,1,NA,NA,NA,A,A1,1,Vierling,NA,NA,B,B1,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA12HOME03,bat,Ortiz singled to first base (1-0);,1,Vierling,NA,NA,B,B1,1,Ortiz,NA,NA,B,B1,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA12HOME03,br,Vierling advanced to second.,1,Vierling,NA,NA,B,B1,1,Ortiz,Vierling,NA,E,E1,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA12HOME04,bat,Gomez flied out to cf (0-0).,1,Ortiz,Vierling,NA,E,E1,2,Ortiz,Vierling,NA,E,E2,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA12HOME05,sub,A. Miller to p for W. Ethridge.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA12HOME06,batbr,C. Peterson struck out swinging out at first c to 1b (1-2).,2,Ortiz,Vierling,NA,E,E2,3,Ortiz,Vierling,NA,E,E3,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA12HOME06,batbr,C. Peterson struck out swinging out at first c to 1b (1-2).,2,Ortiz,Vierling,NA,E,E2,3,Ortiz,Vierling,NA,E,E3,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA13AWAY01,bat,C. Zabowski struck out swinging (1-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA13AWAY02,bat,C. Johnson walked (3-0).,1,NA,NA,NA,A,A1,1,Johnson,NA,NA,B,B1,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA13AWAY03,sub,Gubelman to p for Cantleberry.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA13AWAY04,bat,K. Loposer grounded out to ss (0-2);,1,Johnson,NA,NA,B,B1,2,Johnson,NA,NA,B,B2,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA13AWAY04,br,C. Johnson advanced to second.,1,Johnson,NA,NA,B,B1,2,NA,Johnson,NA,C,C2,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA13AWAY05,bat,J. Adams struck out swinging (3-2).,2,NA,Johnson,NA,C,C2,3,NA,Johnson,NA,C,C3,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA14HOME01,bat,Holt struck out  reached first on a wild pitch (2-2).,0,NA,NA,NA,A,A0,0,Holt,NA,NA,B,B0,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA14HOME02,bat,Misner flied out to cf (1-1).,0,Holt,NA,NA,B,B0,1,Holt,NA,NA,B,B1,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA14HOME03,bat,Zimmermann flied out to rf (1-1).,1,Holt,NA,NA,B,B1,2,Holt,NA,NA,B,B2,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA14HOME04,bat,Cornelius singled to right field (3-1);,2,Holt,NA,NA,B,B2,2,Cornelius,NA,NA,B,B2,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA14HOME04,br,Holt advanced to second out on the play out at third rf to 3b.,2,Holt,NA,NA,B,B2,3,Cornelius,NA,NA,B,B3,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA15AWAY01,bat,A. Servideo grounded out to ss (1-0).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA15AWAY02,bat,G. Kessinger grounded out to 3b (2-1).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA15AWAY03,bat,T. Keenan grounded out to p (2-1).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA16HOME01,bat,McDaniel walked (3-1).,0,NA,NA,NA,A,A0,0,Mcdaniel,NA,NA,B,B0,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA16HOME02,bat,Vierling flied out to rf (0-2).,0,Mcdaniel,NA,NA,B,B0,1,Mcdaniel,NA,NA,B,B1,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA16HOME03,br,McDaniel stole second advanced to third on an error by c.,1,Mcdaniel,NA,NA,B,B1,1,NA,NA,Mcdaniel,D,D1,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA16HOME04,bat,Ortiz flied out to cf (2-2).,1,NA,NA,Mcdaniel,D,D1,2,NA,NA,Mcdaniel,D,D2,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA16HOME05,bat,Gomez struck out looking (2-2).,2,NA,NA,Mcdaniel,D,D2,3,NA,NA,Mcdaniel,D,D3,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA17AWAY01,bat,T. Dillard grounded out to ss (2-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA17AWAY02,bat,R. Olenek singled to left field (1-2).,1,NA,NA,NA,A,A1,1,Olenek,NA,NA,B,B1,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA17AWAY03,sub,J. Hall pinch ran for R. Olenek.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA17AWAY04,sub,Dulle to p for Gubelman.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA17AWAY05,br,J. Hall stole second.,1,Olenek,NA,NA,B,B1,1,Olenek,Hall,NA,E,E1,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA17AWAY06,sub,A. Peterson to lf for Holt.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA17AWAY07,bat,C. Zabowski struck out swinging (2-2).,1,Olenek,Hall,NA,E,E1,2,Olenek,Hall,NA,E,E2,0
+OMSS_MIZZ_0322201901,OMSS_MIZZ_0322201901_PA17AWAY08,bat,C. Johnson lined out to 3b (0-0).,2,Olenek,Hall,NA,E,E2,3,Olenek,Hall,NA,E,E3,0

@@ -1,0 +1,13 @@
+GameID,PlateAppID,HomeAway,RunnerName,Hole,Action,StartBase,EndBase,BasesAdded,SB,SBA,OutsAdded,Fielder1,Fielder2,RunsAdded,PO,POA,WP,PB,AOE,bostartOuts,bostartOnFirst,bostartOnSecond,bostartOnThird,bostartBaseState,bostartBaseOutState,boendOuts,boendOnFirst,boendOnSecond,boendOnThird,boendBaseState,boendBaseOutState
+2019030201,2019030201Away0203b,away,Vaccaro,5,out,1,0,-1,0,0,1,NA,NA,0,0,0,0,0,0,1,Vaccaro,NA,NA,B,B1,3,Vaccaro,NA,NA,B,B3
+2019030201,2019030201Away0302b,away,NA,0,advanced,2,2,0,0,0,0,NA,NA,0,0,0,0,0,1,1,NA,NA,NA,A,A1,1,ERROR: name not in batting order, ts: Komonosky singled to third base, advanced to second on a throwing error by 3b (2-2 BSKB).,NA,NA,B,B1
+2019030201,2019030201Away0303b,away,NA,0,advanced,2,3,1,0,0,0,NA,NA,0,0,0,0,0,0,1,ERROR: name not in batting order, ts: Komonosky singled to third base, advanced to second on a throwing error by 3b (2-2 BSKB).,NA,NA,B,B1,1,Troyer,NA,NA,B,B1
+2019030201,2019030201Away0303b,away,Troyer,9,out,0,0,0,0,0,2,p,1b,0,1,1,0,0,0,1,ERROR: name not in batting order, ts: Komonosky singled to third base, advanced to second on a throwing error by 3b (2-2 BSKB).,NA,NA,B,B1,3,Troyer,NA,NA,B,B3
+2019030201,2019030201Home0102b,home,Kerr,1,advanced,1,2,1,0,0,0,NA,NA,0,0,0,0,0,0,0,Kerr,NA,NA,B,B0,1,Kerr,Kerr,NA,E,E1
+2019030201,2019030201Home0403b,home,Johnson,4,scored,3,4,1,0,0,0,NA,NA,1,0,0,0,0,0,1,NA,NA,Johnson,D,D1,1,Lovell,NA,Johnson,F,F1
+2019030201,2019030201Home0404b,home,Lovell,5,out,1,0,-1,0,0,1,p,ss,0,0,0,0,0,0,1,Lovell,NA,Johnson,F,F1,2,Harris,NA,Johnson,F,F2
+2019030201,2019030201Home0405b,home,Harris,6,out,1,0,-1,0,0,1,2b unassiste,RR,0,0,0,0,0,0,2,Harris,NA,Johnson,F,F2,3,Brewer,NA,Johnson,F,F3
+2019030201,2019030201Home0603b,home,Howie,3,out,1,0,-1,0,0,1,NA,NA,0,0,0,0,0,0,0,Howie,NA,NA,B,B0,2,Howie,NA,NA,B,B2
+2019030201,2019030201Home0804b,home,Kerr,1,scored,1,4,3,0,0,0,NA,NA,1,0,0,0,0,0,1,Kerr,NA,NA,B,B1,1,Kerr,Lewis,NA,E,E1
+2019030201,2019030201Home0804b,home,Lewis,2,stole,0,3,3,1,1,0,NA,NA,0,0,0,0,0,0,1,Kerr,NA,NA,B,B1,1,Kerr,Lewis,Lewis,H,H1
+2019030201,2019030201Home0806b,home,Johnson,4,stole,0,2,2,1,1,0,NA,NA,0,0,0,0,0,0,2,Kerr,Lewis,Lewis,H,H2,2,Johnson,Johnson,Lewis,H,H2

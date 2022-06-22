@@ -1,0 +1,41 @@
+GameID,PlateAppID,HomeAway,RunnerName,Hole,Action,StartBase,EndBase,BasesAdded,SB,SBA,OutsAdded,Fielder1,Fielder2,RunsAdded,PO,POA,WP,PB,AOE,bostartOuts,bostartOnFirst,bostartOnSecond,bostartOnThird,bostartBaseState,bostartBaseOutState,boendOuts,boendOnFirst,boendOnSecond,boendOnThird,boendBaseState,boendBaseOutState
+2019022201,2019022201Away0503b,away,Smith,4,advanced,1,2,1,0,0,0,NA,NA,0,0,0,0,0,0,1,Smith,NA,NA,B,B1,1,Doherty,Smith,NA,E,E1
+2019022201,2019022201Away0505b,away,Doherty,6,advanced,1,2,1,0,0,0,NA,NA,0,0,0,0,0,0,1,Doherty,Smith,NA,E,E1,1,Hoskins,Doherty,NA,E,E1
+2019022201,2019022201Away0505b,away,Allen,4,advanced,0,3,3,0,0,0,NA,NA,0,0,0,0,0,0,1,Doherty,Smith,NA,E,E1,1,Hoskins,Doherty,Allen,H,H1
+2019022201,2019022201Away0505b,away,Hoskins,7,advanced,0,2,2,0,0,0,NA,NA,0,0,0,0,0,0,1,Doherty,Smith,NA,E,E1,1,Hoskins,Hoskins,Allen,H,H1
+2019022201,2019022201Away0505b,away,Doherty,6,advanced,1,3,2,0,0,0,NA,NA,0,0,0,0,0,0,1,Doherty,Smith,NA,E,E1,1,Hoskins,Hoskins,Doherty,H,H1
+2019022201,2019022201Away0505b,away,Allen,4,out,0,0,0,0,1,2,c,3b,0,0,0,0,0,0,1,Doherty,Smith,NA,E,E1,3,Hoskins,Hoskins,Doherty,H,H3
+2019022201,2019022201Away0806b,away,Roets,8,advanced,1,2,1,0,0,0,NA,NA,0,0,0,0,0,0,1,Roets,NA,NA,B,B1,1,Schreur,Roets,NA,E,E1
+2019022201,2019022201Away0807b,away,Schreur,1,stole,1,2,1,1,1,0,NA,NA,0,0,0,0,0,0,1,Schreur,Roets,NA,E,E1,2,Schreur,Schreur,NA,E,E2
+2019022201,2019022201Away0807b,away,Roets,8,stole,2,3,1,1,1,0,NA,NA,0,0,0,0,0,0,1,Schreur,Roets,NA,E,E1,2,Schreur,Schreur,Roets,H,H2
+2019022201,2019022201Away0809b,away,Hancock,3,advanced,0,2,2,0,0,0,NA,NA,0,0,0,0,1,0,2,Schreur,Schreur,Roets,H,H2,2,Hancock,Hancock,Roets,H,H2
+2019022201,2019022201Away0809b,away,Schreur,1,advanced,1,3,2,0,0,0,NA,NA,0,0,0,0,1,0,2,Schreur,Schreur,Roets,H,H2,2,Hancock,Hancock,Schreur,H,H2
+2019022201,2019022201Away0809b,away,Roets,8,scored,3,4,1,0,0,0,NA,NA,1,0,0,0,0,0,2,Schreur,Schreur,Roets,H,H2,2,Hancock,Hancock,Schreur,H,H2
+2019022201,2019022201Home0103b,home,Kerr,2,advanced,2,3,1,0,0,0,NA,NA,0,0,0,0,0,0,1,NA,Kerr,NA,C,C1,1,Howie,Kerr,Kerr,H,H1
+2019022201,2019022201Home0105b,home,Howie,3,advanced,1,2,1,0,0,0,NA,NA,0,0,0,0,0,0,2,Howie,Kerr,Kerr,H,H2,2,Harris,Howie,Kerr,H,H2
+2019022201,2019022201Home0301b,home,Kerr,2,advanced,0,2,2,0,0,0,NA,NA,0,0,0,1,0,0,0,NA,NA,NA,A,A0,0,Kerr,Kerr,NA,E,E0
+2019022201,2019022201Home0301b,home,Kerr,2,stole,0,3,3,1,1,0,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,A,A0,0,Kerr,Kerr,Kerr,H,H0
+2019022201,2019022201Home0302b,home,Kerr,2,scored,1,4,3,0,0,0,NA,NA,1,0,0,0,0,0,0,Kerr,Kerr,Kerr,H,H0,0,Kerr,Howie,Kerr,H,H0
+2019022201,2019022201Home0303b,home,Johnson,4,stole,0,2,2,1,1,0,NA,NA,0,0,0,0,0,0,0,Kerr,Howie,Kerr,H,H0,0,Johnson,Johnson,Kerr,H,H0
+2019022201,2019022201Home0303b,home,Howie,3,stole,2,3,1,1,1,0,NA,NA,0,0,0,0,0,0,0,Kerr,Howie,Kerr,H,H0,0,Johnson,Johnson,Howie,H,H0
+2019022201,2019022201Home0403b,home,Botsoe,9,stole,0,2,2,1,1,0,NA,NA,0,0,0,0,0,0,1,NA,NA,NA,A,A1,1,Botsoe,Botsoe,NA,E,E1
+2019022201,2019022201Home0501b,home,Howie,3,out,0,0,0,0,1,2,c,2b,0,0,0,0,0,0,0,NA,NA,NA,A,A0,2,Howie,NA,NA,B,B2
+2019022201,2019022201Home0505b,home,Johnson,4,advanced,1,2,1,0,0,0,NA,NA,0,0,0,0,0,0,3,Johnson,NA,NA,B,B3,3,Thomason,Johnson,NA,E,E3
+2019022201,2019022201Home0506b,home,Thomason,6,advanced,1,2,1,0,0,0,NA,NA,0,0,0,0,0,0,3,Thomason,Johnson,NA,E,E3,3,Lewis,Thomason,NA,E,E3
+2019022201,2019022201Home0506b,home,Johnson,4,advanced,2,3,1,0,0,0,NA,NA,0,0,0,0,0,0,3,Thomason,Johnson,NA,E,E3,3,Lewis,Thomason,Johnson,H,H3
+2019022201,2019022201Home0506b,home,Lewis,7,advanced,0,2,2,0,0,0,NA,NA,0,0,0,1,0,0,3,Thomason,Johnson,NA,E,E3,3,Lewis,Lewis,Johnson,H,H3
+2019022201,2019022201Home0506b,home,Thomason,6,advanced,1,3,2,0,0,0,NA,NA,0,0,0,1,0,0,3,Thomason,Johnson,NA,E,E3,3,Lewis,Lewis,Thomason,H,H3
+2019022201,2019022201Home0506b,home,Johnson,4,scored,2,4,2,0,0,0,NA,NA,1,0,0,0,0,0,3,Thomason,Johnson,NA,E,E3,3,Lewis,Lewis,Thomason,H,H3
+2019022201,2019022201Home0703b,home,Brewer,3,advanced,0,2,2,0,0,0,NA,NA,0,0,0,0,0,0,0,Howie,NA,NA,B,B0,0,Johnson,Brewer,NA,E,E0
+2019022201,2019022201Home0705b,home,Johnson,4,advanced,1,2,1,0,0,0,NA,NA,0,0,0,0,0,0,0,Johnson,Brewer,NA,E,E0,0,Harris,Johnson,NA,E,E0
+2019022201,2019022201Home0705b,home,Brewer,3,out,2,0,-2,0,0,1,on a fielder s choic,EW,0,0,0,0,0,0,0,Johnson,Brewer,NA,E,E0,1,Harris,Johnson,NA,E,E1
+2019022201,2019022201Home0706b,home,Harris,5,advanced,1,2,1,0,0,0,NA,NA,0,0,0,0,0,1,1,Harris,Johnson,NA,E,E1,1,Thomason,Harris,NA,E,E1
+2019022201,2019022201Home0706b,home,Johnson,4,advanced,2,3,1,0,0,0,NA,NA,0,0,0,0,0,0,1,Harris,Johnson,NA,E,E1,1,Thomason,Harris,Johnson,H,H1
+2019022201,2019022201Home0805b,home,Weaver,1,advanced,1,2,1,0,0,0,NA,NA,0,0,0,0,0,0,2,Weaver,NA,NA,B,B2,2,Brewer,Weaver,NA,E,E2
+2019022201,2019022201Home0806b,home,Brewer,3,advanced,1,2,1,0,0,0,NA,NA,0,0,0,0,0,0,2,Brewer,Weaver,NA,E,E2,2,Johnson,Brewer,NA,E,E2
+2019022201,2019022201Home0806b,home,Weaver,1,scored,2,4,2,0,0,0,NA,NA,1,0,0,0,0,0,2,Brewer,Weaver,NA,E,E2,2,Johnson,Brewer,NA,E,E2
+2019022201,2019022201Home0808b,home,Johnson,4,advanced,1,3,2,0,0,0,NA,NA,0,0,0,0,0,0,2,Johnson,Brewer,NA,E,E2,2,Johnson,ERROR: name not in batting order, ts: HILL, M. doubled to right center, RBI (0-1 S);,Johnson,H,H2
+2019022201,2019022201Home0808b,home,Brewer,3,scored,2,4,2,0,0,0,NA,NA,1,0,0,0,0,0,2,Johnson,Brewer,NA,E,E2,2,Johnson,ERROR: name not in batting order, ts: HILL, M. doubled to right center, RBI (0-1 S);,Johnson,H,H2
+2019022201,2019022201Home08010b,home,Thomason,6,advanced,1,2,1,0,0,0,NA,NA,0,0,0,0,0,0,2,Thomason,ERROR: name not in batting order, ts: HILL, M. doubled to right center, RBI (0-1 S);,Johnson,H,H2,2,Lewis,Thomason,Johnson,H,H2
+2019022201,2019022201Home08010b,home,NA,0,advanced,0,3,3,0,0,0,NA,NA,0,0,0,0,0,0,2,Thomason,ERROR: name not in batting order, ts: HILL, M. doubled to right center, RBI (0-1 S);,Johnson,H,H2,2,Lewis,Thomason,NA,E,E2
+2019022201,2019022201Home08010b,home,Johnson,4,scored,3,4,1,0,0,0,NA,NA,1,0,0,0,0,0,2,Thomason,ERROR: name not in batting order, ts: HILL, M. doubled to right center, RBI (0-1 S);,Johnson,H,H2,2,Lewis,Thomason,NA,E,E2

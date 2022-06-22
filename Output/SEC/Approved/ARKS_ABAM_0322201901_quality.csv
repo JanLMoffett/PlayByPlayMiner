@@ -1,0 +1,131 @@
+GameID,PlateAppID,AUType,AUString,startOuts,startOnFirst,startOnSecond,startOnThird,startBaseState,startBaseOutState,endOuts,endOnFirst,endOnSecond,endOnThird,endBaseState,endBaseOutState,RPrime
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA01AWAY01,bat,C. Martin struck out swinging (1-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA01AWAY02,bat,H. Kjerstad homered to right field  RBI (2-2).,1,NA,NA,NA,A,A1,1,NA,NA,NA,A,A1,1
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA01AWAY03,bat,T. Ezell struck out swinging (1-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA01AWAY04,bat,D. Fletcher flied out to cf (1-0).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA02HOME01,bat,Breaux lined out to cf to left center (0-0).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA02HOME02,bat,Auerbach struck out swinging (1-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA02HOME03,bat,McCullough flied out to cf (1-1).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA03AWAY01,bat,C. Opitz flied out to cf (1-0).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA03AWAY02,bat,M. Goodheart singled to right center (0-1).,1,NA,NA,NA,A,A1,1,Goodheart,NA,NA,B,B1,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA03AWAY03,bat,J. Kenley singled to right center (1-2);,1,Goodheart,NA,NA,B,B1,1,Kenley,NA,NA,B,B1,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA03AWAY03,br,M. Goodheart advanced to second.,1,Goodheart,NA,NA,B,B1,1,Kenley,Goodheart,NA,E,E1,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA03AWAY04,bat,J. Nesbit flied out to rf (0-1);,1,Kenley,Goodheart,NA,E,E1,2,Kenley,Goodheart,NA,E,E2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA03AWAY04,br,M. Goodheart advanced to third.,1,Kenley,Goodheart,NA,E,E1,2,Kenley,NA,Goodheart,F,F2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA03AWAY05,bat,C. Franklin singled to center field  RBI (0-0);,2,Kenley,NA,Goodheart,F,F2,2,Franklin,NA,Goodheart,F,F2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA03AWAY05,br,J. Kenley advanced to second;,2,Kenley,NA,Goodheart,F,F2,2,Franklin,Kenley,Goodheart,H,H2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA03AWAY05,br,M. Goodheart scored.,2,Kenley,NA,Goodheart,F,F2,2,Franklin,Kenley,NA,E,E2,1
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA03AWAY06,bat,C. Martin hit by pitch (2-1);,2,Franklin,Kenley,NA,E,E2,2,Martin,Kenley,NA,E,E2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA03AWAY06,br,C. Franklin advanced to second;,2,Franklin,Kenley,NA,E,E2,2,Martin,Franklin,NA,E,E2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA03AWAY06,br,J. Kenley advanced to third.,2,Franklin,Kenley,NA,E,E2,2,Martin,Franklin,Kenley,H,H2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA03AWAY07,other,Alabama Mound Visit.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA03AWAY08,bat,H. Kjerstad singled to left center  3 RBI (3-2);,2,Martin,Franklin,Kenley,H,H2,2,Kjerstad,Franklin,Kenley,H,H2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA03AWAY08,br,C. Martin scored;,2,Martin,Franklin,Kenley,H,H2,2,Kjerstad,Franklin,Kenley,H,H2,1
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA03AWAY08,br,C. Franklin scored;,2,Martin,Franklin,Kenley,H,H2,2,Kjerstad,NA,Kenley,F,F2,1
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA03AWAY08,br,J. Kenley scored.,2,Martin,Franklin,Kenley,H,H2,2,Kjerstad,NA,NA,B,B2,1
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA03AWAY09,batbr,T. Ezell doubled to left center advanced to third on a throwing error by ss RBI (1-0);,2,Kjerstad,NA,NA,B,B2,2,Kjerstad,Ezell,NA,E,E2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA03AWAY09,batbr,T. Ezell doubled to left center advanced to third on a throwing error by ss RBI (1-0);,2,Kjerstad,NA,NA,B,B2,2,Kjerstad,NA,Ezell,F,F2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA03AWAY09,br,H. Kjerstad scored.,2,Kjerstad,NA,NA,B,B2,2,NA,NA,Ezell,D,D2,1
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA03AWAY10,bat,D. Fletcher singled to right field  RBI (0-1);,2,NA,NA,Ezell,D,D2,2,Fletcher,NA,Ezell,F,F2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA03AWAY10,br,T. Ezell scored unearned.,2,NA,NA,Ezell,D,D2,2,Fletcher,NA,NA,B,B2,1
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA03AWAY11,bat,C. Opitz struck out swinging (1-2).,2,Fletcher,NA,NA,B,B2,3,Fletcher,NA,NA,B,B3,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA04HOME01,bat,Gentry singled up the middle (0-0).,0,NA,NA,NA,A,A0,0,Gentry,NA,NA,B,B0,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA04HOME02,bat,Holcombe grounded out to 2b (0-1);,0,Gentry,NA,NA,B,B0,1,Gentry,NA,NA,B,B1,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA04HOME02,br,Gentry advanced to second.,0,Gentry,NA,NA,B,B0,1,NA,Gentry,NA,C,C1,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA04HOME03,bat,Trousdale flied out to cf (3-2).,1,NA,Gentry,NA,C,C1,2,NA,Gentry,NA,C,C2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA04HOME04,bat,Williamson lined out to lf to left center (1-0).,2,NA,Gentry,NA,C,C2,3,NA,Gentry,NA,C,C3,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA05AWAY01,bat,M. Goodheart doubled down the rf line (1-0).,0,NA,NA,NA,A,A0,0,NA,Goodheart,NA,C,C0,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA05AWAY02,batbr,J. Kenley struck out swinging out at first c to 1b (1-2).,0,NA,Goodheart,NA,C,C0,1,NA,Goodheart,NA,C,C1,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA05AWAY02,batbr,J. Kenley struck out swinging out at first c to 1b (1-2).,0,NA,Goodheart,NA,C,C0,1,NA,Goodheart,NA,C,C1,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA05AWAY03,bat,J. Nesbit doubled to left center  RBI (1-2);,1,NA,Goodheart,NA,C,C1,1,NA,Nesbit,NA,C,C1,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA05AWAY03,br,M. Goodheart scored.,1,NA,Goodheart,NA,C,C1,1,NA,Nesbit,NA,C,C1,1
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA05AWAY04,bat,C. Franklin grounded out to ss (1-1);,1,NA,Nesbit,NA,C,C1,2,NA,Nesbit,NA,C,C2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA05AWAY04,br,J. Nesbit advanced to third.,1,NA,Nesbit,NA,C,C1,2,NA,NA,Nesbit,D,D2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA05AWAY05,bat,C. Martin struck out swinging (2-2).,2,NA,NA,Nesbit,D,D2,3,NA,NA,Nesbit,D,D3,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA06HOME01,bat,Robinson singled up the middle (0-0).,0,NA,NA,NA,A,A0,0,Robinson,NA,NA,B,B0,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA06HOME02,bat,Morris flied out to lf (2-1).,0,Robinson,NA,NA,B,B0,1,Robinson,NA,NA,B,B1,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA06HOME03,bat,Breaux struck out swinging (1-2).,1,Robinson,NA,NA,B,B1,2,Robinson,NA,NA,B,B2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA06HOME04,br,Robinson out at second c to 2b caught stealing.,2,Robinson,NA,NA,B,B2,3,NA,NA,NA,A,A3,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA07AWAY01,bat,H. Kjerstad grounded out to 2b (0-0).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA07AWAY02,bat,T. Ezell struck out swinging (1-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA07AWAY03,bat,D. Fletcher flied out to rf to right center (3-1).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA08HOME01,bat,Auerbach grounded out to 3b (0-1).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA08HOME02,bat,McCullough grounded out to ss (1-0).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA08HOME03,bat,Gentry grounded out to ss (0-2).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA09AWAY01,sub,Cobb to p for Finnerty.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA09AWAY02,bat,C. Opitz struck out swinging (3-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA09AWAY03,bat,M. Goodheart grounded out to 3b (1-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA09AWAY04,bat,J. Kenley struck out swinging (3-2).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA10HOME01,bat,Holcombe struck out swinging (2-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA10HOME02,bat,Trousdale singled up the middle (0-0).,1,NA,NA,NA,A,A1,1,Trousdale,NA,NA,B,B1,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA10HOME03,bat,Williamson struck out swinging (0-2).,1,Trousdale,NA,NA,B,B1,2,Trousdale,NA,NA,B,B2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA10HOME04,bat,Robinson walked (3-1);,2,Trousdale,NA,NA,B,B2,2,Robinson,NA,NA,B,B2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA10HOME04,br,Trousdale advanced to second.,2,Trousdale,NA,NA,B,B2,2,Robinson,Trousdale,NA,E,E2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA10HOME05,bat,Morris singled to third base (1-1);,2,Robinson,Trousdale,NA,E,E2,2,Morris,Trousdale,NA,E,E2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA10HOME05,br,Robinson advanced to second;,2,Robinson,Trousdale,NA,E,E2,2,Morris,Robinson,NA,E,E2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA10HOME05,br,Trousdale advanced to third.,2,Robinson,Trousdale,NA,E,E2,2,Morris,Robinson,Trousdale,H,H2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA10HOME06,bat,Breaux lined out to lf down the lf line (1-0).,2,Morris,Robinson,Trousdale,H,H2,3,Morris,Robinson,Trousdale,H,H3,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA11AWAY01,sub,Auerbach to 3b.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA11AWAY02,sub,Hawk to c for Morris.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA11AWAY03,bat,J. Nesbit struck out swinging (0-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA11AWAY04,bat,C. Franklin walked (3-2).,1,NA,NA,NA,A,A1,1,Franklin,NA,NA,B,B1,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA11AWAY05,bat,C. Martin struck out swinging (1-2).,1,Franklin,NA,NA,B,B1,2,Franklin,NA,NA,B,B2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA11AWAY06,batbr,H. Kjerstad singled to right field out at second rf to ss (2-0);,2,Franklin,NA,NA,B,B2,2,Kjerstad,NA,NA,B,B2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA11AWAY06,batbr,H. Kjerstad singled to right field out at second rf to ss (2-0);,2,Franklin,NA,NA,B,B2,3,NA,NA,NA,A,A3,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA11AWAY06,br,C. Franklin advanced to third.,2,Franklin,NA,NA,B,B2,3,NA,NA,Franklin,D,D3,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA12HOME01,bat,Auerbach singled to center field (0-0).,0,NA,NA,NA,A,A0,0,Auerbach,NA,NA,B,B0,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA12HOME02,bat,McCullough hit by pitch (1-1);,0,Auerbach,NA,NA,B,B0,0,Mccullough,NA,NA,B,B0,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA12HOME02,br,Auerbach advanced to second.,0,Auerbach,NA,NA,B,B0,0,Mccullough,Auerbach,NA,E,E0,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA12HOME03,bat,Gentry popped up to ss (1-2).,0,Mccullough,Auerbach,NA,E,E0,1,Mccullough,Auerbach,NA,E,E1,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA12HOME04,bat,Holcombe struck out swinging (1-2).,1,Mccullough,Auerbach,NA,E,E1,2,Mccullough,Auerbach,NA,E,E2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA12HOME05,br,McCullough advanced to second;,2,Mccullough,Auerbach,NA,E,E2,2,NA,Mccullough,NA,C,C2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA12HOME05,br,Auerbach advanced to third on a passed ball.,2,Mccullough,Auerbach,NA,E,E2,2,NA,Mccullough,Auerbach,G,G2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA12HOME06,bat,Trousdale struck out swinging (1-2).,2,NA,Mccullough,Auerbach,G,G2,3,NA,Mccullough,Auerbach,G,G3,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA13AWAY01,sub,Reeves to lf for Holcombe.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA13AWAY02,bat,T. Ezell flied out to cf to right center (2-0).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA13AWAY03,bat,D. Fletcher struck out swinging (2-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA13AWAY04,bat,C. Opitz grounded out to 2b (3-2).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA14HOME01,bat,Williamson struck out swinging (2-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA14HOME02,bat,Robinson flied out to rf down the rf line (1-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA14HOME03,bat,Hawk flied out to rf (0-0).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA15AWAY01,sub,King to rf for Gentry.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA15AWAY02,bat,M. Goodheart struck out looking (1-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA15AWAY03,bat,J. Kenley singled through the left side (2-2).,1,NA,NA,NA,A,A1,1,Kenley,NA,NA,B,B1,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA15AWAY04,bat,J. Nesbit homered to left center  2 RBI (1-1);,1,Kenley,NA,NA,B,B1,1,NA,NA,NA,A,A1,1
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA15AWAY04,br,J. Kenley scored.,1,Kenley,NA,NA,B,B1,1,NA,NA,NA,A,A1,1
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA15AWAY05,bat,C. Franklin grounded out to ss (1-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA15AWAY06,bat,C. Martin flied out to rf (0-0).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA16HOME01,sub,E. Trest to p for I. Campbell.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA16HOME02,bat,Breaux flied out to lf (1-1).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA16HOME03,bat,Auerbach flied out to rf (2-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA16HOME04,bat,McCullough flied out to lf (2-1).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA17AWAY01,sub,Smith to p for Cobb.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA17AWAY02,bat,H. Kjerstad struck out looking (1-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA17AWAY03,bat,T. Ezell struck out swinging (2-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA17AWAY04,bat,D. Fletcher homered to right field  RBI (1-0).,2,NA,NA,NA,A,A2,2,NA,NA,NA,A,A2,1
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA17AWAY05,sub,Z. Plunkett pinch hit for C. Opitz.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA17AWAY06,bat,Z. Plunkett hit by pitch (0-2).,2,NA,NA,NA,A,A2,2,Plunkett,NA,NA,B,B2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA17AWAY07,bat,M. Goodheart singled to right field (0-0);,2,Plunkett,NA,NA,B,B2,2,Goodheart,NA,NA,B,B2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA17AWAY07,br,Z. Plunkett advanced to second.,2,Plunkett,NA,NA,B,B2,2,Goodheart,Plunkett,NA,E,E2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA17AWAY08,bat,J. Kenley singled to right field  RBI (2-2);,2,Goodheart,Plunkett,NA,E,E2,2,Kenley,Plunkett,NA,E,E2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA17AWAY08,br,M. Goodheart advanced to second out at third rf to 3b;,2,Goodheart,Plunkett,NA,E,E2,3,Kenley,Plunkett,NA,E,E3,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA17AWAY08,br,Z. Plunkett scored.,2,Goodheart,Plunkett,NA,E,E2,3,Kenley,NA,NA,B,B3,1
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA18HOME01,sub,Z. Plunkett to c.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA18HOME02,sub,E. Taylor to p for E. Trest.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA18HOME03,bat,King struck out swinging (3-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA18HOME04,bat,Reeves walked (3-2).,1,NA,NA,NA,A,A1,1,Reeves,NA,NA,B,B1,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA18HOME05,bat,Trousdale singled up the middle (3-2);,1,Reeves,NA,NA,B,B1,1,Trousdale,NA,NA,B,B1,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA18HOME05,br,Reeves advanced to second.,1,Reeves,NA,NA,B,B1,1,Trousdale,Reeves,NA,E,E1,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA18HOME06,br,Trousdale advanced to second;,1,Trousdale,Reeves,NA,E,E1,1,NA,Trousdale,NA,C,C1,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA18HOME06,br,Reeves advanced to third on a wild pitch.,1,Trousdale,Reeves,NA,E,E1,1,NA,Trousdale,Reeves,G,G1,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA18HOME07,bat,Williamson walked (3-1).,1,NA,Trousdale,Reeves,G,G1,1,Williamson,Trousdale,Reeves,H,H1,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA18HOME08,bat,"Robinson reached on a fielders choice to second base  RBI (0-1);,1,Williamson,Trousdale,Reeves,H,H1,1,Robinson,Trousdale,Reeves,H,H1,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA18HOME08,br,Williamson out at second 2b unassisted;,1,Williamson,Trousdale,Reeves,H,H1,2,Robinson,Trousdale,Reeves,H,H2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA18HOME08,br,Trousdale advanced to third;,1,Williamson,Trousdale,Reeves,H,H1,2,Robinson,NA,Trousdale,F,F2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA18HOME08,br,Reeves scored.",1,Williamson,Trousdale,Reeves,H,H1,2,Robinson,NA,Trousdale,F,F2,1
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA18HOME09,sub,M. Denton to p for E. Taylor.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA18HOME10,br,Robinson advanced to second;,2,Robinson,NA,Trousdale,F,F2,2,NA,Robinson,Trousdale,G,G2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA18HOME10,br,Trousdale scored on a wild pitch.,2,Robinson,NA,Trousdale,F,F2,2,NA,Robinson,NA,C,C2,1
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA18HOME11,bat,Hawk doubled down the lf line  RBI (2-1);,2,NA,Robinson,NA,C,C2,2,NA,Hawk,NA,C,C2,0
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA18HOME11,br,Robinson scored.,2,NA,Robinson,NA,C,C2,2,NA,Hawk,NA,C,C2,1
+ARKS_ABAM_0322201901,ARKS_ABAM_0322201901_PA18HOME12,bat,Breaux grounded out to 2b (0-0).,2,NA,Hawk,NA,C,C2,3,NA,Hawk,NA,C,C3,0

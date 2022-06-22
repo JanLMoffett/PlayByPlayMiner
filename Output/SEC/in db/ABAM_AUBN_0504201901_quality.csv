@@ -1,0 +1,143 @@
+GameID,PlateAppID,AUType,AUString,startOuts,startOnFirst,startOnSecond,startOnThird,startBaseState,startBaseOutState,endOuts,endOnFirst,endOnSecond,endOnThird,endBaseState,endBaseOutState,RPrime
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA01AWAY02,bat,Auerbach singled to shortstop (2-1 KBB).,0,NA,NA,NA,A,A0,0,Auerbach,NA,NA,B,B0,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA01AWAY03,bat,Reeves struck out swinging (0-2 KSS).,0,Auerbach,NA,NA,B,B0,1,Auerbach,NA,NA,B,B1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA01AWAY04,bat,McCullough walked (3-0 BBBB);,1,Auerbach,NA,NA,B,B1,1,Mccullough,NA,NA,B,B1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA01AWAY04,br,Auerbach advanced to second.,1,Auerbach,NA,NA,B,B1,1,Mccullough,Auerbach,NA,E,E1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA01AWAY05,bat,Gentry hit by pitch (2-0 BB);,1,Mccullough,Auerbach,NA,E,E1,1,Gentry,Auerbach,NA,E,E1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA01AWAY05,br,McCullough advanced to second;,1,Mccullough,Auerbach,NA,E,E1,1,Gentry,Mccullough,NA,E,E1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA01AWAY05,br,Auerbach advanced to third.,1,Mccullough,Auerbach,NA,E,E1,1,Gentry,Mccullough,Auerbach,H,H1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA01AWAY06,bat,Williamson walked  RBI (3-0 BBBB);,1,Gentry,Mccullough,Auerbach,H,H1,1,Williamson,Mccullough,Auerbach,H,H1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA01AWAY06,br,Gentry advanced to second;,1,Gentry,Mccullough,Auerbach,H,H1,1,Williamson,Gentry,Auerbach,H,H1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA01AWAY06,br,McCullough advanced to third;,1,Gentry,Mccullough,Auerbach,H,H1,1,Williamson,Gentry,Mccullough,H,H1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA01AWAY06,br,Auerbach scored.,1,Gentry,Mccullough,Auerbach,H,H1,1,Williamson,Gentry,Mccullough,H,H1,1
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA01AWAY07,bat,Breaux struck out swinging (0-2 KSS).,1,Williamson,Gentry,Mccullough,H,H1,2,Williamson,Gentry,Mccullough,H,H2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA01AWAY08,bat,Robinson grounded out to p (3-2 BKKBB).,2,Williamson,Gentry,Mccullough,H,H2,3,Williamson,Gentry,Mccullough,H,H3,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA02HOME01,bat,Ward  J. walked (3-2 BBFKBB).,0,NA,NA,NA,A,A0,0,Ward,NA,NA,B,B0,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA02HOME02,bat,Bliss  R. lined into double play p to 1b (2-1 KBB);,0,Ward,NA,NA,B,B0,1,Ward,NA,NA,B,B1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA02HOME02,br,Ward J. out on the play.,0,Ward,NA,NA,B,B0,2,NA,NA,NA,A,A2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA02HOME03,bat,Julien  E. struck out swinging (1-2 BFSS).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA03AWAY01,bat,Ras doubled down the rf line (0-0).,0,NA,NA,NA,A,A0,0,NA,Ras,NA,C,C0,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA03AWAY02,bat,Morris reached on an error by p  SAC  bunt (0-0);,0,NA,Ras,NA,C,C0,0,Morris,Ras,NA,E,E0,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA03AWAY02,br,Ras advanced to third.,0,NA,Ras,NA,C,C0,0,Morris,NA,Ras,F,F0,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA03AWAY03,bat,"Auerbach reached on a fielders choice  RBI (3-2 BBBKK);,0,Morris,NA,Ras,F,F0,0,Auerbach,NA,Ras,F,F0,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA03AWAY03,br,Morris advanced to second;,0,Morris,NA,Ras,F,F0,0,Auerbach,Morris,Ras,H,H0,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA03AWAY03,br,Ras scored.",0,Morris,NA,Ras,F,F0,0,Auerbach,Morris,NA,E,E0,1
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA03AWAY04,bat,Reeves flied out to cf to left center (1-2 KBS).,0,Auerbach,Morris,NA,E,E0,1,Auerbach,Morris,NA,E,E1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA03AWAY05,batbr,McCullough out at first 1b to p (2-2 BKBK);,1,Auerbach,Morris,NA,E,E1,1,Auerbach,Morris,NA,E,E1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA03AWAY05,batbr,McCullough out at first 1b to p (2-2 BKBK);,1,Auerbach,Morris,NA,E,E1,2,Auerbach,Morris,NA,E,E2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA03AWAY05,br,Auerbach advanced to second;,1,Auerbach,Morris,NA,E,E1,2,NA,Auerbach,NA,C,C2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA03AWAY05,br,Morris advanced to third.,1,Auerbach,Morris,NA,E,E1,2,NA,Auerbach,Morris,G,G2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA03AWAY06,bat,Gentry struck out looking (1-2 BKFK).,2,NA,Auerbach,Morris,G,G2,3,NA,Auerbach,Morris,G,G3,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA04HOME01,bat,Davis  Co. singled to center field (0-1 K).,0,NA,NA,NA,A,A0,0,Davis,NA,NA,B,B0,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA04HOME02,bat,Scheffler  M singled up the middle (3-2 KBBFB);,0,Davis,NA,NA,B,B0,0,Scheffler,NA,NA,B,B0,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA04HOME02,br,Davis Co. advanced to second.,0,Davis,NA,NA,B,B0,0,Scheffler,Davis,NA,E,E0,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA04HOME03,bat,Woley  R. flied out to rf (1-2 BFK).,0,Scheffler,Davis,NA,E,E0,1,Scheffler,Davis,NA,E,E1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA04HOME04,bat,Williams  S. grounded out to 2b (2-1 BBF);,1,Scheffler,Davis,NA,E,E1,2,Scheffler,Davis,NA,E,E2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA04HOME04,br,Scheffler M advanced to second;,1,Scheffler,Davis,NA,E,E1,2,NA,Scheffler,NA,C,C2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA04HOME04,br,Davis Co. advanced to third.,1,Scheffler,Davis,NA,E,E1,2,NA,Scheffler,Davis,G,G2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA04HOME05,bat,Howell  K. grounded out to 2b (3-2 BBFSBF).,2,NA,Scheffler,Davis,G,G2,3,NA,Scheffler,Davis,G,G3,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA05AWAY01,bat,Williamson grounded out to 2b (1-0 B).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA05AWAY02,bat,Breaux grounded out to ss (1-2 SFB).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA05AWAY03,bat,Robinson flied out to rf (0-0).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA06HOME01,bat,Holland  W. doubled to left center (0-0).,0,NA,NA,NA,A,A0,0,NA,Holland,NA,C,C0,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA06HOME02,batbr,Ward J. reached on an error by 3b SAC bunt advanced to second (0-0);,0,NA,Holland,NA,C,C0,0,Ward,Holland,NA,E,E0,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA06HOME02,batbr,Ward J. reached on an error by 3b SAC bunt advanced to second (0-0);,0,NA,Holland,NA,C,C0,0,NA,Ward,NA,C,C0,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA06HOME02,br,Holland W. scored unearned.,0,NA,Holland,NA,C,C0,0,NA,Ward,NA,C,C0,1
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA06HOME03,bat,Bliss  R. grounded out to 3b  SAC  bunt (0-0);,0,NA,Ward,NA,C,C0,1,NA,Ward,NA,C,C1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA06HOME03,br,Ward J. advanced to third.,0,NA,Ward,NA,C,C0,1,NA,NA,Ward,D,D1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA06HOME04,bat,Julien  E. struck out looking (1-2 SFBK).,1,NA,NA,Ward,D,D1,2,NA,NA,Ward,D,D2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA06HOME05,bat,Davis  Co. struck out swinging (2-2 BBSSS).,2,NA,NA,Ward,D,D2,3,NA,NA,Ward,D,D3,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA07AWAY01,bat,Ras singled to center field (1-0 B).,0,NA,NA,NA,A,A0,0,Ras,NA,NA,B,B0,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA07AWAY02,bat,"Morris reached on a fielders choice (1-2 FKB);,0,Ras,NA,NA,B,B0,0,Morris,NA,NA,B,B0,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA07AWAY02,br,Ras advanced to second on an error by 2b.",0,Ras,NA,NA,B,B0,0,Morris,Ras,NA,E,E0,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA07AWAY04,bat,Auerbach grounded into double play ss to 2b to 1b (1-1 BK);,0,Morris,Ras,NA,E,E0,1,Morris,Ras,NA,E,E1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA07AWAY04,br,Morris out on the play;,0,Morris,Ras,NA,E,E0,2,NA,Ras,NA,C,C2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA07AWAY04,br,Ras advanced to third.,0,Morris,Ras,NA,E,E0,2,NA,NA,Ras,D,D2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA07AWAY05,batbr,Reeves struck out swinging out at first c to 1b (1-2 SSBS).,2,NA,NA,Ras,D,D2,3,NA,NA,Ras,D,D3,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA07AWAY05,batbr,Reeves struck out swinging out at first c to 1b (1-2 SSBS).,2,NA,NA,Ras,D,D2,3,NA,NA,Ras,D,D3,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA08HOME01,bat,Scheffler  M struck out swinging (2-2 BFBSFFFFS).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA08HOME02,bat,Woley  R. grounded out to 3b (0-0).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA08HOME03,bat,Williams  S. popped up to 2b (1-1 KB).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA09AWAY01,bat,McCullough singled up the middle (2-2 KBFFB).,0,NA,NA,NA,A,A0,0,Mccullough,NA,NA,B,B0,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA09AWAY02,bat,Gentry singled up the middle (1-1 SB);,0,Mccullough,NA,NA,B,B0,0,Gentry,NA,NA,B,B0,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA09AWAY02,br,McCullough advanced to third.,0,Mccullough,NA,NA,B,B0,0,Gentry,NA,Mccullough,F,F0,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA09AWAY04,bat,Williamson doubled to center field  RBI (2-1 KBB);,0,Gentry,NA,Mccullough,F,F0,0,Gentry,Williamson,Mccullough,H,H0,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA09AWAY04,br,Gentry advanced to third;,0,Gentry,NA,Mccullough,F,F0,0,NA,Williamson,Gentry,G,G0,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA09AWAY04,br,McCullough scored.,0,Gentry,NA,Mccullough,F,F0,0,NA,Williamson,Gentry,G,G0,1
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA09AWAY05,bat,Breaux grounded out to 2b  RBI (2-2 SBBS);,0,NA,Williamson,Gentry,G,G0,1,NA,Williamson,Gentry,G,G1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA09AWAY05,br,Williamson advanced to third;,0,NA,Williamson,Gentry,G,G0,1,NA,NA,Williamson,D,D1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA09AWAY05,br,Gentry scored.,0,NA,Williamson,Gentry,G,G0,1,NA,NA,Williamson,D,D1,1
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA09AWAY06,bat,Robinson lined out to ss (1-2 KFBFF).,1,NA,NA,Williamson,D,D1,2,NA,NA,Williamson,D,D2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA09AWAY07,bat,Ras grounded out to 3b (0-0).,2,NA,NA,Williamson,D,D2,3,NA,NA,Williamson,D,D3,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA10HOME01,bat,Howell  K. struck out swinging (1-2 KBSS).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA10HOME02,bat,Holland  W. grounded out to 3b (0-1 S).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA10HOME03,bat,Ward  J. grounded out to 2b (1-2 BKSF).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA11AWAY01,bat,Morris grounded out to 2b (0-1 K).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA11AWAY02,bat,Auerbach singled to right field (1-1 KB).,1,NA,NA,NA,A,A1,1,Auerbach,NA,NA,B,B1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA11AWAY04,bat,Reeves struck out looking (2-2 KBBFK).,1,Auerbach,NA,NA,B,B1,2,Auerbach,NA,NA,B,B2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA11AWAY05,br,Auerbach stole second.,2,Auerbach,NA,NA,B,B2,2,NA,Auerbach,NA,C,C2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA11AWAY06,batbr,McCullough singled to right field out at second rf to c to ss to p RBI (1-2 BSFF);,2,NA,Auerbach,NA,C,C2,2,Mccullough,Auerbach,NA,E,E2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA11AWAY06,batbr,McCullough singled to right field out at second rf to c to ss to p RBI (1-2 BSFF);,2,NA,Auerbach,NA,C,C2,3,NA,Auerbach,NA,C,C3,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA11AWAY06,br,Auerbach scored.,2,NA,Auerbach,NA,C,C2,3,NA,NA,NA,A,A3,1
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA12HOME01,bat,Bliss  R. singled to left field (3-1 BBBK).,0,NA,NA,NA,A,A0,0,Bliss,NA,NA,B,B0,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA12HOME02,bat,Julien  E. struck out swinging (3-2 BBFBFS);,0,Bliss,NA,NA,B,B0,1,Bliss,NA,NA,B,B1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA12HOME02,br,Bliss R. stole second stole third.,0,Bliss,NA,NA,B,B0,1,NA,Bliss,NA,C,C1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA12HOME03,bat,Davis  Co. singled through the left side  RBI (0-0);,1,NA,Bliss,NA,C,C1,1,Davis,Bliss,NA,E,E1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA12HOME03,br,Bliss R. scored.,1,NA,Bliss,NA,C,C1,1,Davis,NA,NA,B,B1,1
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA12HOME05,bat,Scheffler  M flied out to lf (0-2 KK).,1,Davis,NA,NA,B,B1,2,Davis,NA,NA,B,B2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA12HOME06,bat,Woley  R. struck out swinging (0-2 KSS).,2,Davis,NA,NA,B,B2,3,Davis,NA,NA,B,B3,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA13AWAY01,bat,Gentry walked (3-0 BBBB).,0,NA,NA,NA,A,A0,0,Gentry,NA,NA,B,B0,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA13AWAY03,br,Gentry stole second.,0,Gentry,NA,NA,B,B0,0,NA,Gentry,NA,C,C0,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA13AWAY04,bat,Williamson grounded out to 2b (0-1 K);,0,NA,Gentry,NA,C,C0,1,NA,Gentry,NA,C,C1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA13AWAY04,br,Gentry advanced to third.,0,NA,Gentry,NA,C,C0,1,NA,NA,Gentry,D,D1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA13AWAY05,batbr,Breaux struck out swinging out at first c to 1b (1-2 SFBS).,1,NA,NA,Gentry,D,D1,2,NA,NA,Gentry,D,D2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA13AWAY05,batbr,Breaux struck out swinging out at first c to 1b (1-2 SFBS).,1,NA,NA,Gentry,D,D1,2,NA,NA,Gentry,D,D2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA13AWAY06,bat,Robinson walked (3-0 BBBB).,2,NA,NA,Gentry,D,D2,2,Robinson,NA,Gentry,F,F2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA13AWAY07,br,Robinson stole second.,2,Robinson,NA,Gentry,F,F2,2,NA,Robinson,Gentry,G,G2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA13AWAY08,bat,Ras struck out swinging (1-2 BFSS).,2,NA,Robinson,Gentry,G,G2,3,NA,Robinson,Gentry,G,G3,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA14HOME01,bat,Williams  S. walked (3-1 FBBBB).,0,NA,NA,NA,A,A0,0,Williams,NA,NA,B,B0,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA14HOME03,bat,Lau  E. grounded into double play ss to 1b (0-0);,0,Williams,NA,NA,B,B0,1,Williams,NA,NA,B,B1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA14HOME03,br,Williams S. out on the play.,0,Williams,NA,NA,B,B0,2,NA,NA,NA,A,A2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA14HOME04,bat,Holland  W. singled up the middle (0-1 F).,2,NA,NA,NA,A,A2,2,Holland,NA,NA,B,B2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA14HOME05,bat,Ward  J. singled to left field (0-1 K);,2,Holland,NA,NA,B,B2,2,Ward,NA,NA,B,B2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA14HOME05,br,Holland W. advanced to second.,2,Holland,NA,NA,B,B2,2,Ward,Holland,NA,E,E2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA14HOME06,bat,Bliss  R. singled to third base (1-2 KSBF);,2,Ward,Holland,NA,E,E2,2,Bliss,Holland,NA,E,E2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA14HOME06,br,Ward J. advanced to second;,2,Ward,Holland,NA,E,E2,2,Bliss,Ward,NA,E,E2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA14HOME06,br,Holland W. advanced to third.,2,Ward,Holland,NA,E,E2,2,Bliss,Ward,Holland,H,H2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA14HOME08,bat,Julien  E. grounded out to 2b (2-2 KBKB).,2,Bliss,Ward,Holland,H,H2,3,Bliss,Ward,Holland,H,H3,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA15AWAY02,bat,Morris grounded out to 2b (3-2 BBKBK).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA15AWAY03,bat,Auerbach struck out looking (2-2 KBSBFK).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA15AWAY04,bat,Reeves walked (3-1 BBKBB).,2,NA,NA,NA,A,A2,2,Reeves,NA,NA,B,B2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA15AWAY06,br,Reeves out at second p to 1b to ss caught stealing.,2,Reeves,NA,NA,B,B2,3,NA,NA,NA,A,A3,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA16HOME02,bat,Davis  Co. walked (3-1 SBBBB).,0,NA,NA,NA,A,A0,0,Davis,NA,NA,B,B0,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA16HOME03,bat,Scheffler  M popped up to 1b (0-0).,0,Davis,NA,NA,B,B0,1,Davis,NA,NA,B,B1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA16HOME04,bat,Woley  R. hit by pitch (1-2 KBS);,1,Davis,NA,NA,B,B1,1,Woley,NA,NA,B,B1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA16HOME04,br,Davis Co. advanced to second.,1,Davis,NA,NA,B,B1,1,Woley,Davis,NA,E,E1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA16HOME05,br,Woley R. advanced to second on a wild pitch;,1,Woley,Davis,NA,E,E1,1,NA,Woley,NA,C,C1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA16HOME05,br,Davis Co. advanced to third.,1,Woley,Davis,NA,E,E1,1,NA,Woley,Davis,G,G1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA16HOME06,bat,Williams  S. walked (3-2 BBBKFFB).,1,NA,Woley,Davis,G,G1,1,Williams,Woley,Davis,H,H1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA16HOME08,bat,Moore  B. struck out swinging (1-2 FBFS).,1,Williams,Woley,Davis,H,H1,2,Williams,Woley,Davis,H,H2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA16HOME09,bat,Holland  W. singled to right center  2 RBI (1-1 BF);,2,Williams,Woley,Davis,H,H2,2,Holland,Woley,Davis,H,H2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA16HOME09,br,Williams S. advanced to third;,2,Williams,Woley,Davis,H,H2,2,Holland,Woley,Williams,H,H2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA16HOME09,br,Woley R. scored;,2,Williams,Woley,Davis,H,H2,2,Holland,NA,Williams,F,F2,1
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA16HOME09,br,Davis Co. scored.,2,Williams,Woley,Davis,H,H2,2,Holland,NA,Williams,F,F2,1
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA16HOME10,bat,Ward  J. doubled down the rf line  2 RBI (0-2 FK);,2,Holland,NA,Williams,F,F2,2,Holland,Ward,Williams,H,H2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA16HOME10,br,Holland W. scored;,2,Holland,NA,Williams,F,F2,2,NA,Ward,Williams,G,G2,1
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA16HOME10,br,Williams S. scored.,2,Holland,NA,Williams,F,F2,2,NA,Ward,NA,C,C2,1
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA16HOME11,bat,Bliss  R. struck out swinging (1-2 KBKS).,2,NA,Ward,NA,C,C2,3,NA,Ward,NA,C,C3,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA17AWAY05,bat,McCullough singled to right field.,0,NA,NA,NA,A,A0,0,Mccullough,NA,NA,B,B0,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA17AWAY06,bat,Gentry reached on an error by 1b (1-1 KB);,0,Mccullough,NA,NA,B,B0,0,Gentry,NA,NA,B,B0,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA17AWAY06,br,McCullough out at second ss to 2b.,0,Mccullough,NA,NA,B,B0,1,Gentry,NA,NA,B,B1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA17AWAY07,bat,Williamson grounded out to 2b (1-1 KB);,1,Gentry,NA,NA,B,B1,2,Gentry,NA,NA,B,B2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA17AWAY07,br,Gentry advanced to second.,1,Gentry,NA,NA,B,B1,2,NA,Gentry,NA,C,C2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA17AWAY08,bat,Breaux singled up the middle  RBI (0-1 K);,2,NA,Gentry,NA,C,C2,2,Breaux,Gentry,NA,E,E2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA17AWAY08,br,Gentry scored unearned.,2,NA,Gentry,NA,C,C2,2,Breaux,NA,NA,B,B2,1
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA17AWAY10,br,Breaux stole second.,2,Breaux,NA,NA,B,B2,2,NA,Breaux,NA,C,C2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA17AWAY11,bat,Robinson walked (3-1 BKBBB).,2,NA,Breaux,NA,C,C2,2,Robinson,Breaux,NA,E,E2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA17AWAY12,bat,Ras singled to left field  RBI (0-0);,2,Robinson,Breaux,NA,E,E2,2,Ras,Breaux,NA,E,E2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA17AWAY12,br,Robinson advanced to second;,2,Robinson,Breaux,NA,E,E2,2,Ras,Robinson,NA,E,E2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA17AWAY12,br,Breaux scored unearned.,2,Robinson,Breaux,NA,E,E2,2,Ras,Robinson,NA,E,E2,1
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA17AWAY13,bat,Morris flied out to lf to left center (1-2 SSB).,2,Ras,Robinson,NA,E,E2,3,Ras,Robinson,NA,E,E3,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA18HOME02,bat,Julien  E. grounded out to 3b.,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA18HOME03,bat,Davis  Co. grounded out to ss (1-2 KKB).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+ABAM_AUBN_0504201901,ABAM_AUBN_0504201901_PA18HOME04,bat,Scheffler  M grounded out to ss (1-1 BK).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0

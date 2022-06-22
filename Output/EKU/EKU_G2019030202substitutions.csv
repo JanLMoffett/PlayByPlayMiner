@@ -1,0 +1,11 @@
+GameID,PlateAppID,SubType,PlayerOut,PlayerIn,SubbedPos
+2019030202,2019030202Away0104s,def,NA,ERROR: SubUnit.get_players, ts: ,NA
+2019030202,2019030202Away0708s,def,Kelly,Ferris,p
+2019030202,2019030202Away07013s,def,Ferris,Laster,p
+2019030202,2019030202Away0903s,def,Laster,Williams,p
+2019030202,2019030202Home0404s,def,NA,ERROR: SubUnit.get_players, ts: ,NA
+2019030202,2019030202Home0801s,def,NA,ERROR: SubUnit.get_players, ts: Lane, Tr.,NA
+2019030202,2019030202Home0802s,def,Pelio,,p
+2019030202,2019030202Home0902s,off,Brewer,Ludwick,ph
+2019030202,2019030202Home0904s,off,Weaver,Botsoe,ph
+2019030202,2019030202Home0906s,off,Thomason,Lucio,ph

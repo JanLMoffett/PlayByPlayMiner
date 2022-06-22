@@ -1,0 +1,116 @@
+GameID,PlateAppID,AUType,AUString,startOuts,startOnFirst,startOnSecond,startOnThird,startBaseState,startBaseOutState,endOuts,endOnFirst,endOnSecond,endOnThird,endBaseState,endBaseOutState,RPrime
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA01AWAY01,bat,Hopkins struck out swinging (0-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA01AWAY02,bat,Callil struck out looking (3-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA01AWAY03,bat,Berryhill walked (3-0).,2,NA,NA,NA,A,A2,2,Berryhill,NA,NA,B,B2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA01AWAY04,br,Berryhill stole second.,2,Berryhill,NA,NA,B,B2,2,NA,Berryhill,NA,C,C2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA01AWAY05,bat,Eyster grounded out to p (3-2).,2,NA,Berryhill,NA,C,C2,3,NA,Berryhill,NA,C,C3,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA02HOME01,bat,Gomez struck out swinging (1-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA02HOME02,bat,Cornelius struck out swinging (1-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA02HOME03,batbr,Misner singled advanced to third on an error by cf (2-2).,2,NA,NA,NA,A,A2,2,Misner,NA,NA,B,B2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA02HOME03,batbr,Misner singled advanced to third on an error by cf (2-2).,2,NA,NA,NA,A,A2,2,NA,NA,Misner,D,D2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA02HOME04,bat,Zimmermann struck out swinging (2-2).,2,NA,NA,Misner,D,D2,3,NA,NA,Misner,D,D3,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA03AWAY01,bat,Olson singled to left field (1-0).,0,NA,NA,NA,A,A0,0,Olson,NA,NA,B,B0,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA03AWAY02,bat,Allen lined out to cf (1-1).,0,Olson,NA,NA,B,B0,1,Olson,NA,NA,B,B1,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA03AWAY03,bat,Campbell grounded out to 3b  SAC (1-0);,1,Olson,NA,NA,B,B1,2,Olson,NA,NA,B,B2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA03AWAY03,br,Olson advanced to second.,1,Olson,NA,NA,B,B1,2,NA,Olson,NA,C,C2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA03AWAY04,bat,Cullen grounded out to 3b (1-1).,2,NA,Olson,NA,C,C2,3,NA,Olson,NA,C,C3,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA04HOME01,bat,McDaniel grounded out to ss (0-0).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA04HOME02,bat,Vierling grounded out to 3b (1-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA04HOME03,bat,Ortiz singled to left field (1-1).,2,NA,NA,NA,A,A2,2,Ortiz,NA,NA,B,B2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA04HOME04,bat,C. Peterson struck out swinging (2-2).,2,Ortiz,NA,NA,B,B2,3,Ortiz,NA,NA,B,B3,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA05AWAY01,bat,Sightler struck out swinging (2-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA05AWAY02,bat,Hopkins struck out looking (1-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA05AWAY03,bat,Callil singled to center field (0-1).,2,NA,NA,NA,A,A2,2,Callil,NA,NA,B,B2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA05AWAY04,bat,Berryhill singled to left field (1-0);,2,Callil,NA,NA,B,B2,2,Berryhill,NA,NA,B,B2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA05AWAY04,br,Callil advanced to second.,2,Callil,NA,NA,B,B2,2,Berryhill,Callil,NA,E,E2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA05AWAY05,bat,Eyster doubled to left field  2 RBI (0-0);,2,Berryhill,Callil,NA,E,E2,2,Berryhill,Eyster,NA,E,E2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA05AWAY05,br,Berryhill scored;,2,Berryhill,Callil,NA,E,E2,2,NA,Eyster,NA,C,C2,1
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA05AWAY05,br,Callil scored.,2,Berryhill,Callil,NA,E,E2,2,NA,Eyster,NA,C,C2,1
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA05AWAY06,bat,Olson flied out to rf (1-2).,2,NA,Eyster,NA,C,C2,3,NA,Eyster,NA,C,C3,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA06HOME01,bat,Brumfield walked (3-1).,0,NA,NA,NA,A,A0,0,Brumfield,NA,NA,B,B0,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA06HOME02,bat,Gomez flied out to cf (1-2).,0,Brumfield,NA,NA,B,B0,1,Brumfield,NA,NA,B,B1,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA06HOME03,bat,Cornelius singled to third base (0-0);,1,Brumfield,NA,NA,B,B1,1,Cornelius,NA,NA,B,B1,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA06HOME03,br,Brumfield advanced to second.,1,Brumfield,NA,NA,B,B1,1,Cornelius,Brumfield,NA,E,E1,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA06HOME04,bat,Misner singled to shortstop (0-1);,1,Cornelius,Brumfield,NA,E,E1,1,Misner,Brumfield,NA,E,E1,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA06HOME04,br,Cornelius advanced to second;,1,Cornelius,Brumfield,NA,E,E1,1,Misner,Cornelius,NA,E,E1,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA06HOME04,br,Brumfield advanced to third.,1,Cornelius,Brumfield,NA,E,E1,1,Misner,Cornelius,Brumfield,H,H1,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA06HOME05,bat,"Zimmermann reached on a fielders choice  RBI (0-1);,1,Misner,Cornelius,Brumfield,H,H1,1,Zimmermann,Cornelius,Brumfield,H,H1,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA06HOME05,br,Misner out on the play out at second cf to ss;,1,Misner,Cornelius,Brumfield,H,H1,2,Zimmermann,Cornelius,Brumfield,H,H2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA06HOME05,br,Cornelius advanced to third;,1,Misner,Cornelius,Brumfield,H,H1,2,Zimmermann,NA,Cornelius,F,F2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA06HOME05,br,Brumfield scored.",1,Misner,Cornelius,Brumfield,H,H1,2,Zimmermann,NA,Cornelius,F,F2,1
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA06HOME06,br,Zimmermann advanced to second on a balk;,2,Zimmermann,NA,Cornelius,F,F2,2,NA,Zimmermann,Cornelius,G,G2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA06HOME06,br,Cornelius scored on a balk.,2,Zimmermann,NA,Cornelius,F,F2,2,NA,Zimmermann,NA,C,C2,1
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA06HOME07,br,Zimmermann stole third.,2,NA,Zimmermann,NA,C,C2,2,NA,NA,Zimmermann,D,D2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA06HOME08,bat,McDaniel struck out swinging (2-2).,2,NA,NA,Zimmermann,D,D2,3,NA,NA,Zimmermann,D,D3,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA07AWAY01,batbr,Allen struck out out at first c to 1b (2-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA07AWAY01,batbr,Allen struck out out at first c to 1b (2-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA07AWAY02,bat,Campbell hit by pitch (0-1).,1,NA,NA,NA,A,A1,1,Campbell,NA,NA,B,B1,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA07AWAY03,br,Campbell stole second.,1,Campbell,NA,NA,B,B1,1,NA,Campbell,NA,C,C1,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA07AWAY04,bat,Cullen flied out to rf (2-2).,1,NA,Campbell,NA,C,C1,2,NA,Campbell,NA,C,C2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA07AWAY05,bat,Sightler lined out to 1b (0-0).,2,NA,Campbell,NA,C,C2,3,NA,Campbell,NA,C,C3,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA08HOME01,bat,Vierling flied out to rf (1-1).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA08HOME02,bat,Ortiz singled to center field (0-0).,1,NA,NA,NA,A,A1,1,Ortiz,NA,NA,B,B1,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA08HOME03,bat,C. Peterson struck out swinging (3-2).,1,Ortiz,NA,NA,B,B1,2,Ortiz,NA,NA,B,B2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA08HOME04,bat,Brumfield flied out to lf (1-2).,2,Ortiz,NA,NA,B,B2,3,Ortiz,NA,NA,B,B3,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA09AWAY01,bat,Hopkins struck out looking (3-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA09AWAY02,bat,Callil singled to right center (1-1).,1,NA,NA,NA,A,A1,1,Callil,NA,NA,B,B1,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA09AWAY03,bat,Berryhill lined out to cf (1-2).,1,Callil,NA,NA,B,B1,2,Callil,NA,NA,B,B2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA09AWAY04,bat,Eyster singled to left center (0-1);,2,Callil,NA,NA,B,B2,2,Eyster,NA,NA,B,B2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA09AWAY04,br,Callil advanced to third.,2,Callil,NA,NA,B,B2,2,Eyster,NA,Callil,F,F2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA09AWAY05,bat,Olson flied out to rf (1-2).,2,Eyster,NA,Callil,F,F2,3,Eyster,NA,Callil,F,F3,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA10HOME01,bat,Gomez grounded out to ss (0-1).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA10HOME02,bat,Cornelius grounded out to ss (1-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA10HOME03,bat,Misner singled to right field (1-2).,2,NA,NA,NA,A,A2,2,Misner,NA,NA,B,B2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA10HOME04,br,Misner advanced to second on a balk.,2,Misner,NA,NA,B,B2,2,NA,Misner,NA,C,C2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA10HOME05,bat,Zimmermann grounded out to p (1-1).,2,NA,Misner,NA,C,C2,3,NA,Misner,NA,C,C3,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA11AWAY01,bat,Allen grounded out to 3b (1-1).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA11AWAY02,bat,Campbell singled to left field (2-1).,1,NA,NA,NA,A,A1,1,Campbell,NA,NA,B,B1,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA11AWAY03,bat,Cullen flied out to lf (0-0).,1,Campbell,NA,NA,B,B1,2,Campbell,NA,NA,B,B2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA11AWAY04,bat,Sightler walked (3-0);,2,Campbell,NA,NA,B,B2,2,Sightler,NA,NA,B,B2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA11AWAY04,br,Campbell advanced to second.,2,Campbell,NA,NA,B,B2,2,Sightler,Campbell,NA,E,E2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA11AWAY05,bat,Hopkins lined out to rf (0-1).,2,Sightler,Campbell,NA,E,E2,3,Sightler,Campbell,NA,E,E3,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA12HOME01,bat,McDaniel doubled to right field (1-2).,0,NA,NA,NA,A,A0,0,NA,Mcdaniel,NA,C,C0,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA12HOME02,bat,Vierling singled  bunt (0-0);,0,NA,Mcdaniel,NA,C,C0,0,Vierling,Mcdaniel,NA,E,E0,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA12HOME02,br,McDaniel advanced to third.,0,NA,Mcdaniel,NA,C,C0,0,Vierling,NA,Mcdaniel,F,F0,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA12HOME03,bat,Ortiz flied out to cf (0-1).,0,Vierling,NA,Mcdaniel,F,F0,1,Vierling,NA,Mcdaniel,F,F1,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA12HOME04,br,Vierling advanced to second;,1,Vierling,NA,Mcdaniel,F,F1,1,NA,Vierling,Mcdaniel,G,G1,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA12HOME04,br,McDaniel scored on a wild pitch.,1,Vierling,NA,Mcdaniel,F,F1,1,NA,Vierling,NA,C,C1,1
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA12HOME05,bat,C. Peterson grounded out to 2b (3-1);,1,NA,Vierling,NA,C,C1,2,NA,Vierling,NA,C,C2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA12HOME05,br,Vierling advanced to third.,1,NA,Vierling,NA,C,C1,2,NA,NA,Vierling,D,D2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA12HOME06,bat,Brumfield grounded out to 2b (3-2).,2,NA,NA,Vierling,D,D2,3,NA,NA,Vierling,D,D3,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA13AWAY01,sub,Bedell to p for Cantleberry.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA13AWAY02,bat,Callil struck out swinging (2-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA13AWAY03,bat,Berryhill lined out to lf (1-0).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA13AWAY04,bat,Eyster walked (3-2).,2,NA,NA,NA,A,A2,2,Eyster,NA,NA,B,B2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA13AWAY05,bat,Olson flied out to rf (2-2).,2,Eyster,NA,NA,B,B2,3,Eyster,NA,NA,B,B3,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA14HOME01,sub,Hinson to p for Morgan.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA14HOME02,bat,Gomez reached on an error by 3b (1-2).,0,NA,NA,NA,A,A0,0,Gomez,NA,NA,B,B0,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA14HOME03,bat,Cornelius singled to right field (1-2);,0,Gomez,NA,NA,B,B0,0,Cornelius,NA,NA,B,B0,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA14HOME03,br,Gomez advanced to second.,0,Gomez,NA,NA,B,B0,0,Cornelius,Gomez,NA,E,E0,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA14HOME04,sub,Harley to p for Hinson.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA14HOME05,bat,Misner struck out swinging (1-2).,0,Cornelius,Gomez,NA,E,E0,1,Cornelius,Gomez,NA,E,E1,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA14HOME06,sub,Sweatt to p for Harley.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA14HOME07,br,Cornelius stole second;,1,Cornelius,Gomez,NA,E,E1,1,NA,Cornelius,NA,C,C1,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA14HOME07,br,Gomez stole third.,1,Cornelius,Gomez,NA,E,E1,1,NA,Cornelius,Gomez,G,G1,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA14HOME08,bat,Zimmermann singled to left field  2 RBI (3-2);,1,NA,Cornelius,Gomez,G,G1,1,Zimmermann,Cornelius,Gomez,H,H1,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA14HOME08,br,Cornelius scored unearned;,1,NA,Cornelius,Gomez,G,G1,1,Zimmermann,NA,Gomez,F,F1,1
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA14HOME08,br,Gomez scored unearned.,1,NA,Cornelius,Gomez,G,G1,1,Zimmermann,NA,NA,B,B1,1
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA14HOME09,bat,McDaniel singled to right field (0-0);,1,Zimmermann,NA,NA,B,B1,1,Mcdaniel,NA,NA,B,B1,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA14HOME09,br,Zimmermann advanced to second.,1,Zimmermann,NA,NA,B,B1,1,Mcdaniel,Zimmermann,NA,E,E1,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA14HOME10,br,McDaniel stole second;,1,Mcdaniel,Zimmermann,NA,E,E1,1,NA,Mcdaniel,NA,C,C1,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA14HOME10,br,Zimmermann stole third.,1,Mcdaniel,Zimmermann,NA,E,E1,1,NA,Mcdaniel,Zimmermann,G,G1,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA14HOME11,bat,Vierling struck out swinging (2-2).,1,NA,Mcdaniel,Zimmermann,G,G1,2,NA,Mcdaniel,Zimmermann,G,G2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA14HOME12,sub,Ganopulos to p for Sweatt.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA14HOME13,bat,Ortiz walked (3-2).,2,NA,Mcdaniel,Zimmermann,G,G2,2,Ortiz,Mcdaniel,Zimmermann,H,H2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA14HOME14,bat,C. Peterson grounded out to 3b (1-1).,2,Ortiz,Mcdaniel,Zimmermann,H,H2,3,Ortiz,Mcdaniel,Zimmermann,H,H3,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA15AWAY01,bat,Allen flied out to rf (0-0).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA15AWAY02,bat,Campbell struck out looking (1-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA15AWAY03,bat,Cullen fouled out to 3b (1-0).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA16HOME01,batbr,Brumfield out at first 1b to p (2-1).,0,NA,NA,NA,A,A0,0,NA,NA,NA,A,A0,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA16HOME01,batbr,Brumfield out at first 1b to p (2-1).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA16HOME02,bat,Gomez lined out to 2b (0-0).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA16HOME03,bat,Cornelius hit by pitch (0-0).,2,NA,NA,NA,A,A2,2,Cornelius,NA,NA,B,B2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA16HOME04,bat,Misner grounded out to ss (0-0).,2,Cornelius,NA,NA,B,B2,3,Cornelius,NA,NA,B,B3,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA17AWAY01,bat,Sightler struck out swinging (0-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA17AWAY02,bat,Hopkins grounded out to 3b (2-1).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+SCAR_MIZZ_0426201901,SCAR_MIZZ_0426201901_PA17AWAY03,bat,Callil flied out to cf (3-2).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0

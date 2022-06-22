@@ -1,0 +1,88 @@
+GameID,PlateAppID,SubType,PlayerOut,PlayerIn,SubbedPos
+2019022601,2019022601Away0605s,def,NA,ERROR: SubUnit.get_players, ts: R.,NA
+2019022601,2019022601Away0606s,def,Macciocchi,Johnson,p
+2019022601,2019022601Away0608s,def,NA,ERROR: SubUnit.get_players, ts: D.,NA
+2019022601,2019022601Away0609s,def,R,Harper,p
+2019022601,2019022601Away06010s,def,NA,ERROR: SubUnit.get_players, ts: Johnson.,NA
+2019022601,2019022601Away06011s,def,NA,ERROR: SubUnit.get_players, ts: R.,NA
+2019022601,2019022601Away06012s,def,D,Johnson,p
+2019022601,2019022601Away06013s,def,NA,ERROR: SubUnit.get_players, ts: Harper.,p
+2019022601,2019022601Away06015s,def,NA,ERROR: SubUnit.get_players, ts: D.,NA
+2019022601,2019022601Away06016s,def,R,Harper,p
+2019022601,2019022601Away06017s,def,NA,ERROR: SubUnit.get_players, ts: Johnson.,NA
+2019022601,2019022601Away0703s,off,Conklin,Lucio,ph
+2019022601,2019022601Away0801s,off,Hill,Weaver,ph
+2019022601,2019022601Away0804s,off,Williams,Brewer,ph
+2019022601,2019022601Away0805s,off,Botsoe,Brewer,ph
+2019022601,2019022601Away0806s,def,Brewer,Williams,p
+2019022601,2019022601Away0901s,def,D,Marshall,p
+2019022601,2019022601Away0902s,def,NA,ERROR: SubUnit.get_players, ts: Harper.,p
+2019022601,2019022601Away0905s,def,NA,ERROR: SubUnit.get_players, ts: H.,NA
+2019022601,2019022601Away0906s,def,B,Rigsby,p
+2019022601,2019022601Away0907s,def,NA,ERROR: SubUnit.get_players, ts: Marshall.,NA
+2019022601,2019022601Home0102s,def,NA,ERROR: SubUnit.get_players, ts: R.,NA
+2019022601,2019022601Home0104s,def,NA,ERROR: SubUnit.get_players, ts: T.,NA
+2019022601,2019022601Home0202s,def,NA,ERROR: SubUnit.get_players, ts: D.,NA
+2019022601,2019022601Home0204s,def,NA,ERROR: SubUnit.get_players, ts: C.,NA
+2019022601,2019022601Home0206s,def,NA,ERROR: SubUnit.get_players, ts: A.,NA
+2019022601,2019022601Home0208s,def,NA,ERROR: SubUnit.get_players, ts: D.,NA
+2019022601,2019022601Home0209s,def,NA,ERROR: SubUnit.get_players, ts: C.,NA
+2019022601,2019022601Home02011s,def,NA,ERROR: SubUnit.get_players, ts: A.,NA
+2019022601,2019022601Home02012s,def,NA,ERROR: SubUnit.get_players, ts: D.,NA
+2019022601,2019022601Home02013s,def,NA,ERROR: SubUnit.get_players, ts: Z.,NA
+2019022601,2019022601Home0302s,def,NA,ERROR: SubUnit.get_players, ts: R.,NA
+2019022601,2019022601Home0304s,def,NA,ERROR: SubUnit.get_players, ts: T.,NA
+2019022601,2019022601Home0402s,def,NA,ERROR: SubUnit.get_players, ts: D.,NA
+2019022601,2019022601Home0404s,def,NA,ERROR: SubUnit.get_players, ts: C.,NA
+2019022601,2019022601Home0406s,def,NA,ERROR: SubUnit.get_players, ts: A.,NA
+2019022601,2019022601Home0408s,def,NA,ERROR: SubUnit.get_players, ts: C.,NA
+2019022601,2019022601Home0502s,def,NA,ERROR: SubUnit.get_players, ts: B.,NA
+2019022601,2019022601Home0504s,def,NA,ERROR: SubUnit.get_players, ts: R.,NA
+2019022601,2019022601Home0506s,def,NA,ERROR: SubUnit.get_players, ts: R.,NA
+2019022601,2019022601Home0507s,def,NA,ERROR: SubUnit.get_players, ts: T.,NA
+2019022601,2019022601Home0509s,def,NA,ERROR: SubUnit.get_players, ts: R.,NA
+2019022601,2019022601Home05010s,def,NA,ERROR: SubUnit.get_players, ts: J.,NA
+2019022601,2019022601Home05012s,def,Ferris,Lewis,p
+2019022601,2019022601Home05013s,def,NA,ERROR: SubUnit.get_players, ts: J.,NA
+2019022601,2019022601Home05014s,def,NA,ERROR: SubUnit.get_players, ts: D.,NA
+2019022601,2019022601Home05016s,def,NA,ERROR: SubUnit.get_players, ts: J.,NA
+2019022601,2019022601Home05017s,def,NA,ERROR: SubUnit.get_players, ts: J.,NA
+2019022601,2019022601Home05018s,def,NA,ERROR: SubUnit.get_players, ts: C.,NA
+2019022601,2019022601Home05020s,def,NA,ERROR: SubUnit.get_players, ts: D.,NA
+2019022601,2019022601Home05021s,def,Lewis,Jackson,p
+2019022601,2019022601Home05022s,def,NA,ERROR: SubUnit.get_players, ts: D.,NA
+2019022601,2019022601Home05023s,def,NA,ERROR: SubUnit.get_players, ts: C.,NA
+2019022601,2019022601Home05024s,def,NA,ERROR: SubUnit.get_players, ts: A.,NA
+2019022601,2019022601Home05026s,def,NA,ERROR: SubUnit.get_players, ts: C.,NA
+2019022601,2019022601Home05027s,def,NA,Flied,rf
+2019022601,2019022601Home0602s,def,NA,ERROR: SubUnit.get_players, ts: Z.,NA
+2019022601,2019022601Home0603s,def,NA,ERROR: SubUnit.get_players, ts: B.,NA
+2019022601,2019022601Home0605s,def,Jackson,Williams,p
+2019022601,2019022601Home0606s,def,NA,ERROR: SubUnit.get_players, ts: B.,NA
+2019022601,2019022601Home0607s,def,NA,ERROR: SubUnit.get_players, ts: Z.,NA
+2019022601,2019022601Home0608s,def,NA,ERROR: SubUnit.get_players, ts: R.,NA
+2019022601,2019022601Home06010s,def,NA,ERROR: SubUnit.get_players, ts: T.,NA
+2019022601,2019022601Home06012s,def,NA,ERROR: SubUnit.get_players, ts: J.,NA
+2019022601,2019022601Home06014s,def,NA,ERROR: SubUnit.get_players, ts: R.,NA
+2019022601,2019022601Home06015s,def,NA,ERROR: SubUnit.get_players, ts: B.,NA
+2019022601,2019022601Home06016s,def,NA,ERROR: SubUnit.get_players, ts: Z.,NA
+2019022601,2019022601Home06017s,def,NA,ERROR: SubUnit.get_players, ts: J.,NA
+2019022601,2019022601Home06018s,def,NA,ERROR: SubUnit.get_players, ts: R.,NA
+2019022601,2019022601Home06019s,def,NA,ERROR: SubUnit.get_players, ts: D.,NA
+2019022601,2019022601Home06021s,def,NA,ERROR: SubUnit.get_players, ts: J.,NA
+2019022601,2019022601Home06022s,def,NA,ERROR: SubUnit.get_players, ts: C.,NA
+2019022601,2019022601Home0701s,def,NA,Lucio,3b
+2019022601,2019022601Home0702s,off,Lucio,Thomason,3b
+2019022601,2019022601Home0703s,def,NA,ERROR: SubUnit.get_players, ts: A.,NA
+2019022601,2019022601Home0705s,def,NA,ERROR: SubUnit.get_players, ts: C.,NA
+2019022601,2019022601Home0707s,def,NA,ERROR: SubUnit.get_players, ts: A.,NA
+2019022601,2019022601Home0708s,def,NA,ERROR: SubUnit.get_players, ts: Z.,NA
+2019022601,2019022601Home07010s,def,NA,ERROR: SubUnit.get_players, ts: A.,NA
+2019022601,2019022601Home07011s,def,NA,ERROR: SubUnit.get_players, ts: Z.,NA
+2019022601,2019022601Home07012s,def,NA,ERROR: SubUnit.get_players, ts: B.,NA
+2019022601,2019022601Home0801s,def,NA,Weaver,lf
+2019022601,2019022601Home0802s,def,Brewer,Ochsenbein,p
+2019022601,2019022601Home0803s,off,Botsoe,Brewer,c
+2019022601,2019022601Home0804s,def,NA,ERROR: SubUnit.get_players, ts: R.,NA
+2019022601,2019022601Home0806s,def,NA,ERROR: SubUnit.get_players, ts: T.,NA
+2019022601,2019022601Home0808s,def,NA,ERROR: SubUnit.get_players, ts: J.,NA

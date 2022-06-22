@@ -1,0 +1,167 @@
+GameID,PlateAppID,AUType,AUString,startOuts,startOnFirst,startOnSecond,startOnThird,startBaseState,startBaseOutState,endOuts,endOnFirst,endOnSecond,endOnThird,endBaseState,endBaseOutState,RPrime
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA01AWAY01,bat,McConnell flied out to lf.,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA01AWAY02,bat,Acton struck out looking.,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA01AWAY03,bat,Maldonado grounded out to 3b.,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA02HOME01,bat,R. Olenek fouled out to ss.,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA02HOME02,bat,G. Kessinger lined out to cf.,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA02HOME03,bat,T. Keenan lined out to ss.,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA03AWAY01,bat,Calilao singled up the middle.,0,NA,NA,NA,A,A0,0,Calilao,NA,NA,B,B0,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA03AWAY02,bat,Langworthy singled to right field;,0,Calilao,NA,NA,B,B0,0,Langworthy,NA,NA,B,B0,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA03AWAY02,br,Calilao advanced to second.,0,Calilao,NA,NA,B,B0,0,Langworthy,Calilao,NA,E,E0,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA03AWAY03,bat,Dalton struck out swinging.,0,Langworthy,Calilao,NA,E,E0,1,Langworthy,Calilao,NA,E,E1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA03AWAY04,bat,Fabian struck out looking.,1,Langworthy,Calilao,NA,E,E1,2,Langworthy,Calilao,NA,E,E2,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA03AWAY05,bat,Armstrong struck out swinging.,2,Langworthy,Calilao,NA,E,E2,3,Langworthy,Calilao,NA,E,E3,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA04HOME01,bat,T. Dillard struck out swinging.,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA04HOME02,bat,C. Zabowski lined out to lf.,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA04HOME03,bat,C. Johnson flied out to rf.,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA05AWAY01,bat,Miozzi grounded out to ss.,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA05AWAY02,bat,McConnell singled to third base  bunt.,1,NA,NA,NA,A,A1,1,Mcconnell,NA,NA,B,B1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA05AWAY03,bat,Acton doubled to right field;,1,Mcconnell,NA,NA,B,B1,1,Mcconnell,Acton,NA,E,E1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA05AWAY03,br,McConnell advanced to third.,1,Mcconnell,NA,NA,B,B1,1,NA,Acton,Mcconnell,G,G1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA05AWAY04,bat,Maldonado popped up to 2b.,1,NA,Acton,Mcconnell,G,G1,2,NA,Acton,Mcconnell,G,G2,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA05AWAY05,bat,Calilao reached on a fielding error by 3b;,2,NA,Acton,Mcconnell,G,G2,2,Calilao,Acton,Mcconnell,H,H2,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA05AWAY05,br,Acton scored unearned;,2,NA,Acton,Mcconnell,G,G2,2,Calilao,NA,Mcconnell,F,F2,1
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA05AWAY05,br,McConnell scored unearned.,2,NA,Acton,Mcconnell,G,G2,2,Calilao,NA,NA,B,B2,1
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA05AWAY06,bat,Langworthy walked;,2,Calilao,NA,NA,B,B2,2,Langworthy,NA,NA,B,B2,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA05AWAY06,br,Calilao advanced to second.,2,Calilao,NA,NA,B,B2,2,Langworthy,Calilao,NA,E,E2,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA05AWAY07,bat,Dalton hit by pitch;,2,Langworthy,Calilao,NA,E,E2,2,Dalton,Calilao,NA,E,E2,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA05AWAY07,br,Langworthy advanced to second;,2,Langworthy,Calilao,NA,E,E2,2,Dalton,Langworthy,NA,E,E2,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA05AWAY07,br,Calilao advanced to third.,2,Langworthy,Calilao,NA,E,E2,2,Dalton,Langworthy,Calilao,H,H2,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA05AWAY08,bat,Fabian singled through the left side  2 RBI;,2,Dalton,Langworthy,Calilao,H,H2,2,Fabian,Langworthy,Calilao,H,H2,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA05AWAY08,br,Dalton advanced to second;,2,Dalton,Langworthy,Calilao,H,H2,2,Fabian,Dalton,Calilao,H,H2,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA05AWAY08,br,Langworthy scored unearned;,2,Dalton,Langworthy,Calilao,H,H2,2,Fabian,Dalton,Calilao,H,H2,1
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA05AWAY08,br,Calilao scored unearned.,2,Dalton,Langworthy,Calilao,H,H2,2,Fabian,Dalton,NA,E,E2,1
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA05AWAY09,bat,Armstrong struck out looking.,2,Fabian,Dalton,NA,E,E2,3,Fabian,Dalton,NA,E,E3,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA06HOME01,bat,K. Graham flied out to lf.,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA06HOME02,bat,C. Cockrell singled up the middle.,1,NA,NA,NA,A,A1,1,Cockrell,NA,NA,B,B1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA06HOME03,br,C. Cockrell advanced to second on a balk.,1,Cockrell,NA,NA,B,B1,1,NA,Cockrell,NA,C,C1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA06HOME04,bat,A. Servideo struck out swinging.,1,NA,Cockrell,NA,C,C1,2,NA,Cockrell,NA,C,C2,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA06HOME05,bat,R. Olenek hit by pitch.,2,NA,Cockrell,NA,C,C2,2,Olenek,Cockrell,NA,E,E2,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA06HOME06,bat,G. Kessinger walked;,2,Olenek,Cockrell,NA,E,E2,2,Kessinger,Cockrell,NA,E,E2,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA06HOME06,br,R. Olenek advanced to second;,2,Olenek,Cockrell,NA,E,E2,2,Kessinger,Olenek,NA,E,E2,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA06HOME06,br,C. Cockrell advanced to third.,2,Olenek,Cockrell,NA,E,E2,2,Kessinger,Olenek,Cockrell,H,H2,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA06HOME07,bat,T. Keenan struck out swinging.,2,Kessinger,Olenek,Cockrell,H,H2,3,Kessinger,Olenek,Cockrell,H,H3,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA07AWAY01,sub,C. Green to p for H. Roth.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA07AWAY02,bat,Miozzi struck out swinging.,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA07AWAY03,bat,McConnell singled to left field.,1,NA,NA,NA,A,A1,1,Mcconnell,NA,NA,B,B1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA07AWAY04,br,McConnell advanced to second on a wild pitch.,1,Mcconnell,NA,NA,B,B1,1,NA,Mcconnell,NA,C,C1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA07AWAY05,bat,Acton doubled down the lf line;,1,NA,Mcconnell,NA,C,C1,1,NA,Acton,NA,C,C1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA07AWAY05,br,McConnell advanced to third.,1,NA,Mcconnell,NA,C,C1,1,NA,Acton,Mcconnell,G,G1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA07AWAY06,bat,Maldonado intentionally walked.,1,NA,Acton,Mcconnell,G,G1,1,Maldonado,Acton,Mcconnell,H,H1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA07AWAY07,bat,Calilao walked  RBI;,1,Maldonado,Acton,Mcconnell,H,H1,1,Calilao,Acton,Mcconnell,H,H1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA07AWAY07,br,Maldonado advanced to second;,1,Maldonado,Acton,Mcconnell,H,H1,1,Calilao,Maldonado,Mcconnell,H,H1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA07AWAY07,br,Acton advanced to third;,1,Maldonado,Acton,Mcconnell,H,H1,1,Calilao,Maldonado,Acton,H,H1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA07AWAY07,br,McConnell scored.,1,Maldonado,Acton,Mcconnell,H,H1,1,Calilao,Maldonado,Acton,H,H1,1
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA07AWAY08,bat,Langworthy flied out to cf  SF  RBI;,1,Calilao,Maldonado,Acton,H,H1,2,Calilao,Maldonado,Acton,H,H2,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA07AWAY08,br,Maldonado advanced to third;,1,Calilao,Maldonado,Acton,H,H1,2,Calilao,NA,Maldonado,F,F2,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA07AWAY08,br,Acton scored.,1,Calilao,Maldonado,Acton,H,H1,2,Calilao,NA,Maldonado,F,F2,1
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA07AWAY09,bat,Dalton doubled down the lf line  2 RBI;,2,Calilao,NA,Maldonado,F,F2,2,Calilao,Dalton,Maldonado,H,H2,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA07AWAY09,br,Calilao scored;,2,Calilao,NA,Maldonado,F,F2,2,NA,Dalton,Maldonado,G,G2,1
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA07AWAY09,br,Maldonado scored.,2,Calilao,NA,Maldonado,F,F2,2,NA,Dalton,NA,C,C2,1
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA07AWAY10,sub,A. Miller to p for C. Green.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA07AWAY11,bat,Fabian struck out looking.,2,NA,Dalton,NA,C,C2,3,NA,Dalton,NA,C,C3,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA08HOME01,bat,T. Dillard walked.,0,NA,NA,NA,A,A0,0,Dillard,NA,NA,B,B0,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA08HOME02,br,T. Dillard advanced to second on a balk.,0,Dillard,NA,NA,B,B0,0,NA,Dillard,NA,C,C0,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA08HOME03,bat,C. Zabowski homered to right field  2 RBI;,0,NA,Dillard,NA,C,C0,0,NA,NA,NA,A,A0,1
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA08HOME03,br,T. Dillard scored.,0,NA,Dillard,NA,C,C0,0,NA,NA,NA,A,A0,1
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA08HOME04,sub,K. Loposer to c for C. Johnson.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA08HOME05,bat,K. Loposer flied out to rf.,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA08HOME06,bat,K. Graham struck out swinging.,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA08HOME07,bat,C. Cockrell struck out swinging.,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA09AWAY01,batbr,Armstrong struck out swinging out at first c to 1b.,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA09AWAY01,batbr,Armstrong struck out swinging out at first c to 1b.,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA09AWAY02,bat,Miozzi flied out to rf.,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA09AWAY03,bat,McConnell flied out to cf.,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA10HOME01,bat,A. Servideo singled up the middle.,0,NA,NA,NA,A,A0,0,Servideo,NA,NA,B,B0,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA10HOME02,bat,R. Olenek singled through the left side;,0,Servideo,NA,NA,B,B0,0,Olenek,NA,NA,B,B0,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA10HOME02,br,A. Servideo advanced to second.,0,Servideo,NA,NA,B,B0,0,Olenek,Servideo,NA,E,E0,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA10HOME03,bat,G. Kessinger singled through the left side  RBI;,0,Olenek,Servideo,NA,E,E0,0,Kessinger,Servideo,NA,E,E0,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA10HOME03,br,R. Olenek advanced to second;,0,Olenek,Servideo,NA,E,E0,0,Kessinger,Olenek,NA,E,E0,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA10HOME03,br,A. Servideo scored.,0,Olenek,Servideo,NA,E,E0,0,Kessinger,Olenek,NA,E,E0,1
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA10HOME04,other,Game entered lightning delay at 6:13 p.m. with 3-1 count on Keenan.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA10HOME05,other,Play resumed at 7:16 p.m. after a delay of 1 hour 3 minutes.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA10HOME06,bat,T. Keenan walked;,0,Kessinger,Olenek,NA,E,E0,0,Keenan,Olenek,NA,E,E0,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA10HOME06,br,G. Kessinger advanced to second;,0,Kessinger,Olenek,NA,E,E0,0,Keenan,Kessinger,NA,E,E0,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA10HOME06,br,R. Olenek advanced to third.,0,Kessinger,Olenek,NA,E,E0,0,Keenan,Kessinger,Olenek,H,H0,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA10HOME07,sub,Crisp to p for Scott.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA10HOME08,bat,T. Dillard walked  RBI;,0,Keenan,Kessinger,Olenek,H,H0,0,Dillard,Kessinger,Olenek,H,H0,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA10HOME08,br,T. Keenan advanced to second;,0,Keenan,Kessinger,Olenek,H,H0,0,Dillard,Keenan,Olenek,H,H0,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA10HOME08,br,G. Kessinger advanced to third;,0,Keenan,Kessinger,Olenek,H,H0,0,Dillard,Keenan,Kessinger,H,H0,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA10HOME08,br,R. Olenek scored.,0,Keenan,Kessinger,Olenek,H,H0,0,Dillard,Keenan,Kessinger,H,H0,1
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA10HOME09,bat,C. Zabowski walked  RBI;,0,Dillard,Keenan,Kessinger,H,H0,0,Zabowski,Keenan,Kessinger,H,H0,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA10HOME09,br,T. Dillard advanced to second;,0,Dillard,Keenan,Kessinger,H,H0,0,Zabowski,Dillard,Kessinger,H,H0,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA10HOME09,br,T. Keenan advanced to third;,0,Dillard,Keenan,Kessinger,H,H0,0,Zabowski,Dillard,Keenan,H,H0,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA10HOME09,br,G. Kessinger scored.,0,Dillard,Keenan,Kessinger,H,H0,0,Zabowski,Dillard,Keenan,H,H0,1
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA10HOME10,bat,K. Loposer doubled down the lf line  2 RBI;,0,Zabowski,Dillard,Keenan,H,H0,0,Zabowski,Loposer,Keenan,H,H0,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA10HOME10,br,C. Zabowski advanced to third;,0,Zabowski,Dillard,Keenan,H,H0,0,NA,Loposer,Zabowski,G,G0,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA10HOME10,br,T. Dillard scored;,0,Zabowski,Dillard,Keenan,H,H0,0,NA,Loposer,Zabowski,G,G0,1
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA10HOME10,br,T. Keenan scored.,0,Zabowski,Dillard,Keenan,H,H0,0,NA,Loposer,Zabowski,G,G0,1
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA10HOME11,bat,K. Graham grounded out to 1b unassisted  RBI;,0,NA,Loposer,Zabowski,G,G0,1,NA,Loposer,Zabowski,G,G1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA10HOME11,br,K. Loposer advanced to third;,0,NA,Loposer,Zabowski,G,G0,1,NA,NA,Loposer,D,D1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA10HOME11,br,C. Zabowski scored.,0,NA,Loposer,Zabowski,G,G0,1,NA,NA,Loposer,D,D1,1
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA10HOME12,bat,C. Cockrell singled to left field  RBI;,1,NA,NA,Loposer,D,D1,1,Cockrell,NA,Loposer,F,F1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA10HOME12,br,K. Loposer scored.,1,NA,NA,Loposer,D,D1,1,Cockrell,NA,NA,B,B1,1
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA10HOME13,bat,A. Servideo reached on a fielding error by ss;,1,Cockrell,NA,NA,B,B1,1,Servideo,NA,NA,B,B1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA10HOME13,br,C. Cockrell advanced to third.,1,Cockrell,NA,NA,B,B1,1,Servideo,NA,Cockrell,F,F1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA10HOME14,bat,R. Olenek singled up the middle  RBI;,1,Servideo,NA,Cockrell,F,F1,1,Olenek,NA,Cockrell,F,F1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA10HOME14,br,A. Servideo advanced to second;,1,Servideo,NA,Cockrell,F,F1,1,Olenek,Servideo,Cockrell,H,H1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA10HOME14,br,C. Cockrell scored unearned.,1,Servideo,NA,Cockrell,F,F1,1,Olenek,Servideo,NA,E,E1,1
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA10HOME15,bat,G. Kessinger popped up to ss.,1,Olenek,Servideo,NA,E,E1,2,Olenek,Servideo,NA,E,E2,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA10HOME16,bat,T. Keenan flied out to cf.,2,Olenek,Servideo,NA,E,E2,3,Olenek,Servideo,NA,E,E3,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA11AWAY01,bat,Acton flied out to cf.,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA11AWAY02,bat,Maldonado homered to left field  RBI.,1,NA,NA,NA,A,A1,1,NA,NA,NA,A,A1,1
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA11AWAY03,bat,Calilao singled through the left side.,1,NA,NA,NA,A,A1,1,Calilao,NA,NA,B,B1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA11AWAY04,bat,Langworthy doubled to right field;,1,Calilao,NA,NA,B,B1,1,Calilao,Langworthy,NA,E,E1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA11AWAY04,br,Calilao advanced to third.,1,Calilao,NA,NA,B,B1,1,NA,Langworthy,Calilao,G,G1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA11AWAY05,sub,P. Caracci to p for A. Miller.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA11AWAY06,bat,Dalton struck out swinging.,1,NA,Langworthy,Calilao,G,G1,2,NA,Langworthy,Calilao,G,G2,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA11AWAY07,br,Langworthy advanced to third;,2,NA,Langworthy,Calilao,G,G2,2,NA,NA,Langworthy,D,D2,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA11AWAY07,br,Calilao scored on a wild pitch.,2,NA,NA,Langworthy,D,D2,2,NA,NA,Langworthy,D,D2,1
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA11AWAY08,bat,Fabian grounded out to ss.,2,NA,NA,Langworthy,D,D2,3,NA,NA,Langworthy,D,D3,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA12HOME01,bat,T. Dillard flied out to rf.,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA12HOME02,bat,C. Zabowski singled to right field.,1,NA,NA,NA,A,A1,1,Zabowski,NA,NA,B,B1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA12HOME03,bat,K. Loposer flied out to lf.,1,Zabowski,NA,NA,B,B1,2,Zabowski,NA,NA,B,B2,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA12HOME04,bat,K. Graham singled to left center;,2,Zabowski,NA,NA,B,B2,2,Graham,NA,NA,B,B2,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA12HOME04,br,C. Zabowski advanced to third.,2,Zabowski,NA,NA,B,B2,2,Graham,NA,Zabowski,F,F2,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA12HOME05,br,K. Graham advanced to second on a balk;,2,Graham,NA,Zabowski,F,F2,2,NA,Graham,Zabowski,G,G2,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA12HOME05,br,C. Zabowski scored on a balk.,2,Graham,NA,Zabowski,F,F2,2,NA,Graham,NA,C,C2,1
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA12HOME06,bat,C. Cockrell grounded out to 3b.,2,NA,Graham,NA,C,C2,3,NA,Graham,NA,C,C3,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA13AWAY01,bat,Armstrong flied out to cf.,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA13AWAY02,bat,Miozzi grounded out to 3b.,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA13AWAY03,bat,McConnell singled to left field.,2,NA,NA,NA,A,A2,2,Mcconnell,NA,NA,B,B2,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA13AWAY04,br,McConnell out at first p to 1b picked off.,2,Mcconnell,NA,NA,B,B2,3,NA,NA,NA,A,A3,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA14HOME01,sub,Acton to 3b.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA14HOME02,sub,Reese to 2b for Armstrong.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA14HOME03,bat,A. Servideo tripled to right center.,0,NA,NA,NA,A,A0,0,NA,NA,Servideo,D,D0,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA14HOME04,sub,Pogue to p for Crisp.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA14HOME05,bat,R. Olenek doubled to left center  RBI;,0,NA,NA,Servideo,D,D0,0,NA,Olenek,Servideo,G,G0,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA14HOME05,br,A. Servideo scored.,0,NA,NA,Servideo,D,D0,0,NA,Olenek,NA,C,C0,1
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA14HOME06,br,R. Olenek advanced to third on a wild pitch.,0,NA,Olenek,NA,C,C0,0,NA,NA,Olenek,D,D0,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA14HOME07,bat,G. Kessinger grounded out to 2b.,0,NA,NA,Olenek,D,D0,1,NA,NA,Olenek,D,D1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA14HOME08,batbr,"T. Keenan reached on a fielders choice advanced to second;,1,NA,NA,Olenek,D,D1,1,Keenan,NA,Olenek,F,F1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA14HOME08,batbr,"T. Keenan reached on a fielders choice advanced to second;,1,NA,NA,Olenek,D,D1,1,NA,Keenan,Olenek,G,G1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA14HOME08,br,R. Olenek out at home p to c to 3b to p.",1,NA,NA,Olenek,D,D1,2,NA,Keenan,NA,C,C2,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA14HOME09,other,Play at the late was reviewed. Play stands.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA14HOME10,bat,T. Dillard struck out looking.,2,NA,Keenan,NA,C,C2,3,NA,Keenan,NA,C,C3,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA15AWAY01,sub,J. Hall to rf for C. Cockrell.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA15AWAY02,bat,Acton hit by pitch.,0,NA,NA,NA,A,A0,0,Acton,NA,NA,B,B0,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA15AWAY03,br,Acton advanced to second on a wild pitch.,0,Acton,NA,NA,B,B0,0,NA,Acton,NA,C,C0,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA15AWAY04,bat,Maldonado flied out to lf.,0,NA,Acton,NA,C,C0,1,NA,Acton,NA,C,C1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA15AWAY05,bat,Calilao walked.,1,NA,Acton,NA,C,C1,1,Calilao,Acton,NA,E,E1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA15AWAY06,bat,"Langworthy reached on a fielders choice;,1,Calilao,Acton,NA,E,E1,1,Langworthy,Acton,NA,E,E1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA15AWAY06,br,Calilao out at second 1b to ss;,1,Calilao,Acton,NA,E,E1,2,Langworthy,Acton,NA,E,E2,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA15AWAY06,br,Acton advanced to third.",1,Calilao,Acton,NA,E,E1,2,Langworthy,NA,Acton,F,F2,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA15AWAY07,bat,Dalton flied out to rf.,2,Langworthy,NA,Acton,F,F2,3,Langworthy,NA,Acton,F,F3,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA16HOME01,sub,J. Young to lf for Maldonado.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA16HOME02,sub,Langworthy to p for Pogue.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA16HOME03,bat,C. Zabowski reached on a fielding error by 1b.,0,NA,NA,NA,A,A0,0,Zabowski,NA,NA,B,B0,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA16HOME04,bat,K. Loposer flied out to lf.,0,Zabowski,NA,NA,B,B0,1,Zabowski,NA,NA,B,B1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA16HOME05,bat,K. Graham grounded into double play ss to 2b to 1b;,1,Zabowski,NA,NA,B,B1,2,Zabowski,NA,NA,B,B2,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA16HOME05,br,C. Zabowski out on the play.,1,Zabowski,NA,NA,B,B1,3,NA,NA,NA,A,A3,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA17AWAY01,sub,J. Adams to 2b for R. Olenek.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA17AWAY02,sub,J. Hall to cf.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA17AWAY03,sub,A. Servideo to rf.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA17AWAY04,bat,Fabian grounded out to 2b.,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA17AWAY05,bat,Reese struck out looking.,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA17AWAY06,sub,Butler pinch hit for Miozzi.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+FLOR_OMSS_0406201902,FLOR_OMSS_0406201902_PA17AWAY07,bat,Butler grounded out to 3b.,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0

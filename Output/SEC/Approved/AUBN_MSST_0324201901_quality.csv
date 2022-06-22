@@ -1,0 +1,194 @@
+GameID,PlateAppID,AUType,AUString,startOuts,startOnFirst,startOnSecond,startOnThird,startBaseState,startBaseOutState,endOuts,endOnFirst,endOnSecond,endOnThird,endBaseState,endBaseOutState,RPrime
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA01AWAY01,bat,Holland  W. singled to right field (2-2 BKBF).,0,NA,NA,NA,A,A0,0,Holland,NA,NA,B,B0,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA01AWAY02,bat,Williams  S. singled to right field (0-1 K);,0,Holland,NA,NA,B,B0,0,Williams,NA,NA,B,B0,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA01AWAY02,br,Holland W. advanced to second.,0,Holland,NA,NA,B,B0,0,Williams,Holland,NA,E,E0,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA01AWAY03,bat,Woley  R. struck out swinging (2-2 BSFBFS).,0,Williams,Holland,NA,E,E0,1,Williams,Holland,NA,E,E1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA01AWAY04,bat,Julien  E. lined out to cf (3-1 BBBK).,1,Williams,Holland,NA,E,E1,2,Williams,Holland,NA,E,E2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA01AWAY05,bat,Davis  Co. walked (3-1 KBBBB);,2,Williams,Holland,NA,E,E2,2,Davis,Holland,NA,E,E2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA01AWAY05,br,Williams S. advanced to second;,2,Williams,Holland,NA,E,E2,2,Davis,Williams,NA,E,E2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA01AWAY05,br,Holland W. advanced to third.,2,Williams,Holland,NA,E,E2,2,Davis,Williams,Holland,H,H2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA01AWAY06,bat,Bliss  R. struck out swinging (0-2 KFS).,2,Davis,Williams,Holland,H,H2,3,Davis,Williams,Holland,H,H3,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA02HOME01,bat,Mangum reached on a throwing error by ss (1-1 BF).,0,NA,NA,NA,A,A0,0,Mangum,NA,NA,B,B0,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA02HOME02,bat,Westburg struck out looking (2-2 FFBBK).,0,Mangum,NA,NA,B,B0,1,Mangum,NA,NA,B,B1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA02HOME03,bat,Allen doubled to left center (3-1 BBBK);,1,Mangum,NA,NA,B,B1,1,Mangum,Allen,NA,E,E1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA02HOME03,br,Mangum advanced to third.,1,Mangum,NA,NA,B,B1,1,NA,Allen,Mangum,G,G1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA02HOME04,bat,MacNamee flied out to rf  SF  RBI (0-1 F);,1,NA,Allen,Mangum,G,G1,2,NA,Allen,Mangum,G,G2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA02HOME04,br,Mangum scored unearned.,1,NA,Allen,Mangum,G,G1,2,NA,Allen,NA,C,C2,1
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA02HOME05,bat,Foscue walked (3-1 BBBKB).,2,NA,Allen,NA,C,C2,2,Foscue,Allen,NA,E,E2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA02HOME06,bat,Skelton struck out looking (1-2 SBFFK).,2,Foscue,Allen,NA,E,E2,3,Foscue,Allen,NA,E,E3,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA03AWAY01,bat,Howell  K. grounded out to 1b unassisted (2-1 BBK).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA03AWAY02,bat,Ward  J. flied out to cf (0-0).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA03AWAY03,bat,Scheffler  M grounded out to ss (0-1 K).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA04HOME01,bat,Cumbest singled up the middle (2-1 BKB).,0,NA,NA,NA,A,A0,0,Cumbest,NA,NA,B,B0,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA04HOME02,bat,"Jordan  R. reached on a fielders choice (0-0);,0,Cumbest,NA,NA,B,B0,0,Jordan,NA,NA,B,B0,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA04HOME02,br,Cumbest out at second ss to 2b.",0,Cumbest,NA,NA,B,B0,1,Jordan,NA,NA,B,B1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA04HOME03,br,Jordan R. stole second.,1,Jordan,NA,NA,B,B1,1,NA,Jordan,NA,C,C1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA04HOME04,bat,Halter grounded out to 2b (0-1 S);,1,NA,Jordan,NA,C,C1,2,NA,Jordan,NA,C,C2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA04HOME04,br,Jordan R. advanced to third.,1,NA,Jordan,NA,C,C1,2,NA,NA,Jordan,D,D2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA04HOME05,bat,Mangum doubled down the lf line  RBI (0-0);,2,NA,NA,Jordan,D,D2,2,NA,Mangum,Jordan,G,G2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA04HOME05,br,Jordan R. scored.,2,NA,NA,Jordan,D,D2,2,NA,Mangum,NA,C,C2,1
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA04HOME06,bat,Westburg flied out to lf (0-0).,2,NA,Mangum,NA,C,C2,3,NA,Mangum,NA,C,C3,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA05AWAY01,bat,Holland  W. singled to third base (0-1 K).,0,NA,NA,NA,A,A0,0,Holland,NA,NA,B,B0,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA05AWAY02,bat,Williams  S. struck out looking (2-2 BSSBK).,0,Holland,NA,NA,B,B0,1,Holland,NA,NA,B,B1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA05AWAY03,bat,Woley  R. singled through the left side (1-0 B);,1,Holland,NA,NA,B,B1,1,Woley,NA,NA,B,B1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA05AWAY03,br,Holland W. advanced to second.,1,Holland,NA,NA,B,B1,1,Woley,Holland,NA,E,E1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA05AWAY04,bat,Julien  E. singled to center field  RBI (0-0);,1,Woley,Holland,NA,E,E1,1,Julien,Holland,NA,E,E1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA05AWAY04,br,Woley R. advanced to second;,1,Woley,Holland,NA,E,E1,1,Julien,Woley,NA,E,E1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA05AWAY04,br,Holland W. scored.,1,Woley,Holland,NA,E,E1,1,Julien,Woley,NA,E,E1,1
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA05AWAY05,bat,Davis  Co. singled through the left side (1-0 B);,1,Julien,Woley,NA,E,E1,1,Davis,Woley,NA,E,E1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA05AWAY05,br,Julien E. advanced to second;,1,Julien,Woley,NA,E,E1,1,Davis,Julien,NA,E,E1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA05AWAY05,br,Woley R. advanced to third.,1,Julien,Woley,NA,E,E1,1,Davis,Julien,Woley,H,H1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA05AWAY06,bat,Bliss  R. doubled down the lf line  2 RBI (0-1 F);,1,Davis,Julien,Woley,H,H1,1,Davis,Bliss,Woley,H,H1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA05AWAY06,br,Davis Co. advanced to third;,1,Davis,Julien,Woley,H,H1,1,NA,Bliss,Davis,G,G1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA05AWAY06,br,Julien E. scored;,1,Davis,Julien,Woley,H,H1,1,NA,Bliss,Davis,G,G1,1
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA05AWAY06,br,Woley R. scored.,1,Davis,Julien,Woley,H,H1,1,NA,Bliss,Davis,G,G1,1
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA05AWAY07,bat,Howell  K. singled to right field  RBI (0-0);,1,NA,Bliss,Davis,G,G1,1,Howell,Bliss,Davis,H,H1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA05AWAY07,br,Davis Co. scored.,1,NA,Bliss,Davis,G,G1,1,Howell,Bliss,NA,E,E1,1
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA05AWAY08,bat,Ward  J. grounded out to c  SAC  bunt (0-0);,1,Howell,Bliss,NA,E,E1,2,Howell,Bliss,NA,E,E2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA05AWAY08,br,Howell K. advanced to second;,1,Howell,Bliss,NA,E,E1,2,NA,Howell,NA,C,C2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA05AWAY08,br,Bliss R. advanced to third.,1,Howell,Bliss,NA,E,E1,2,NA,Howell,Bliss,G,G2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA05AWAY09,bat,Scheffler  M grounded out to 1b unassisted (0-0).,2,NA,Howell,Bliss,G,G2,3,NA,Howell,Bliss,G,G3,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA06HOME01,bat,Allen grounded out to 2b (2-1 BBF).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA06HOME02,bat,MacNamee doubled to right center (0-1 K).,1,NA,NA,NA,A,A1,1,NA,Macnamee,NA,C,C1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA06HOME03,bat,Foscue flied out to cf (2-0 BB);,1,NA,Macnamee,NA,C,C1,2,NA,Macnamee,NA,C,C2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA06HOME03,br,MacNamee advanced to third.,1,NA,Macnamee,NA,C,C1,2,NA,NA,Macnamee,D,D2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA06HOME04,bat,Skelton singled to left center  RBI (2-2 BSBSF);,2,NA,NA,Macnamee,D,D2,2,Skelton,NA,Macnamee,F,F2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA06HOME04,br,MacNamee scored.,2,NA,NA,Macnamee,D,D2,2,Skelton,NA,NA,B,B2,1
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA06HOME05,br,Skelton stole second.,2,Skelton,NA,NA,B,B2,2,NA,Skelton,NA,C,C2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA06HOME06,batbr,Cumbest doubled down the lf line advanced to third on a fielding error by lf RBI (2-2 FFBBF);,2,NA,Skelton,NA,C,C2,2,NA,Cumbest,NA,C,C2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA06HOME06,batbr,Cumbest doubled down the lf line advanced to third on a fielding error by lf RBI (2-2 FFBBF);,2,NA,Skelton,NA,C,C2,2,NA,NA,Cumbest,D,D2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA06HOME06,br,Skelton scored.,2,NA,Skelton,NA,C,C2,2,NA,NA,Cumbest,D,D2,1
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA06HOME07,sub,Horn B. to p for Anderson E..,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA06HOME08,bat,Jordan  R. doubled down the lf line  RBI (2-0 BB);,2,NA,NA,Cumbest,D,D2,2,NA,Jordan,Cumbest,G,G2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA06HOME08,br,Cumbest scored.,2,NA,NA,Cumbest,D,D2,2,NA,Jordan,NA,C,C2,1
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA06HOME09,bat,Halter flied out to cf (1-1 BK).,2,NA,Jordan,NA,C,C2,3,NA,Jordan,NA,C,C3,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA07AWAY01,sub,Price to p for James.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA07AWAY02,bat,Holland  W. walked (3-1 BBBKB).,0,NA,NA,NA,A,A0,0,Holland,NA,NA,B,B0,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA07AWAY03,bat,Williams  S. homered to right field  2 RBI (0-0);,0,Holland,NA,NA,B,B0,0,NA,NA,NA,A,A0,1
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA07AWAY03,br,Holland W. scored.,0,Holland,NA,NA,B,B0,0,NA,NA,NA,A,A0,1
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA07AWAY04,bat,Woley  R. singled down the lf line (3-2 KSBBFB).,0,NA,NA,NA,A,A0,0,Woley,NA,NA,B,B0,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA07AWAY05,sub,Smith to p for Price.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA07AWAY06,bat,Julien  E. doubled to right center  RBI (3-2 BFBBK);,0,Woley,NA,NA,B,B0,0,Woley,Julien,NA,E,E0,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA07AWAY06,br,Woley R. scored.,0,Woley,NA,NA,B,B0,0,NA,Julien,NA,C,C0,1
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA07AWAY07,bat,Davis  Co. singled down the lf line  RBI (0-1 K);,0,NA,Julien,NA,C,C0,0,Davis,Julien,NA,E,E0,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA07AWAY07,br,Julien E. scored.,0,NA,Julien,NA,C,C0,0,Davis,NA,NA,B,B0,1
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA07AWAY08,other,Review: Hit-by-pitch or foul ball - Call Reversed.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA07AWAY09,bat,Bliss  R. hit by pitch (0-1 K);,0,Davis,NA,NA,B,B0,0,Bliss,NA,NA,B,B0,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA07AWAY09,br,Davis Co. advanced to second.,0,Davis,NA,NA,B,B0,0,Bliss,Davis,NA,E,E0,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA07AWAY10,bat,Howell  K. singled through the left side (0-1 K);,0,Bliss,Davis,NA,E,E0,0,Howell,Davis,NA,E,E0,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA07AWAY10,br,Bliss R. advanced to second;,0,Bliss,Davis,NA,E,E0,0,Howell,Bliss,NA,E,E0,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA07AWAY10,br,Davis Co. advanced to third.,0,Bliss,Davis,NA,E,E0,0,Howell,Bliss,Davis,H,H0,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA07AWAY11,bat,Ward  J. singled to right field  RBI (1-1 FB);,0,Howell,Bliss,Davis,H,H0,0,Ward,Bliss,Davis,H,H0,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA07AWAY11,br,Howell K. advanced to second advanced to third on the error;,0,Howell,Bliss,Davis,H,H0,0,Ward,Howell,Davis,H,H0,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA07AWAY11,br,Bliss R. advanced to third scored on a fielding error by rf;,0,Howell,Bliss,Davis,H,H0,0,Ward,Howell,Bliss,H,H0,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA07AWAY11,br,Davis Co. scored.,0,Howell,Bliss,Davis,H,H0,0,Ward,Howell,Bliss,H,H0,1
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA07AWAY12,sub,Self to p for Smith.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA07AWAY13,bat,Scheffler  M grounded out to 2b  RBI (1-2 KBFF);,0,Ward,Howell,Bliss,H,H0,1,Ward,Howell,Bliss,H,H1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA07AWAY13,br,Ward J. advanced to second;,0,Ward,Howell,Bliss,H,H0,1,NA,Ward,Bliss,G,G1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA07AWAY13,br,Howell K. scored.,0,Ward,Howell,Bliss,H,H0,1,NA,Ward,Bliss,G,G1,1
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA07AWAY14,other,Review: Safe or Out at 1B - Call Stands.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA07AWAY15,bat,Holland  W. reached on a fielding error by 2b.,1,NA,Ward,Bliss,G,G1,1,Holland,Ward,Bliss,H,H1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA07AWAY16,bat,Williams  S. grounded into double play 2b to ss to 1b (0-2 FK);,1,Holland,Ward,Bliss,H,H1,2,Holland,Ward,Bliss,H,H2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA07AWAY16,br,Holland W. out on the play.,1,Holland,Ward,Bliss,H,H1,3,NA,Ward,Bliss,G,G3,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA08HOME01,bat,Mangum walked (3-0 BBBB).,0,NA,NA,NA,A,A0,0,Mangum,NA,NA,B,B0,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA08HOME02,bat,"Westburg reached on a fielders choice (0-1 F);,0,Mangum,NA,NA,B,B0,0,Westburg,NA,NA,B,B0,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA08HOME02,br,Mangum out at second 2b to ss.",0,Mangum,NA,NA,B,B0,1,Westburg,NA,NA,B,B1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA08HOME03,br,Westburg advanced to second on a passed ball.,1,Westburg,NA,NA,B,B1,1,NA,Westburg,NA,C,C1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA08HOME04,bat,Allen singled to right field  RBI (1-1 BS);,1,NA,Westburg,NA,C,C1,1,Allen,Westburg,NA,E,E1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA08HOME04,br,Westburg scored unearned.,1,NA,Westburg,NA,C,C1,1,Allen,NA,NA,B,B1,1
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA08HOME05,bat,MacNamee struck out looking (1-2 BKSK).,1,Allen,NA,NA,B,B1,2,Allen,NA,NA,B,B2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA08HOME06,bat,Foscue grounded out to 2b (0-2 KKF).,2,Allen,NA,NA,B,B2,3,Allen,NA,NA,B,B3,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA09AWAY01,bat,Woley  R. grounded out to 3b (0-0).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA09AWAY02,bat,Julien  E. grounded out to 1b unassisted (3-2 BFFFBFFBF).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA09AWAY03,bat,Davis  Co. singled to center field (1-0 B).,2,NA,NA,NA,A,A2,2,Davis,NA,NA,B,B2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA09AWAY04,bat,Bliss  R. singled through the right side (0-2 FF);,2,Davis,NA,NA,B,B2,2,Bliss,NA,NA,B,B2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA09AWAY04,br,Davis Co. advanced to second.,2,Davis,NA,NA,B,B2,2,Bliss,Davis,NA,E,E2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA09AWAY05,br,Bliss R. advanced to second on a wild pitch;,2,Bliss,Davis,NA,E,E2,2,NA,Bliss,NA,C,C2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA09AWAY05,br,Davis Co. advanced to third on a wild pitch.,2,NA,Bliss,NA,C,C2,2,NA,Bliss,Davis,G,G2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA09AWAY06,bat,Howell  K. grounded out to ss (2-2 SFBFB).,2,NA,Bliss,Davis,G,G2,3,NA,Bliss,Davis,G,G3,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA10HOME01,bat,Skelton walked (3-2 BBFFBB).,0,NA,NA,NA,A,A0,0,Skelton,NA,NA,B,B0,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA10HOME02,bat,Cumbest flied out to cf (0-2 KK).,0,Skelton,NA,NA,B,B0,1,Skelton,NA,NA,B,B1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA10HOME03,batbr,Jordan R. singled advanced to second on the throw (0-1 F);,1,Skelton,NA,NA,B,B1,1,Jordan,NA,NA,B,B1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA10HOME03,batbr,Jordan R. singled advanced to second on the throw (0-1 F);,1,Skelton,NA,NA,B,B1,1,NA,Jordan,NA,C,C1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA10HOME03,br,Skelton advanced to third.,1,Skelton,NA,NA,B,B1,1,NA,Jordan,Skelton,G,G1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA10HOME04,bat,Halter singled up the middle  2 RBI (0-0);,1,NA,Jordan,Skelton,G,G1,1,Halter,Jordan,Skelton,H,H1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA10HOME04,br,Jordan R. scored;,1,NA,Jordan,Skelton,G,G1,1,Halter,NA,Skelton,F,F1,1
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA10HOME04,br,Skelton scored.,1,NA,Jordan,Skelton,G,G1,1,Halter,NA,NA,B,B1,1
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA10HOME05,sub,Gray K. to p for Horn B..,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA10HOME06,bat,Mangum flied out to cf (2-0 BB).,1,Halter,NA,NA,B,B1,2,Halter,NA,NA,B,B2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA10HOME07,other,Review: Ball or Hit-by-Pitch - Call Stands.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA10HOME08,br,Halter stole second.,2,Halter,NA,NA,B,B2,2,NA,Halter,NA,C,C2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA10HOME09,bat,Westburg homered to center field  2 RBI (3-2 BBBSK);,2,NA,Halter,NA,C,C2,2,NA,NA,NA,A,A2,1
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA10HOME09,br,Halter scored.,2,NA,Halter,NA,C,C2,2,NA,NA,NA,A,A2,1
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA10HOME10,batbr,Allen struck out swinging out at first c to 1b (2-2 KBFBS).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA10HOME10,batbr,Allen struck out swinging out at first c to 1b (2-2 KBFBS).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA11AWAY01,sub,Barlow to p for Self.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA11AWAY02,batbr,Ward J. struck out swinging out at first c to 1b (0-2 FSFS).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA11AWAY02,batbr,Ward J. struck out swinging out at first c to 1b (0-2 FSFS).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA11AWAY03,bat,Scheffler  M doubled to left field (0-1 F).,1,NA,NA,NA,A,A1,1,NA,Scheffler,NA,C,C1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA11AWAY04,bat,Holland  W. hit by pitch (0-1 K).,1,NA,Scheffler,NA,C,C1,1,Holland,Scheffler,NA,E,E1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA11AWAY05,bat,Williams  S. struck out swinging (1-2 SKBS).,1,Holland,Scheffler,NA,E,E1,2,Holland,Scheffler,NA,E,E2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA11AWAY06,bat,Woley  R. reached on a throwing error by ss (0-1 K);,2,Holland,Scheffler,NA,E,E2,2,Woley,Scheffler,NA,E,E2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA11AWAY06,br,Holland W. advanced to second advanced to third on the error;,2,Holland,Scheffler,NA,E,E2,2,Woley,Holland,NA,E,E2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA11AWAY06,br,Scheffler M advanced to third scored on the error unearned.,2,Holland,Scheffler,NA,E,E2,2,Woley,Holland,Scheffler,H,H2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA11AWAY07,bat,Julien  E. flied out to lf down the lf line (0-0).,2,Woley,Holland,Scheffler,H,H2,3,Woley,Holland,Scheffler,H,H3,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA12HOME01,sub,Wade G. to p for Gray K..,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA12HOME02,bat,MacNamee singled to center field (2-1 KBB).,0,NA,NA,NA,A,A0,0,Macnamee,NA,NA,B,B0,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA12HOME03,bat,Foscue walked (3-0 BBBB);,0,Macnamee,NA,NA,B,B0,0,Foscue,NA,NA,B,B0,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA12HOME03,br,MacNamee advanced to second.,0,Macnamee,NA,NA,B,B0,0,Foscue,Macnamee,NA,E,E0,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA12HOME04,sub,Greenhill C to p for Wade G..,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA12HOME05,bat,Skelton singled to third base  bunt (0-2 FF);,0,Foscue,Macnamee,NA,E,E0,0,Skelton,Macnamee,NA,E,E0,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA12HOME05,br,Foscue advanced to second;,0,Foscue,Macnamee,NA,E,E0,0,Skelton,Foscue,NA,E,E0,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA12HOME05,br,MacNamee advanced to third.,0,Foscue,Macnamee,NA,E,E0,0,Skelton,Foscue,Macnamee,H,H0,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA12HOME06,bat,Cumbest flied out to cf (0-0).,0,Skelton,Foscue,Macnamee,H,H0,1,Skelton,Foscue,Macnamee,H,H1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA12HOME07,bat,Jordan  R. doubled to right center  3 RBI (0-0);,1,Skelton,Foscue,Macnamee,H,H1,1,Skelton,Jordan,Macnamee,H,H1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA12HOME07,br,Skelton scored;,1,Skelton,Foscue,Macnamee,H,H1,1,NA,Jordan,Macnamee,G,G1,1
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA12HOME07,br,Foscue scored;,1,Skelton,Foscue,Macnamee,H,H1,1,NA,Jordan,Macnamee,G,G1,1
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA12HOME07,br,MacNamee scored.,1,Skelton,Foscue,Macnamee,H,H1,1,NA,Jordan,NA,C,C1,1
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA12HOME08,bat,Halter struck out swinging (1-2 FSBS).,1,NA,Jordan,NA,C,C1,2,NA,Jordan,NA,C,C2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA12HOME09,bat,Mangum grounded out to 2b (0-0).,2,NA,Jordan,NA,C,C2,3,NA,Jordan,NA,C,C3,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA13AWAY01,sub,Gordon to p for Barlow.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA13AWAY02,bat,Davis  Co. struck out swinging (1-2 BSFS).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA13AWAY03,bat,Bliss  R. singled to left center (0-1 K).,1,NA,NA,NA,A,A1,1,Bliss,NA,NA,B,B1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA13AWAY04,bat,Howell  K. singled through the left side (0-2 KF);,1,Bliss,NA,NA,B,B1,1,Howell,NA,NA,B,B1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA13AWAY04,br,Bliss R. advanced to second.,1,Bliss,NA,NA,B,B1,1,Howell,Bliss,NA,E,E1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA13AWAY05,bat,Ward  J. homered to right center  3 RBI (2-2 BSBK);,1,Howell,Bliss,NA,E,E1,1,NA,NA,NA,A,A1,1
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA13AWAY05,br,Howell K. scored;,1,Howell,Bliss,NA,E,E1,1,NA,NA,NA,A,A1,1
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA13AWAY05,br,Bliss R. scored.,1,Howell,Bliss,NA,E,E1,1,NA,NA,NA,A,A1,1
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA13AWAY06,bat,Scheffler  M struck out looking (2-2 KFBBFFK).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA13AWAY07,bat,Holland  W. struck out swinging (0-2 SFS).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA14HOME01,bat,Westburg hit by pitch (0-0).,0,NA,NA,NA,A,A0,0,Westburg,NA,NA,B,B0,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA14HOME02,bat,Allen flied out to cf (0-2 KK).,0,Westburg,NA,NA,B,B0,1,Westburg,NA,NA,B,B1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA14HOME03,bat,MacNamee grounded out to 2b (2-2 BBFFF);,1,Westburg,NA,NA,B,B1,2,Westburg,NA,NA,B,B2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA14HOME03,br,Westburg advanced to second.,1,Westburg,NA,NA,B,B1,2,NA,Westburg,NA,C,C2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA14HOME04,bat,Foscue doubled down the lf line  RBI (0-0);,2,NA,Westburg,NA,C,C2,2,NA,Foscue,NA,C,C2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA14HOME04,br,Westburg scored.,2,NA,Westburg,NA,C,C2,2,NA,Foscue,NA,C,C2,1
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA14HOME05,bat,Skelton singled to left field  RBI (0-1 S);,2,NA,Foscue,NA,C,C2,2,Skelton,Foscue,NA,E,E2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA14HOME05,br,Foscue scored.,2,NA,Foscue,NA,C,C2,2,Skelton,NA,NA,B,B2,1
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA14HOME06,bat,Cumbest singled to center field (1-1 SB);,2,Skelton,NA,NA,B,B2,2,Cumbest,NA,NA,B,B2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA14HOME06,br,Skelton advanced to second.,2,Skelton,NA,NA,B,B2,2,Cumbest,Skelton,NA,E,E2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA14HOME07,bat,Jordan  R. flied out to rf down the rf line (0-1 K).,2,Cumbest,Skelton,NA,E,E2,3,Cumbest,Skelton,NA,E,E3,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA15AWAY01,bat,Williams  S. walked (3-2 KBBBFB).,0,NA,NA,NA,A,A0,0,Williams,NA,NA,B,B0,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA15AWAY02,bat,Woley  R. flied out to rf (3-1 BBBK).,0,Williams,NA,NA,B,B0,1,Williams,NA,NA,B,B1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA15AWAY03,bat,Julien  E. singled through the right side (2-2 KBKB);,1,Williams,NA,NA,B,B1,1,Julien,NA,NA,B,B1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA15AWAY03,br,Williams S. advanced to second.,1,Williams,NA,NA,B,B1,1,Julien,Williams,NA,E,E1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA15AWAY04,bat,Davis  Co. flied out to rf (0-0).,1,Julien,Williams,NA,E,E1,2,Julien,Williams,NA,E,E2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA15AWAY05,bat,Bliss  R. grounded out to 3b (0-1 F).,2,Julien,Williams,NA,E,E2,3,Julien,Williams,NA,E,E3,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA16HOME01,bat,Halter struck out swinging (3-2 BBFFBFS).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA16HOME02,bat,Mangum singled up the middle (1-2 BKSF).,1,NA,NA,NA,A,A1,1,Mangum,NA,NA,B,B1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA16HOME03,bat,Westburg doubled to right center  RBI (0-1 K);,1,Mangum,NA,NA,B,B1,1,Mangum,Westburg,NA,E,E1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA16HOME03,br,Mangum scored.,1,Mangum,NA,NA,B,B1,1,NA,Westburg,NA,C,C1,1
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA16HOME04,sub,Skipper C. to p for Greenhill C.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA16HOME05,bat,Allen popped up to ss (0-0).,1,NA,Westburg,NA,C,C1,2,NA,Westburg,NA,C,C2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA16HOME06,bat,MacNamee walked (3-1 KBBBB).,2,NA,Westburg,NA,C,C2,2,Macnamee,Westburg,NA,E,E2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA16HOME07,bat,Foscue singled to right center  RBI (1-0 B);,2,Macnamee,Westburg,NA,E,E2,2,Foscue,Westburg,NA,E,E2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA16HOME07,br,MacNamee advanced to third;,2,Macnamee,Westburg,NA,E,E2,2,Foscue,Westburg,Macnamee,H,H2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA16HOME07,br,Westburg scored.,2,Macnamee,Westburg,NA,E,E2,2,Foscue,NA,Macnamee,F,F2,1
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA16HOME08,bat,Skelton homered to left center  3 RBI (0-0);,2,Foscue,NA,Macnamee,F,F2,2,NA,NA,NA,A,A2,1
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA16HOME08,br,Foscue scored;,2,Foscue,NA,Macnamee,F,F2,2,NA,NA,NA,A,A2,1
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA16HOME08,br,MacNamee scored.,2,Foscue,NA,Macnamee,F,F2,2,NA,NA,NA,A,A2,1
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA16HOME09,sub,Morrison W. to p for Skipper C..,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA16HOME10,bat,Cumbest flied out to lf (0-0).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA17AWAY01,bat,Howell  K. grounded out to 2b (3-2 BKBBF).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA17AWAY02,bat,Ward  J. flied out to lf to left center (0-0).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+AUBN_MSST_0324201901,AUBN_MSST_0324201901_PA17AWAY03,bat,Scheffler  M lined out to 3b (2-1 BSB).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0

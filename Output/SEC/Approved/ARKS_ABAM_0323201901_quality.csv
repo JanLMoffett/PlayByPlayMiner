@@ -1,0 +1,131 @@
+GameID,PlateAppID,AUType,AUString,startOuts,startOnFirst,startOnSecond,startOnThird,startBaseState,startBaseOutState,endOuts,endOnFirst,endOnSecond,endOnThird,endBaseState,endBaseOutState,RPrime
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA01AWAY01,bat,C. Martin fouled out to 1b (0-0).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA01AWAY02,bat,H. Kjerstad flied out to lf (3-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA01AWAY03,bat,T. Ezell grounded out to 2b (1-2).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA02HOME01,bat,Breaux flied out to lf (2-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA02HOME02,bat,Robinson reached on a throwing error by 3b (3-1).,1,NA,NA,NA,A,A1,1,Robinson,NA,NA,B,B1,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA02HOME03,bat,McCullough grounded out to 2b (0-0);,1,Robinson,NA,NA,B,B1,2,Robinson,NA,NA,B,B2,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA02HOME03,br,Robinson advanced to second.,1,Robinson,NA,NA,B,B1,2,NA,Robinson,NA,C,C2,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA02HOME04,bat,Gentry popped up to 3b (1-0).,2,NA,Robinson,NA,C,C2,3,NA,Robinson,NA,C,C3,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA03AWAY01,bat,D. Fletcher flied out to rf to right center (1-1).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA03AWAY02,bat,C. Opitz struck out swinging (0-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA03AWAY03,bat,T. Harris doubled to left field (0-1).,2,NA,NA,NA,A,A2,2,NA,Harris,NA,C,C2,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA03AWAY04,bat,J. Kenley walked (3-2).,2,NA,Harris,NA,C,C2,2,Kenley,Harris,NA,E,E2,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA03AWAY05,bat,J. Nesbit lined out to lf to left center (2-2).,2,Kenley,Harris,NA,E,E2,3,Kenley,Harris,NA,E,E3,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA04HOME01,bat,Holcombe homered to left field  RBI (2-1).,0,NA,NA,NA,A,A0,0,NA,NA,NA,A,A0,1
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA04HOME02,bat,Auerbach flied out to cf (2-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA04HOME03,bat,Williamson walked (3-2).,1,NA,NA,NA,A,A1,1,Williamson,NA,NA,B,B1,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA04HOME04,bat,Reeves flied out to rf (0-1).,1,Williamson,NA,NA,B,B1,2,Williamson,NA,NA,B,B2,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA04HOME05,bat,Morris singled to right field (0-0);,2,Williamson,NA,NA,B,B2,2,Morris,NA,NA,B,B2,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA04HOME05,br,Williamson advanced to second.,2,Williamson,NA,NA,B,B2,2,Morris,Williamson,NA,E,E2,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA04HOME06,other,Arkansas Mound Visit.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA04HOME07,bat,Breaux walked (3-0);,2,Morris,Williamson,NA,E,E2,2,Breaux,Williamson,NA,E,E2,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA04HOME07,br,Morris advanced to second;,2,Morris,Williamson,NA,E,E2,2,Breaux,Morris,NA,E,E2,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA04HOME07,br,Williamson advanced to third.,2,Morris,Williamson,NA,E,E2,2,Breaux,Morris,Williamson,H,H2,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA04HOME08,bat,Robinson singled through the left side  2 RBI (1-2);,2,Breaux,Morris,Williamson,H,H2,2,Robinson,Morris,Williamson,H,H2,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA04HOME08,br,Breaux advanced to second;,2,Breaux,Morris,Williamson,H,H2,2,Robinson,Breaux,Williamson,H,H2,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA04HOME08,br,Morris scored;,2,Breaux,Morris,Williamson,H,H2,2,Robinson,Breaux,Williamson,H,H2,1
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA04HOME08,br,Williamson scored.,2,Breaux,Morris,Williamson,H,H2,2,Robinson,Breaux,NA,E,E2,1
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA04HOME09,sub,K. Ramage to p for C. Noland.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA04HOME10,bat,McCullough struck out swinging (3-2).,2,Robinson,Breaux,NA,E,E2,3,Robinson,Breaux,NA,E,E3,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA05AWAY01,bat,C. Franklin grounded out to ss (3-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA05AWAY02,bat,C. Martin lined out to 2b (0-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA05AWAY03,bat,H. Kjerstad flied out to cf (2-1).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA06HOME01,bat,Gentry grounded out to 3b (1-1).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA06HOME02,bat,Holcombe lined out to lf (0-1).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA06HOME03,bat,Auerbach lined out to 3b (2-1).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA07AWAY01,bat,T. Ezell walked (3-1).,0,NA,NA,NA,A,A0,0,Ezell,NA,NA,B,B0,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA07AWAY02,bat,D. Fletcher popped up to ss (1-2).,0,Ezell,NA,NA,B,B0,1,Ezell,NA,NA,B,B1,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA07AWAY03,bat,C. Opitz walked (3-2);,1,Ezell,NA,NA,B,B1,1,Opitz,NA,NA,B,B1,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA07AWAY03,br,T. Ezell advanced to second.,1,Ezell,NA,NA,B,B1,1,Opitz,Ezell,NA,E,E1,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA07AWAY04,other,Alabama Mound Visit.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA07AWAY05,br,C. Opitz out at first c to 1b picked off.,1,Opitz,Ezell,NA,E,E1,2,NA,Ezell,NA,C,C2,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA07AWAY06,bat,T. Harris grounded out to 2b (2-2).,2,NA,Ezell,NA,C,C2,3,NA,Ezell,NA,C,C3,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA08HOME01,bat,Williamson grounded out to 2b (1-0).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA08HOME02,bat,Reeves grounded out to 3b (1-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA08HOME03,other,Reeves originally called safe at first - Play reviewed and call overturned.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA08HOME04,bat,Morris grounded out to 1b unassisted (2-1).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA09AWAY01,bat,J. Kenley flied out to cf (2-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA09AWAY02,bat,J. Nesbit singled to third base (1-2).,1,NA,NA,NA,A,A1,1,Nesbit,NA,NA,B,B1,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA09AWAY03,bat,C. Franklin lined out to cf (1-0).,1,Nesbit,NA,NA,B,B1,2,Nesbit,NA,NA,B,B2,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA09AWAY04,br,J. Nesbit out at second c to 2b caught stealing.,2,Nesbit,NA,NA,B,B2,3,NA,NA,NA,A,A3,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA10HOME01,bat,Breaux grounded out to 2b (1-0).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA10HOME02,bat,Robinson flied out to cf (1-0).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA10HOME03,bat,McCullough grounded out to 2b (1-2).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA11AWAY01,bat,C. Martin flied out to cf to left center (1-1).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA11AWAY02,sub,Guffey to p for Love.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA11AWAY03,bat,H. Kjerstad struck out swinging (1-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA11AWAY04,bat,T. Ezell grounded out to ss (2-2).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA12HOME01,bat,Gentry singled through the left side (0-0).,0,NA,NA,NA,A,A0,0,Gentry,NA,NA,B,B0,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA12HOME02,bat,Holcombe doubled to left field (1-0);,0,Gentry,NA,NA,B,B0,0,Gentry,Holcombe,NA,E,E0,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA12HOME02,br,Gentry advanced to third.,0,Gentry,NA,NA,B,B0,0,NA,Holcombe,Gentry,G,G0,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA12HOME03,bat,Auerbach singled up the middle  RBI (1-2);,0,NA,Holcombe,Gentry,G,G0,0,Auerbach,Holcombe,Gentry,H,H0,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA12HOME03,br,Holcombe advanced to third;,0,NA,Holcombe,Gentry,G,G0,0,Auerbach,NA,Holcombe,F,F0,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA12HOME03,br,Gentry scored.,0,NA,Holcombe,Gentry,G,G0,0,Auerbach,NA,Holcombe,F,F0,1
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA12HOME04,sub,P Wicklander to p for K. Ramage.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA12HOME05,bat,Williamson walked (3-1);,0,Auerbach,NA,Holcombe,F,F0,0,Williamson,NA,Holcombe,F,F0,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA12HOME05,br,Auerbach advanced to second.,0,Auerbach,NA,Holcombe,F,F0,0,Williamson,Auerbach,Holcombe,H,H0,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA12HOME06,bat,Reeves walked  RBI (3-2);,0,Williamson,Auerbach,Holcombe,H,H0,0,Reeves,Auerbach,Holcombe,H,H0,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA12HOME06,br,Williamson advanced to second;,0,Williamson,Auerbach,Holcombe,H,H0,0,Reeves,Williamson,Holcombe,H,H0,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA12HOME06,br,Auerbach advanced to third;,0,Williamson,Auerbach,Holcombe,H,H0,0,Reeves,Williamson,Auerbach,H,H0,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA12HOME06,br,Holcombe scored.,0,Williamson,Auerbach,Holcombe,H,H0,0,Reeves,Williamson,Auerbach,H,H0,1
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA12HOME07,bat,Morris walked  RBI (3-1);,0,Reeves,Williamson,Auerbach,H,H0,0,Morris,Williamson,Auerbach,H,H0,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA12HOME07,br,Reeves advanced to second;,0,Reeves,Williamson,Auerbach,H,H0,0,Morris,Reeves,Auerbach,H,H0,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA12HOME07,br,Williamson advanced to third;,0,Reeves,Williamson,Auerbach,H,H0,0,Morris,Reeves,Williamson,H,H0,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA12HOME07,br,Auerbach scored.,0,Reeves,Williamson,Auerbach,H,H0,0,Morris,Reeves,Williamson,H,H0,1
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA12HOME08,sub,Z Vermillion to p for P Wicklander.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA12HOME09,bat,Breaux singled to left field  RBI (1-1);,0,Morris,Reeves,Williamson,H,H0,0,Breaux,Reeves,Williamson,H,H0,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA12HOME09,br,Morris advanced to second;,0,Morris,Reeves,Williamson,H,H0,0,Breaux,Morris,Williamson,H,H0,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA12HOME09,br,Reeves advanced to third;,0,Morris,Reeves,Williamson,H,H0,0,Breaux,Morris,Reeves,H,H0,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA12HOME09,br,Williamson scored.,0,Morris,Reeves,Williamson,H,H0,0,Breaux,Morris,Reeves,H,H0,1
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA12HOME10,bat,Robinson singled to center field  RBI (1-1);,0,Breaux,Morris,Reeves,H,H0,0,Robinson,Morris,Reeves,H,H0,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA12HOME10,br,Breaux advanced to second;,0,Breaux,Morris,Reeves,H,H0,0,Robinson,Breaux,Reeves,H,H0,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA12HOME10,br,Morris advanced to third;,0,Breaux,Morris,Reeves,H,H0,0,Robinson,Breaux,Morris,H,H0,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA12HOME10,br,Reeves scored.,0,Breaux,Morris,Reeves,H,H0,0,Robinson,Breaux,Morris,H,H0,1
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA12HOME11,bat,McCullough flied out to cf  SF  RBI (1-2);,0,Robinson,Breaux,Morris,H,H0,1,Robinson,Breaux,Morris,H,H1,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA12HOME11,br,Morris scored.,0,Robinson,Breaux,Morris,H,H0,1,Robinson,Breaux,NA,E,E1,1
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA12HOME12,bat,Gentry lined out to cf to right center (2-2);,1,Robinson,Breaux,NA,E,E1,2,Robinson,Breaux,NA,E,E2,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA12HOME12,br,Breaux advanced to third.,1,Robinson,Breaux,NA,E,E1,2,Robinson,NA,Breaux,F,F2,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA12HOME13,batbr,Holcombe struck out swinging out at first c to 1b (1-2).,2,Robinson,NA,Breaux,F,F2,3,Robinson,NA,Breaux,F,F3,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA12HOME13,batbr,Holcombe struck out swinging out at first c to 1b (1-2).,2,Robinson,NA,Breaux,F,F2,3,Robinson,NA,Breaux,F,F3,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA13AWAY01,bat,D. Fletcher singled to right field (1-1).,0,NA,NA,NA,A,A0,0,Fletcher,NA,NA,B,B0,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA13AWAY02,bat,C. Opitz reached on an error by ss (1-2);,0,Fletcher,NA,NA,B,B0,0,Opitz,NA,NA,B,B0,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA13AWAY02,br,D. Fletcher advanced to second.,0,Fletcher,NA,NA,B,B0,0,Opitz,Fletcher,NA,E,E0,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA13AWAY03,bat,T. Harris popped up to ss (0-0).,0,Opitz,Fletcher,NA,E,E0,1,Opitz,Fletcher,NA,E,E1,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA13AWAY04,bat,J. Kenley grounded into double play 2b to ss to 1b (1-0);,1,Opitz,Fletcher,NA,E,E1,2,Opitz,Fletcher,NA,E,E2,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA13AWAY04,br,C. Opitz out on the play.,1,Opitz,Fletcher,NA,E,E1,3,NA,Fletcher,NA,C,C3,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA14HOME01,sub,L. Henry to p for Z Vermillion.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA14HOME02,sub,Z. Plunkett to c for C. Opitz.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA14HOME03,bat,Auerbach walked (3-2).,0,NA,NA,NA,A,A0,0,Auerbach,NA,NA,B,B0,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA14HOME04,br,Auerbach advanced to second on a wild pitch.,0,Auerbach,NA,NA,B,B0,0,NA,Auerbach,NA,C,C0,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA14HOME05,bat,Williamson flied out to cf (3-1).,0,NA,Auerbach,NA,C,C0,1,NA,Auerbach,NA,C,C1,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA14HOME06,bat,Reeves flied out to cf (1-0);,1,NA,Auerbach,NA,C,C1,2,NA,Auerbach,NA,C,C2,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA14HOME06,br,Auerbach advanced to third.,1,NA,Auerbach,NA,C,C1,2,NA,NA,Auerbach,D,D2,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA14HOME07,bat,Morris fouled out to 3b (1-0).,2,NA,NA,Auerbach,D,D2,3,NA,NA,Auerbach,D,D3,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA15AWAY01,bat,J. Nesbit flied out to rf (2-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA15AWAY02,bat,C. Franklin flied out to rf (2-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA15AWAY03,bat,C. Martin singled to left center (1-1).,2,NA,NA,NA,A,A2,2,Martin,NA,NA,B,B2,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA15AWAY04,bat,H. Kjerstad struck out swinging (3-2).,2,Martin,NA,NA,B,B2,3,Martin,NA,NA,B,B3,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA16HOME01,sub,C. Taylor to p for L. Henry.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA16HOME02,sub,C Washington to 3b for J. Nesbit.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA16HOME03,bat,Breaux singled through the right side (3-2).,0,NA,NA,NA,A,A0,0,Breaux,NA,NA,B,B0,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA16HOME04,bat,"Robinson reached on a fielders choice to third base (0-2);,0,Breaux,NA,NA,B,B0,0,Robinson,NA,NA,B,B0,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA16HOME04,br,Breaux out at second 3b to 2b.",0,Breaux,NA,NA,B,B0,1,Robinson,NA,NA,B,B1,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA16HOME05,bat,McCullough walked (3-1);,1,Robinson,NA,NA,B,B1,1,Mccullough,NA,NA,B,B1,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA16HOME05,br,Robinson advanced to second.,1,Robinson,NA,NA,B,B1,1,Mccullough,Robinson,NA,E,E1,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA16HOME06,br,McCullough advanced to second;,1,Mccullough,Robinson,NA,E,E1,1,NA,Mccullough,NA,C,C1,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA16HOME06,br,Robinson advanced to third on a wild pitch.,1,Mccullough,Robinson,NA,E,E1,1,NA,Mccullough,Robinson,G,G1,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA16HOME07,bat,Gentry flied out to rf  SF  RBI (0-0);,1,NA,Mccullough,Robinson,G,G1,2,NA,Mccullough,Robinson,G,G2,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA16HOME07,br,McCullough advanced to third;,1,NA,Mccullough,Robinson,G,G1,2,NA,NA,Mccullough,D,D2,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA16HOME07,br,Robinson scored.,1,NA,Mccullough,Robinson,G,G1,2,NA,NA,Mccullough,D,D2,1
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA16HOME08,bat,Holcombe flied out to rf to right center (0-2).,2,NA,NA,Mccullough,D,D2,3,NA,NA,Mccullough,D,D3,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA17AWAY01,sub,Shamblin to p for Guffey.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA17AWAY02,sub,Breaux to lf.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA17AWAY03,sub,McCleney to cf for Holcombe.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA17AWAY04,sub,Auerbach to 3b.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA17AWAY05,sub,Hawk to c for Morris.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA17AWAY06,bat,T. Ezell walked (3-2).,0,NA,NA,NA,A,A0,0,Ezell,NA,NA,B,B0,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA17AWAY07,bat,D. Fletcher grounded out to 1b unassisted (0-0);,0,Ezell,NA,NA,B,B0,1,Ezell,NA,NA,B,B1,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA17AWAY07,br,T. Ezell advanced to second.,0,Ezell,NA,NA,B,B0,1,NA,Ezell,NA,C,C1,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA17AWAY08,bat,Z. Plunkett struck out swinging (3-2).,1,NA,Ezell,NA,C,C1,2,NA,Ezell,NA,C,C2,0
+ARKS_ABAM_0323201901,ARKS_ABAM_0323201901_PA17AWAY09,bat,T. Harris flied out to rf (2-2).,2,NA,Ezell,NA,C,C2,3,NA,Ezell,NA,C,C3,0

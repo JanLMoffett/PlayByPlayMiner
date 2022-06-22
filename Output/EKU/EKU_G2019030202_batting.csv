@@ -1,0 +1,81 @@
+GameID,PlateAppID,HomeAway,BatterName,BatterHole,CountBalls,CountStrikes,pitchBalls,pitchFouls,pitchKSwing,pitchKLook,pitchBIPs,Pitches,BIP,H,Bases,Singles,Doubles,Triples,HR,HitLocation,HitQuality,HitType,INFH,FO,FOLocation,FOQuality,FOType,DP,DPType,Reach,RBOE,FC,SAC,SF,BB,IBB,UBB,SO,KSwing,KLook,UCTS,SOReach,HBP,TrueOutcome,BasesAdded,RunsAdded,OutsAdded,bostartOuts,bostartOnFirst,bostartOnSecond,bostartOnThird,bostartBaseState,bostartBaseOutState,boendOuts,boendOnFirst,boendOnSecond,boendOnThird,boendBaseState,boendBaseOutState
+2019030202,2019030202Away0101b,away,Galland,1,1,2,1,0,1,1,1,4,1,0,0,0,0,0,0,NA,NA,NA,0,1,to 2b,hard,line drive,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1
+2019030202,2019030202Away0102b,away,Frelick,2,0,0,0,1,1,0,1,3,1,0,0,0,0,0,0,NA,NA,NA,0,1,to c,foul,fly ball,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2
+2019030202,2019030202Away0103b,away,Dempsey,3,0,0,1,0,0,0,1,2,1,0,0,0,0,0,0,NA,NA,NA,0,1,to p,soft,ground ball,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3
+2019030202,2019030202Away0201b,away,Cunningham,4,3,1,3,0,0,1,1,5,1,0,0,0,0,0,0,NA,NA,NA,0,1,to lf,medium,fly ball,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1
+2019030202,2019030202Away0202b,away,Martellini,5,0,2,0,1,0,1,1,3,1,0,0,0,0,0,0,NA,NA,NA,0,1,to rf,medium,fly ball,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2
+2019030202,2019030202Away0203b,away,Morissette,6,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,NA,NA,NA,0,1,to 1b,soft,ground ball,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3
+2019030202,2019030202Away0301b,away,Baldelli,7,2,2,2,2,1,0,0,5,0,0,0,0,0,0,0,NA,NA,NA,0,0,,,,0,NA,False,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1
+2019030202,2019030202Away0302b,away,Burns,8,0,0,1,0,0,0,1,2,1,0,0,0,0,0,0,NA,NA,NA,0,1,to 3b,soft,ground ball,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2
+2019030202,2019030202Away0303b,away,Alu,9,0,2,0,0,0,2,1,3,1,0,0,0,0,0,0,NA,NA,NA,0,1,to lf,foul,fly ball,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3
+2019030202,2019030202Away0401b,away,Galland,1,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,NA,NA,NA,0,1,to 1b,soft,ground ball,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1
+2019030202,2019030202Away0402b,away,Frelick,2,1,2,1,0,0,2,1,4,1,0,0,0,0,0,0,NA,NA,NA,0,1,to ss,soft,fly ball,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2
+2019030202,2019030202Away0403b,away,Dempsey,3,3,2,3,1,1,1,0,6,0,0,0,0,0,0,0,NA,NA,NA,0,0,,,,0,NA,False,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3
+2019030202,2019030202Away0501b,away,Cunningham,4,1,1,1,0,1,0,1,3,1,0,0,0,0,0,0,NA,NA,NA,0,0,,,,0,NA,True,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,A,A0,0,Cunningham,NA,NA,B,B0
+2019030202,2019030202Away0502b,away,Martellini,5,2,0,2,0,0,0,1,3,1,1,1,1,0,0,0,left field,hard,fly ball,0,0,,,,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,Cunningham,NA,NA,B,B2,2,Martellini,NA,NA,B,B2
+2019030202,2019030202Away0503b,away,Morissette,6,0,0,0,0,0,0,1,1,1,0,0,0,0,0,0,NA,NA,NA,0,0,,,,0,NA,True,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,Martellini,NA,NA,B,B2,2,Morissette,NA,NA,B,B2
+2019030202,2019030202Away0504b,away,Baldelli,7,1,1,1,0,0,1,1,3,1,1,1,1,0,0,0,center field,hard,fly ball,0,0,,,,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,3,NA,Morissette,NA,C,C3,3,Baldelli,Morissette,NA,E,E3
+2019030202,2019030202Away0505b,away,Burns,8,0,0,1,0,0,0,1,2,1,0,0,0,0,0,0,NA,NA,NA,0,1,to 2b,soft,ground ball,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,3,Baldelli,Morissette,NA,E,E3,4,Baldelli,Morissette,NA,E,E4
+2019030202,2019030202Away0601b,away,Alu,9,0,1,0,0,0,1,1,2,1,0,0,0,0,0,0,NA,NA,NA,0,1,to cf,medium,fly ball,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1
+2019030202,2019030202Away0602b,away,Galland,1,0,2,0,0,0,2,1,3,1,0,0,0,0,0,0,NA,NA,NA,0,1,to rf,medium,fly ball,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2
+2019030202,2019030202Away0603b,away,Frelick,2,0,0,0,1,1,0,1,3,1,0,0,0,0,0,0,NA,NA,NA,0,1,to 2b,soft,ground ball,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3
+2019030202,2019030202Away0701b,away,Dempsey,3,2,2,2,0,0,2,1,5,1,1,1,1,0,0,0,center field,hard,fly ball,0,0,,,,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,A,A0,0,Dempsey,NA,NA,B,B0
+2019030202,2019030202Away0702b,away,Cunningham,4,0,1,0,1,0,0,1,2,1,1,1,1,0,0,0,shallow infield,soft,ground ball,1,0,,,,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Dempsey,NA,NA,B,B0,0,Cunningham,NA,NA,B,B0
+2019030202,2019030202Away0703b,away,Martellini,5,1,1,1,0,1,0,1,3,1,0,0,0,0,0,0,NA,NA,NA,0,1,to 2b,soft,fly ball,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Cunningham,Dempsey,NA,E,E0,1,Cunningham,Dempsey,NA,E,E1
+2019030202,2019030202Away0704b,away,Morissette,6,0,2,0,1,1,1,1,4,1,0,0,0,0,0,0,NA,NA,NA,0,1,to 1b,soft,ground ball,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Cunningham,Dempsey,NA,E,E1,2,Cunningham,Dempsey,NA,E,E2
+2019030202,2019030202Away0705b,away,Baldelli,7,,,0,0,0,0,0,0,0,0,1,0,0,0,0,NA,NA,NA,0,0,,,,0,NA,False,0,0,0,0,1,1,0,0,0,0,0,0,0,1,1,0,0,2,Cunningham,Cunningham,Dempsey,H,H2,2,Baldelli,Cunningham,Dempsey,H,H2
+2019030202,2019030202Away0706b,away,Burns,8,3,0,4,0,0,0,0,4,0,0,1,0,0,0,0,NA,NA,NA,0,0,,,,0,NA,False,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,2,Baldelli,Cunningham,Dempsey,H,H2,2,Burns,Cunningham,Dempsey,H,H2
+2019030202,2019030202Away0707b,away,Alu,9,1,1,1,0,0,1,1,3,1,0,0,0,0,0,0,NA,NA,NA,0,0,,,,0,NA,True,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,Burns,Baldelli,Cunningham,H,H2,2,Alu,Baldelli,Cunningham,H,H2
+2019030202,2019030202Away0709b,away,Galland,1,0,1,0,1,0,0,1,2,1,1,1,1,0,0,0,left ,hard,ground ball,0,0,,,,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,NA,Alu,Cunningham,G,G2,2,Galland,Alu,Cunningham,H,H2
+2019030202,2019030202Away07010b,away,Frelick,2,0,0,0,1,1,0,1,3,1,1,1,1,0,0,0,third base,medium,ground ball,1,0,,,,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,Galland,Alu,Cunningham,H,H2,2,Frelick,Alu,Cunningham,H,H2
+2019030202,2019030202Away07011b,away,Dempsey,3,1,0,1,0,0,0,1,2,1,1,2,0,1,0,0,left field,hard,fly ball,0,0,,,,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,2,Frelick,Galland,Cunningham,H,H2,2,Frelick,Dempsey,Cunningham,H,H2
+2019030202,2019030202Away07012b,away,Cunningham,4,1,2,1,1,1,1,1,5,1,1,1,1,0,0,0,right ,hard,ground ball,0,0,,,,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,Frelick,Dempsey,Cunningham,H,H2,2,Cunningham,Dempsey,Cunningham,H,H2
+2019030202,2019030202Away07014b,away,Martellini,5,1,2,1,0,1,1,1,4,1,0,0,0,0,0,0,NA,NA,NA,0,1,to 2b,soft,ground ball,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,Cunningham,Dempsey,Cunningham,H,H2,3,Cunningham,Dempsey,Cunningham,H,H3
+2019030202,2019030202Away0801b,away,Morissette,6,0,0,0,0,0,0,1,1,1,1,1,1,0,0,0,left center,hard,line drive,0,0,,,,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,A,A0,0,Morissette,NA,NA,B,B0
+2019030202,2019030202Away0802b,away,Baldelli,7,0,1,0,0,0,1,1,2,1,0,0,0,0,0,0,NA,NA,NA,0,0,,,,0,NA,True,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Morissette,NA,NA,B,B0,0,Baldelli,NA,NA,B,B0
+2019030202,2019030202Away0803b,away,Burns,8,2,0,2,0,0,0,1,3,1,0,0,0,0,0,0,NA,NA,NA,0,1,to ss,soft,ground ball,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,Baldelli,NA,NA,B,B1,2,Baldelli,NA,NA,B,B2
+2019030202,2019030202Away0804b,away,Alu,9,1,0,1,0,0,0,1,2,1,0,0,0,0,0,0,NA,NA,NA,0,1,to 2b,soft,ground ball,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,Baldelli,Baldelli,NA,E,E2,3,Baldelli,Baldelli,NA,E,E3
+2019030202,2019030202Away0901b,away,Galland,1,3,1,3,0,0,1,0,5,0,0,0,0,0,0,0,NA,NA,NA,0,0,,,,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,A,A0,0,Galland,NA,NA,B,B0
+2019030202,2019030202Away0902b,away,Frelick,2,3,2,4,2,1,0,0,7,0,0,1,0,0,0,0,NA,NA,NA,0,0,,,,0,NA,False,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,Galland,NA,NA,B,B0,0,Frelick,NA,NA,B,B0
+2019030202,2019030202Away0904b,away,Dempsey,3,0,1,0,0,0,1,1,2,1,1,1,1,0,0,0,shortstop,soft,ground ball,1,0,,,,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,Frelick,Galland,NA,E,E0,0,Dempsey,Galland,NA,E,E0
+2019030202,2019030202Away0905b,away,Cunningham,4,2,2,2,0,2,1,0,5,0,0,0,0,0,0,0,NA,NA,NA,0,0,,,,0,NA,False,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,Dempsey,Frelick,Galland,H,H0,1,Dempsey,Frelick,Galland,H,H1
+2019030202,2019030202Away0906b,away,Martellini,5,3,2,3,4,0,2,0,9,0,0,0,0,0,0,0,NA,NA,NA,0,0,,,,0,NA,False,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,1,1,Dempsey,Frelick,Galland,H,H1,2,Dempsey,Frelick,Galland,H,H2
+2019030202,2019030202Away0907b,away,Morissette,6,0,0,1,0,0,0,1,2,1,1,4,0,0,0,1,right center,hard,line drive,0,0,,,,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,1,4,1,0,2,Dempsey,Frelick,Galland,H,H2,2,NA,NA,NA,A,A2
+2019030202,2019030202Away0908b,away,Baldelli,7,0,0,1,0,0,0,1,2,1,1,1,1,0,0,0,left ,hard,ground ball,0,0,,,,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,NA,NA,NA,A,A2,2,Baldelli,NA,NA,B,B2
+2019030202,2019030202Away0909b,away,Burns,8,3,1,3,0,0,1,1,5,1,0,0,0,0,0,0,NA,NA,NA,0,0,,,,0,NA,True,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,Baldelli,NA,NA,B,B2,2,Burns,NA,NA,B,B2
+2019030202,2019030202Home0101b,home,Kerr,1,2,2,2,2,0,0,1,5,1,0,0,0,0,0,0,NA,NA,NA,0,1,to 3b,soft,ground ball,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1
+2019030202,2019030202Home0102b,home,Lewis,2,2,2,2,2,2,0,0,6,0,0,0,0,0,0,0,NA,NA,NA,0,0,,,,0,NA,False,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2
+2019030202,2019030202Home0103b,home,Howie,3,1,1,1,0,1,0,1,3,1,1,1,1,0,0,0,right field,hard,fly ball,0,0,,,,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,NA,NA,NA,A,A2,2,Howie,NA,NA,B,B2
+2019030202,2019030202Home0104b,home,Johnson,4,2,2,2,1,0,1,1,5,1,0,0,0,0,0,0,NA,NA,NA,0,1,to 2b,hard,line drive,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,Howie,NA,NA,B,B2,3,Howie,NA,NA,B,B3
+2019030202,2019030202Home0201b,home,Lovell,5,0,2,0,1,0,1,1,3,1,0,0,0,0,0,0,NA,NA,NA,0,1,to 3b,soft,ground ball,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1
+2019030202,2019030202Home0202b,home,Harris,6,0,1,0,0,1,0,1,2,1,0,0,0,0,0,0,NA,NA,NA,0,1,to rf,medium,fly ball,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2
+2019030202,2019030202Home0203b,home,Brewer,7,0,1,0,0,0,1,1,2,1,1,1,1,0,0,0,second base,medium,ground ball,1,0,,,,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,2,NA,NA,NA,A,A2,2,Brewer,NA,NA,B,B2
+2019030202,2019030202Home0204b,home,Weaver,8,2,0,2,0,0,0,1,3,1,0,0,0,0,0,0,NA,NA,NA,0,1,to lf,medium,fly ball,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,Brewer,Brewer,NA,E,E2,3,Brewer,Brewer,NA,E,E3
+2019030202,2019030202Home0301b,home,Thomason,9,2,2,2,1,0,1,1,5,1,0,0,0,0,0,0,NA,NA,NA,0,1,to lf,medium,fly ball,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1
+2019030202,2019030202Home0302b,home,Kerr,1,0,0,0,0,0,1,1,2,1,0,0,0,0,0,0,NA,NA,NA,0,1,to lf,medium,fly ball,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2
+2019030202,2019030202Home0303b,home,Lewis,2,3,1,4,0,0,1,0,5,0,0,1,0,0,0,0,NA,NA,NA,0,0,,,,0,NA,False,0,0,0,0,1,0,1,0,0,0,0,0,0,1,1,0,0,2,NA,NA,NA,A,A2,2,Lewis,NA,NA,B,B2
+2019030202,2019030202Home0304b,home,Howie,3,2,2,2,1,1,0,1,5,1,0,0,0,0,0,0,NA,NA,NA,0,1,to 2b,soft,ground ball,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,Lewis,NA,NA,B,B2,3,Lewis,NA,NA,B,B3
+2019030202,2019030202Home0401b,home,Johnson,4,1,2,1,0,0,2,1,4,1,0,0,0,0,0,0,NA,NA,NA,0,1,to 3b,soft,ground ball,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1
+2019030202,2019030202Home0402b,home,Lovell,5,1,2,1,1,0,1,1,4,1,1,1,1,0,0,0,third base,medium,ground ball,1,0,,,,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,NA,NA,NA,A,A1,1,Lovell,NA,NA,B,B1
+2019030202,2019030202Home0403b,home,Harris,6,0,2,0,1,2,0,0,3,0,0,0,0,0,0,0,NA,NA,NA,0,0,,,,0,NA,False,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,1,Lovell,NA,NA,B,B1,2,Lovell,NA,NA,B,B2
+2019030202,2019030202Home0501b,home,Brewer,7,0,2,0,0,0,2,1,3,1,1,1,1,0,0,0,left ,hard,ground ball,0,0,,,,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,NA,NA,NA,A,A0,0,Brewer,NA,NA,B,B0
+2019030202,2019030202Home0502b,home,Weaver,8,1,1,1,0,0,1,0,2,0,0,0,0,0,0,0,NA,NA,NA,0,0,,,,0,NA,False,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,Brewer,NA,NA,B,B0,1,Brewer,NA,NA,B,B1
+2019030202,2019030202Home0503b,home,Thomason,9,1,2,1,2,0,0,1,4,1,0,0,0,0,0,0,NA,NA,NA,0,1,to ss,soft,fly ball,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,Brewer,Brewer,NA,E,E2,3,Brewer,Brewer,NA,E,E3
+2019030202,2019030202Home0504b,home,Kerr,1,0,1,0,1,0,0,1,2,1,1,2,0,1,0,0,left field,hard,fly ball,0,0,,,,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,3,Brewer,Brewer,NA,E,E3,3,Brewer,Kerr,NA,E,E3
+2019030202,2019030202Home0505b,home,Lewis,2,2,2,2,0,2,1,0,5,0,0,0,0,0,0,0,NA,NA,NA,0,0,,,,0,NA,False,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,3,Brewer,Kerr,NA,E,E3,4,Brewer,Kerr,NA,E,E4
+2019030202,2019030202Home0601b,home,Howie,3,1,2,1,3,1,1,0,6,0,0,0,0,0,0,0,NA,NA,NA,0,0,,,,0,NA,False,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1
+2019030202,2019030202Home0602b,home,Johnson,4,0,2,0,0,0,2,1,3,1,0,0,0,0,0,0,NA,NA,NA,0,1,to cf,medium,fly ball,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2
+2019030202,2019030202Home0603b,home,Lovell,5,1,1,1,0,0,1,1,3,1,0,0,0,0,0,0,NA,NA,NA,0,1,to ss,soft,ground ball,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3
+2019030202,2019030202Home0701b,home,Harris,6,1,1,1,0,1,0,1,3,1,0,0,0,0,0,0,NA,NA,NA,0,1,to ss,soft,ground ball,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1
+2019030202,2019030202Home0702b,home,Brewer,7,3,2,3,1,1,1,0,6,0,0,0,0,0,0,0,NA,NA,NA,0,0,,,,0,NA,False,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2
+2019030202,2019030202Home0703b,home,Weaver,8,2,2,2,1,2,0,0,5,0,0,0,0,0,0,0,NA,NA,NA,0,0,,,,0,NA,False,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3
+2019030202,2019030202Home0803b,home,Thomason,9,0,0,0,0,1,0,1,2,1,0,0,0,0,0,0,NA,NA,NA,0,1,to rf,medium,fly ball,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1
+2019030202,2019030202Home0804b,home,Kerr,1,0,1,0,0,0,1,1,2,1,1,1,1,0,0,0,left field,hard,fly ball,0,0,,,,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,NA,NA,NA,A,A1,1,Kerr,NA,NA,B,B1
+2019030202,2019030202Home0805b,home,Lewis,2,1,0,1,0,0,0,1,2,1,1,1,1,0,0,0,up the middle,hard,ground ball,0,0,,,,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Kerr,NA,NA,B,B1,1,Lewis,NA,NA,B,B1
+2019030202,2019030202Home0806b,home,Howie,3,1,0,1,0,0,0,1,2,1,1,1,1,0,0,0,shortstop,soft,ground ball,1,0,,,,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,Lewis,Kerr,NA,E,E1,1,Howie,Kerr,NA,E,E1
+2019030202,2019030202Home0807b,home,Johnson,4,1,2,1,1,0,2,0,4,0,0,0,0,0,0,0,NA,NA,NA,0,0,,,,0,NA,False,0,0,0,0,0,0,0,1,0,1,0,0,0,1,0,0,1,1,Howie,Lewis,Kerr,H,H1,2,Howie,Lewis,Kerr,H,H2
+2019030202,2019030202Home0808b,home,Lovell,5,3,2,3,1,2,1,0,7,0,0,0,0,0,0,0,NA,NA,NA,0,0,,,,0,NA,False,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,2,Howie,Howie,Lewis,H,H2,3,Howie,Howie,Lewis,H,H3
+2019030202,2019030202Home0901b,home,Harris,6,1,2,1,1,0,2,1,5,1,0,0,0,0,0,0,NA,NA,NA,0,1,to c,soft,ground ball,0,NA,False,0,0,0,0,0,0,0,1,1,0,0,0,0,1,0,0,1,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1
+2019030202,2019030202Home0903b,home,Ludwick,7,0,0,0,0,0,1,1,2,1,1,2,0,1,0,0,left field,hard,fly ball,0,0,,,,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1,NA,NA,NA,A,A1,1,NA,Ludwick,NA,C,C1
+2019030202,2019030202Home0905b,home,Botsoe,8,1,0,1,0,0,0,1,2,1,0,0,0,0,0,0,NA,NA,NA,0,1,to lf,medium,fly ball,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,NA,Ludwick,NA,C,C1,2,NA,Ludwick,NA,C,C2
+2019030202,2019030202Home0907b,home,Lucio,9,1,2,1,0,1,1,1,4,1,0,0,0,0,0,0,NA,NA,NA,0,1,to 2b,soft,ground ball,0,NA,False,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,2,NA,Ludwick,NA,C,C2,3,NA,Ludwick,NA,C,C3

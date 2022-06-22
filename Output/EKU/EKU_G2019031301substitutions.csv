@@ -1,0 +1,60 @@
+GameID,PlateAppID,SubType,PlayerOut,PlayerIn,SubbedPos
+2019031301,2019031301Away0102s,def,NA,ERROR: SubUnit.get_players, ts: J.,NA
+2019031301,2019031301Away0202s,def,NA,ERROR: SubUnit.get_players, ts: A.,NA
+2019031301,2019031301Away0204s,def,NA,ERROR: SubUnit.get_players, ts: A.,NA
+2019031301,2019031301Away0301s,def,Ferris,Farley,p
+2019031301,2019031301Away0302s,def,NA,Lovell,dh
+2019031301,2019031301Away0304s,def,NA,ERROR: SubUnit.get_players, ts: V.,NA
+2019031301,2019031301Away0306s,def,NA,ERROR: SubUnit.get_players, ts: B.,NA
+2019031301,2019031301Away0308s,def,NA,ERROR: SubUnit.get_players, ts: ,NA
+2019031301,2019031301Away0401s,def,Farley,Jackson,p
+2019031301,2019031301Away0403s,def,NA,ERROR: SubUnit.get_players, ts: J.,NA
+2019031301,2019031301Away0406s,def,NA,ERROR: SubUnit.get_players, ts: J.,NA
+2019031301,2019031301Away0501s,def,Jackson,Abbott,p
+2019031301,2019031301Away0502s,def,NA,ERROR: SubUnit.get_players, ts: C.,NA
+2019031301,2019031301Away0504s,def,NA,ERROR: SubUnit.get_players, ts: A.,NA
+2019031301,2019031301Away0506s,def,NA,ERROR: SubUnit.get_players, ts: A.,NA
+2019031301,2019031301Away0601s,def,Abbott,Beavers,p
+2019031301,2019031301Away0603s,def,NA,ERROR: SubUnit.get_players, ts: V.,NA
+2019031301,2019031301Away0605s,def,NA,ERROR: SubUnit.get_players, ts: B.,NA
+2019031301,2019031301Away0608s,def,NA,ERROR: SubUnit.get_players, ts: B.,NA
+2019031301,2019031301Away0609s,def,NA,ERROR: SubUnit.get_players, ts: J.,NA
+2019031301,2019031301Away06011s,def,NA,ERROR: SubUnit.get_players, ts: ,NA
+2019031301,2019031301Away0701s,def,Beavers,Borek,p
+2019031301,2019031301Away0703s,def,NA,ERROR: SubUnit.get_players, ts: C.,NA
+2019031301,2019031301Away0705s,def,NA,ERROR: SubUnit.get_players, ts: A.,NA
+2019031301,2019031301Away0707s,def,NA,ERROR: SubUnit.get_players, ts: C.,NA
+2019031301,2019031301Away0801s,def,NA,Conklin,3b
+2019031301,2019031301Away0802s,def,NA,Ludwick,1b
+2019031301,2019031301Away0803s,def,Borek,Crall,p
+2019031301,2019031301Away0804s,def,NA,ERROR: SubUnit.get_players, ts: A.,NA
+2019031301,2019031301Away0807s,def,NA,ERROR: SubUnit.get_players, ts: V.,NA
+2019031301,2019031301Away0809s,def,NA,ERROR: SubUnit.get_players, ts: A.,NA
+2019031301,2019031301Away0901s,def,NA,Weaver,c
+2019031301,2019031301Away0902s,off,Lewis,Bodine,c
+2019031301,2019031301Away0903s,def,NA,Hill,dh
+2019031301,2019031301Away0904s,def,NA,Brewer,lf
+2019031301,2019031301Away0905s,def,Crall,Blair,p
+2019031301,2019031301Away0906s,def,NA,ERROR: SubUnit.get_players, ts: B.,NA
+2019031301,2019031301Away0908s,off,Sims,Kumar,ph
+2019031301,2019031301Away09010s,def,NA,ERROR: SubUnit.get_players, ts: B.,NA
+2019031301,2019031301Away09011s,off,J,Dull,ph
+2019031301,2019031301Away09012s,def,NA,ERROR: SubUnit.get_players, ts: Ransom.,NA
+2019031301,2019031301Away09014s,def,NA,ERROR: SubUnit.get_players, ts: B.,NA
+2019031301,2019031301Away09015s,def,NA,ERROR: SubUnit.get_players, ts: J.,NA
+2019031301,2019031301Away09016s,off,Lawson,Christian,ph
+2019031301,2019031301Away09017s,def,NA,ERROR: SubUnit.get_players, ts: J.,NA
+2019031301,2019031301Away09019s,off,C,Pierce,ph
+2019031301,2019031301Away09020s,def,NA,ERROR: SubUnit.get_players, ts: Starks.,NA
+2019031301,2019031301Away09021s,def,NA,ERROR: Jared Pierce flied out,rf
+2019031301,2019031301Away09022s,def,NA,ERROR: SubUnit.get_players, ts: A.,NA
+2019031301,2019031301Home0203s,off,Brian,Lovell,ph
+2019031301,2019031301Home0401s,def,D,Reed,p
+2019031301,2019031301Home0402s,def,NA,ERROR: SubUnit.get_players, ts: Johnson.,NA
+2019031301,2019031301Home0701s,def,Reed,Graves,p
+2019031301,2019031301Home0706s,off,Thomason,Conklin,ph
+2019031301,2019031301Home0708s,off,Lucio,Ludwick,ph
+2019031301,2019031301Home0801s,def,Graves,Love,p
+2019031301,2019031301Home0802s,off,Lovell,Hill,ph
+2019031301,2019031301Home0805s,off,Botsoe,Brewer,ph
+2019031301,2019031301Home0807s,off,Johnson,Weaver,ph

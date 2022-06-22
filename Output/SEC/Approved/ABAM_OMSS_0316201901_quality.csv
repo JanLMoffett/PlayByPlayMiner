@@ -1,0 +1,162 @@
+GameID,PlateAppID,AUType,AUString,startOuts,startOnFirst,startOnSecond,startOnThird,startBaseState,startBaseOutState,endOuts,endOnFirst,endOnSecond,endOnThird,endBaseState,endBaseOutState,RPrime
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA01AWAY01,batbr,Breaux singled through the right side out at second rf to c (0-0).,0,NA,NA,NA,A,A0,0,Breaux,NA,NA,B,B0,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA01AWAY01,batbr,Breaux singled through the right side out at second rf to c (0-0).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA01AWAY02,other,Play at second was reviewed. Call overturned.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA01AWAY03,bat,Auerbach grounded out to 3b (0-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA01AWAY04,bat,McCullough popped up to lf (1-2).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA02HOME01,bat,G. Kessinger flied out to cf (0-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA02HOME02,bat,A. Servideo hit by pitch (0-0).,1,NA,NA,NA,A,A1,1,Servideo,NA,NA,B,B1,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA02HOME03,bat,T. Keenan grounded out to 3b (2-2);,1,Servideo,NA,NA,B,B1,2,Servideo,NA,NA,B,B2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA02HOME03,br,A. Servideo advanced to second.,1,Servideo,NA,NA,B,B1,2,NA,Servideo,NA,C,C2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA02HOME04,bat,T. Dillard walked (3-2).,2,NA,Servideo,NA,C,C2,2,Dillard,Servideo,NA,E,E2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA02HOME05,bat,R. Olenek walked (3-2);,2,Dillard,Servideo,NA,E,E2,2,Olenek,Servideo,NA,E,E2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA02HOME05,br,T. Dillard advanced to second;,2,Dillard,Servideo,NA,E,E2,2,Olenek,Dillard,NA,E,E2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA02HOME05,br,A. Servideo advanced to third.,2,Dillard,Servideo,NA,E,E2,2,Olenek,Dillard,Servideo,H,H2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA02HOME06,bat,C. Zabowski struck out swinging (0-2).,2,Olenek,Dillard,Servideo,H,H2,3,Olenek,Dillard,Servideo,H,H3,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA03AWAY01,bat,Gentry reached on a fielding error by ss (0-0).,0,NA,NA,NA,A,A0,0,Gentry,NA,NA,B,B0,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA03AWAY02,br,Gentry stole second.,0,Gentry,NA,NA,B,B0,0,NA,Gentry,NA,C,C0,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA03AWAY03,bat,Holcombe walked (3-1).,0,NA,Gentry,NA,C,C0,0,Holcombe,Gentry,NA,E,E0,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA03AWAY04,bat,Reeves walked (3-2);,0,Holcombe,Gentry,NA,E,E0,0,Reeves,Gentry,NA,E,E0,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA03AWAY04,br,Holcombe advanced to second;,0,Holcombe,Gentry,NA,E,E0,0,Reeves,Holcombe,NA,E,E0,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA03AWAY04,br,Gentry advanced to third.,0,Holcombe,Gentry,NA,E,E0,0,Reeves,Holcombe,Gentry,H,H0,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA03AWAY05,bat,Williamson struck out swinging (1-2).,0,Reeves,Holcombe,Gentry,H,H0,1,Reeves,Holcombe,Gentry,H,H1,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA03AWAY06,bat,Robinson flied out to cf  SF  RBI (1-1);,1,Reeves,Holcombe,Gentry,H,H1,2,Reeves,Holcombe,Gentry,H,H2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA03AWAY06,br,Holcombe advanced to third;,1,Reeves,Holcombe,Gentry,H,H1,2,Reeves,NA,Holcombe,F,F2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA03AWAY06,br,Gentry scored unearned.,1,Reeves,Holcombe,Gentry,H,H1,2,Reeves,NA,Holcombe,F,F2,1
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA03AWAY07,bat,Morris walked (3-0);,2,Reeves,NA,Holcombe,F,F2,2,Morris,NA,Holcombe,F,F2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA03AWAY07,br,Reeves advanced to second.,2,Reeves,NA,Holcombe,F,F2,2,Morris,Reeves,Holcombe,H,H2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA03AWAY08,bat,Breaux walked  RBI (3-1);,2,Morris,Reeves,Holcombe,H,H2,2,Breaux,Reeves,Holcombe,H,H2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA03AWAY08,br,Morris advanced to second;,2,Morris,Reeves,Holcombe,H,H2,2,Breaux,Morris,Holcombe,H,H2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA03AWAY08,br,Reeves advanced to third;,2,Morris,Reeves,Holcombe,H,H2,2,Breaux,Morris,Reeves,H,H2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA03AWAY08,br,Holcombe scored unearned.,2,Morris,Reeves,Holcombe,H,H2,2,Breaux,Morris,Reeves,H,H2,1
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA03AWAY09,sub,T. Broadway to p for Z. Phillips.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA03AWAY10,bat,Auerbach struck out swinging (0-2).,2,Breaux,Morris,Reeves,H,H2,3,Breaux,Morris,Reeves,H,H3,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA04HOME01,bat,K. Graham struck out swinging (1-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA04HOME02,bat,C. Johnson singled up the middle (0-1).,1,NA,NA,NA,A,A1,1,Johnson,NA,NA,B,B1,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA04HOME03,bat,J. Adams hit by pitch (1-2);,1,Johnson,NA,NA,B,B1,1,Adams,NA,NA,B,B1,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA04HOME03,br,C. Johnson advanced to second.,1,Johnson,NA,NA,B,B1,1,Adams,Johnson,NA,E,E1,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA04HOME04,bat,G. Kessinger singled through the left side  RBI (2-0);,1,Adams,Johnson,NA,E,E1,1,Kessinger,Johnson,NA,E,E1,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA04HOME04,br,J. Adams advanced to second;,1,Adams,Johnson,NA,E,E1,1,Kessinger,Adams,NA,E,E1,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA04HOME04,br,C. Johnson scored.,1,Adams,Johnson,NA,E,E1,1,Kessinger,Adams,NA,E,E1,1
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA04HOME05,batbr,A. Servideo singled through the right side RBI advanced to second on the throw (1-0);,1,Kessinger,Adams,NA,E,E1,1,Servideo,Adams,NA,E,E1,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA04HOME05,batbr,A. Servideo singled through the right side RBI advanced to second on the throw (1-0);,1,Kessinger,Adams,NA,E,E1,1,NA,Servideo,NA,C,C1,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA04HOME05,br,G. Kessinger advanced to third;,1,Kessinger,Adams,NA,E,E1,1,NA,Servideo,Kessinger,G,G1,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA04HOME05,br,J. Adams scored.,1,Kessinger,Adams,NA,E,E1,1,NA,Servideo,Kessinger,G,G1,1
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA04HOME06,bat,T. Keenan grounded out to ss  RBI (2-0);,1,NA,Servideo,Kessinger,G,G1,2,NA,Servideo,Kessinger,G,G2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA04HOME06,br,A. Servideo advanced to third;,1,NA,Servideo,Kessinger,G,G1,2,NA,NA,Servideo,D,D2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA04HOME06,br,G. Kessinger scored.,1,NA,Servideo,Kessinger,G,G1,2,NA,NA,Servideo,D,D2,1
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA04HOME07,br,A. Servideo scored on a wild pitch.,2,NA,NA,Servideo,D,D2,2,NA,NA,NA,A,A2,1
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA04HOME08,bat,T. Dillard walked (3-0).,2,NA,NA,NA,A,A2,2,Dillard,NA,NA,B,B2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA04HOME09,sub,Lee to p for Love.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA04HOME10,br,T. Dillard advanced to second on a throwing error by p advanced to third failed pickoff attempt.,2,Dillard,NA,NA,B,B2,2,NA,Dillard,NA,C,C2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA04HOME11,bat,R. Olenek singled through the left side  RBI (2-2);,2,NA,Dillard,NA,C,C2,2,Olenek,Dillard,NA,E,E2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA04HOME11,br,T. Dillard scored unearned.,2,NA,Dillard,NA,C,C2,2,Olenek,NA,NA,B,B2,1
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA04HOME12,bat,C. Zabowski popped up to ss (2-0).,2,Olenek,NA,NA,B,B2,3,Olenek,NA,NA,B,B3,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA05AWAY01,bat,McCullough doubled down the rf line (1-2).,0,NA,NA,NA,A,A0,0,NA,Mccullough,NA,C,C0,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA05AWAY02,bat,Gentry singled up the middle (3-2);,0,NA,Mccullough,NA,C,C0,0,Gentry,Mccullough,NA,E,E0,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA05AWAY02,br,McCullough advanced to third.,0,NA,Mccullough,NA,C,C0,0,Gentry,NA,Mccullough,F,F0,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA05AWAY03,bat,Holcombe hit by pitch (0-1);,0,Gentry,NA,Mccullough,F,F0,0,Holcombe,NA,Mccullough,F,F0,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA05AWAY03,br,Gentry advanced to second.,0,Gentry,NA,Mccullough,F,F0,0,Holcombe,Gentry,Mccullough,H,H0,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA05AWAY04,bat,Reeves struck out looking (1-2).,0,Holcombe,Gentry,Mccullough,H,H0,1,Holcombe,Gentry,Mccullough,H,H1,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA05AWAY05,bat,Williamson grounded into double play 2b to ss to 1b (0-2);,1,Holcombe,Gentry,Mccullough,H,H1,2,Holcombe,Gentry,Mccullough,H,H2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA05AWAY05,br,Holcombe out on the play.,1,Holcombe,Gentry,Mccullough,H,H1,3,NA,Gentry,Mccullough,G,G3,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA06HOME01,bat,K. Graham grounded out to ss (0-0).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA06HOME02,bat,C. Johnson flied out to rf (2-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA06HOME03,bat,J. Adams grounded out to 2b (0-1).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA07AWAY01,bat,Robinson tripled to left field (2-2).,0,NA,NA,NA,A,A0,0,NA,NA,Robinson,D,D0,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA07AWAY02,bat,Morris flied out to cf  SF  RBI (1-1);,0,NA,NA,Robinson,D,D0,1,NA,NA,Robinson,D,D1,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA07AWAY02,br,Robinson scored.,0,NA,NA,Robinson,D,D0,1,NA,NA,NA,A,A1,1
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA07AWAY03,bat,Breaux homered to right field  RBI (0-1).,1,NA,NA,NA,A,A1,1,NA,NA,NA,A,A1,1
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA07AWAY04,sub,C. Green to p for T. Broadway.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA07AWAY05,bat,Auerbach doubled to left field (0-2).,1,NA,NA,NA,A,A1,1,NA,Auerbach,NA,C,C1,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA07AWAY06,bat,McCullough grounded out to c (0-1);,1,NA,Auerbach,NA,C,C1,2,NA,Auerbach,NA,C,C2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA07AWAY06,br,Auerbach advanced to third.,1,NA,Auerbach,NA,C,C1,2,NA,NA,Auerbach,D,D2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA07AWAY07,bat,Gentry singled through the left side  RBI (2-2);,2,NA,NA,Auerbach,D,D2,2,Gentry,NA,Auerbach,F,F2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA07AWAY07,br,Auerbach scored.,2,NA,NA,Auerbach,D,D2,2,Gentry,NA,NA,B,B2,1
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA07AWAY08,br,Gentry advanced to second on a throwing error by p failed pickoff attempt.,2,Gentry,NA,NA,B,B2,2,NA,Gentry,NA,C,C2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA07AWAY09,bat,Holcombe singled through the right side  RBI (0-0);,2,NA,Gentry,NA,C,C2,2,Holcombe,Gentry,NA,E,E2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA07AWAY09,br,Gentry scored unearned.,2,NA,Gentry,NA,C,C2,2,Holcombe,NA,NA,B,B2,1
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA07AWAY10,bat,Reeves walked (3-0);,2,Holcombe,NA,NA,B,B2,2,Reeves,NA,NA,B,B2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA07AWAY10,br,Holcombe advanced to second.,2,Holcombe,NA,NA,B,B2,2,Reeves,Holcombe,NA,E,E2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA07AWAY11,bat,Williamson flied out to lf (0-2).,2,Reeves,Holcombe,NA,E,E2,3,Reeves,Holcombe,NA,E,E3,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA08HOME01,bat,G. Kessinger flied out to cf (2-1).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA08HOME02,bat,A. Servideo singled to left center (0-1).,1,NA,NA,NA,A,A1,1,Servideo,NA,NA,B,B1,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA08HOME03,bat,T. Keenan reached on a fielding error by 2b (1-1);,1,Servideo,NA,NA,B,B1,1,Keenan,NA,NA,B,B1,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA08HOME03,br,A. Servideo scored unearned.,1,Servideo,NA,NA,B,B1,1,Keenan,NA,NA,B,B1,1
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA08HOME04,bat,T. Dillard grounded out to 2b (3-1);,1,Keenan,NA,NA,B,B1,2,Keenan,NA,NA,B,B2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA08HOME04,br,T. Keenan advanced to second.,1,Keenan,NA,NA,B,B1,2,NA,Keenan,NA,C,C2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA08HOME05,bat,R. Olenek flied out to lf (3-2).,2,NA,Keenan,NA,C,C2,3,NA,Keenan,NA,C,C3,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA09AWAY01,bat,Robinson singled through the left side (1-1).,0,NA,NA,NA,A,A0,0,Robinson,NA,NA,B,B0,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA09AWAY02,br,Robinson out at second c to ss caught stealing.,0,Robinson,NA,NA,B,B0,1,NA,NA,NA,A,A1,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA09AWAY03,bat,Morris flied out to lf (1-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA09AWAY04,bat,Breaux walked (3-2).,2,NA,NA,NA,A,A2,2,Breaux,NA,NA,B,B2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA09AWAY05,sub,M. Cioffi to p for C. Green.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA09AWAY06,bat,Auerbach struck out swinging (0-2).,2,Breaux,NA,NA,B,B2,3,Breaux,NA,NA,B,B3,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA10HOME01,sub,Vainer to p for Lee.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA10HOME02,bat,C. Zabowski lined out to cf (1-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA10HOME03,bat,K. Graham flied out to cf (0-0).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA10HOME04,bat,C. Johnson grounded out to 3b (3-1).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA11AWAY01,bat,McCullough grounded out to 2b (0-0).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA11AWAY02,bat,Gentry struck out looking (2-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA11AWAY03,bat,Holcombe struck out swinging (0-2).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA12HOME01,bat,J. Adams walked (3-2).,0,NA,NA,NA,A,A0,0,Adams,NA,NA,B,B0,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA12HOME02,bat,G. Kessinger flied out to cf (0-0).,0,Adams,NA,NA,B,B0,1,Adams,NA,NA,B,B1,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA12HOME03,sub,Guffey to p for Vainer.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA12HOME04,br,J. Adams stole second.,1,Adams,NA,NA,B,B1,1,NA,Adams,NA,C,C1,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA12HOME05,bat,A. Servideo walked (3-1).,1,NA,Adams,NA,C,C1,1,Servideo,Adams,NA,E,E1,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA12HOME06,bat,T. Keenan lined out to 1b (0-0).,1,Servideo,Adams,NA,E,E1,2,Servideo,Adams,NA,E,E2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA12HOME07,bat,"T. Dillard reached on a fielders choice (1-1);,2,Servideo,Adams,NA,E,E2,2,Dillard,Adams,NA,E,E2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA12HOME07,br,A. Servideo advanced to second;,2,Servideo,Adams,NA,E,E2,2,Dillard,Servideo,NA,E,E2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA12HOME07,br,J. Adams out at third 3b unassisted.",2,Servideo,Adams,NA,E,E2,3,Dillard,Servideo,NA,E,E3,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA13AWAY01,bat,Reeves walked (3-0).,0,NA,NA,NA,A,A0,0,Reeves,NA,NA,B,B0,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA13AWAY02,sub,D. Nikhazy to p for M. Cioffi.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA13AWAY03,br,Reeves advanced to second on a wild pitch.,0,Reeves,NA,NA,B,B0,0,NA,Reeves,NA,C,C0,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA13AWAY04,bat,Williamson walked (3-0).,0,NA,Reeves,NA,C,C0,0,Williamson,Reeves,NA,E,E0,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA13AWAY05,bat,Robinson singled to third base  bunt (1-0);,0,Williamson,Reeves,NA,E,E0,0,Robinson,Reeves,NA,E,E0,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA13AWAY05,br,Williamson advanced to second;,0,Williamson,Reeves,NA,E,E0,0,Robinson,Williamson,NA,E,E0,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA13AWAY05,br,Reeves advanced to third.,0,Williamson,Reeves,NA,E,E0,0,Robinson,Williamson,Reeves,H,H0,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA13AWAY06,bat,Morris struck out looking (0-2).,0,Robinson,Williamson,Reeves,H,H0,1,Robinson,Williamson,Reeves,H,H1,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA13AWAY07,bat,Breaux struck out swinging (2-2).,1,Robinson,Williamson,Reeves,H,H1,2,Robinson,Williamson,Reeves,H,H2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA13AWAY08,bat,Auerbach flied out to rf (1-2).,2,Robinson,Williamson,Reeves,H,H2,3,Robinson,Williamson,Reeves,H,H3,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA14HOME01,sub,Medders to p for Guffey.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA14HOME02,bat,R. Olenek grounded out to 3b (0-0).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA14HOME03,bat,C. Zabowski walked (3-0).,1,NA,NA,NA,A,A1,1,Zabowski,NA,NA,B,B1,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA14HOME04,bat,K. Graham struck out swinging (1-2).,1,Zabowski,NA,NA,B,B1,2,Zabowski,NA,NA,B,B2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA14HOME05,bat,C. Johnson walked (3-2);,2,Zabowski,NA,NA,B,B2,2,Johnson,NA,NA,B,B2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA14HOME05,br,C. Zabowski advanced to second.,2,Zabowski,NA,NA,B,B2,2,Johnson,Zabowski,NA,E,E2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA14HOME06,bat,J. Adams grounded out to 2b (2-2).,2,Johnson,Zabowski,NA,E,E2,3,Johnson,Zabowski,NA,E,E3,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA15AWAY01,bat,McCullough singled up the middle (1-2).,0,NA,NA,NA,A,A0,0,Mccullough,NA,NA,B,B0,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA15AWAY02,sub,R. Olenek to p for D. Nikhazy.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA15AWAY03,sub,J. Hall to cf for K. Graham.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA15AWAY04,bat,Gentry struck out swinging (1-2).,0,Mccullough,NA,NA,B,B0,1,Mccullough,NA,NA,B,B1,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA15AWAY05,bat,Holcombe struck out swinging (2-2).,1,Mccullough,NA,NA,B,B1,2,Mccullough,NA,NA,B,B2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA15AWAY06,sub,Trousdale pinch hit for Reeves.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA15AWAY07,bat,Trousdale singled through the right side (0-2);,2,Mccullough,NA,NA,B,B2,2,Trousdale,NA,NA,B,B2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA15AWAY07,br,McCullough advanced to second.,2,Mccullough,NA,NA,B,B2,2,Trousdale,Mccullough,NA,E,E2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA15AWAY08,br,Trousdale advanced to second on a wild pitch;,2,Trousdale,Mccullough,NA,E,E2,2,NA,Trousdale,NA,C,C2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA15AWAY08,br,McCullough advanced to third.,2,NA,Trousdale,NA,C,C2,2,NA,Trousdale,Mccullough,G,G2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA15AWAY09,bat,Williamson doubled down the lf line  2 RBI (1-0);,2,NA,Trousdale,Mccullough,G,G2,2,NA,Williamson,Mccullough,G,G2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA15AWAY09,br,Trousdale scored;,2,NA,Trousdale,Mccullough,G,G2,2,NA,Williamson,Mccullough,G,G2,1
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA15AWAY09,br,McCullough scored.,2,NA,Trousdale,Mccullough,G,G2,2,NA,Williamson,NA,C,C2,1
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA15AWAY10,bat,Robinson grounded out to ss (0-1).,2,NA,Williamson,NA,C,C2,3,NA,Williamson,NA,C,C3,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA16HOME01,sub,Randolph to p for Medders.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA16HOME02,bat,G. Kessinger singled down the lf line (0-0).,0,NA,NA,NA,A,A0,0,Kessinger,NA,NA,B,B0,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA16HOME03,bat,A. Servideo popped up to ss (2-2).,0,Kessinger,NA,NA,B,B0,1,Kessinger,NA,NA,B,B1,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA16HOME04,bat,T. Keenan hit by pitch (0-0);,1,Kessinger,NA,NA,B,B1,1,Keenan,NA,NA,B,B1,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA16HOME04,br,G. Kessinger advanced to second.,1,Kessinger,NA,NA,B,B1,1,Keenan,Kessinger,NA,E,E1,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA16HOME05,bat,T. Dillard grounded into double play ss to 2b to 1b (2-2);,1,Keenan,Kessinger,NA,E,E1,2,Keenan,Kessinger,NA,E,E2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA16HOME05,br,T. Keenan out on the play.,1,Keenan,Kessinger,NA,E,E1,3,NA,Kessinger,NA,C,C3,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA17AWAY01,bat,Morris walked (3-0).,0,NA,NA,NA,A,A0,0,Morris,NA,NA,B,B0,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA17AWAY02,sub,R. Olenek to cf.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA17AWAY03,sub,T. Myers to p for J. Hall.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA17AWAY04,bat,Breaux grounded out to p  SAC  bunt (0-1);,0,Morris,NA,NA,B,B0,1,Morris,NA,NA,B,B1,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA17AWAY04,br,Morris advanced to second.,0,Morris,NA,NA,B,B0,1,NA,Morris,NA,C,C1,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA17AWAY05,bat,Auerbach flied out to lf (2-0).,1,NA,Morris,NA,C,C1,2,NA,Morris,NA,C,C2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA17AWAY06,bat,McCullough flied out to cf (0-0).,2,NA,Morris,NA,C,C2,3,NA,Morris,NA,C,C3,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA18HOME01,sub,Breaux to lf.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA18HOME02,sub,McCleney to cf for Holcombe.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA18HOME03,bat,R. Olenek grounded out to ss (1-1).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA18HOME04,bat,C. Zabowski walked (3-2).,1,NA,NA,NA,A,A1,1,Zabowski,NA,NA,B,B1,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA18HOME05,sub,C. Cockrell pinch hit for T. Myers.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA18HOME06,bat,C. Cockrell struck out swinging (1-2).,1,Zabowski,NA,NA,B,B1,2,Zabowski,NA,NA,B,B2,0
+ABAM_OMSS_0316201901,ABAM_OMSS_0316201901_PA18HOME07,bat,C. Johnson struck out swinging (2-2).,2,Zabowski,NA,NA,B,B2,3,Zabowski,NA,NA,B,B3,0

@@ -1,0 +1,37 @@
+GameID,PlateAppID,HomeAway,RunnerName,Hole,Action,StartBase,EndBase,BasesAdded,SB,SBA,OutsAdded,Fielder1,Fielder2,RunsAdded,PO,POA,WP,PB,AOE,bostartOuts,bostartOnFirst,bostartOnSecond,bostartOnThird,bostartBaseState,bostartBaseOutState,boendOuts,boendOnFirst,boendOnSecond,boendOnThird,boendBaseState,boendBaseOutState
+2019030101,2019030101Away0101b,away,Galland,1,stole,0,2,2,1,1,0,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,A,A0,0,Galland,Galland,NA,E,E0
+2019030101,2019030101Away0102b,away,Galland,1,scored,0,4,4,0,0,0,NA,NA,1,0,0,0,0,0,0,NA,NA,NA,A,A0,0,Galland,Galland,NA,E,E0
+2019030101,2019030101Away0103b,away,Frelick,2,scored,0,4,4,0,0,0,NA,NA,1,0,0,0,0,0,0,Galland,Galland,NA,E,E0,1,Galland,Galland,NA,E,E1
+2019030101,2019030101Away0304b,away,Frelick,2,advanced,2,3,1,0,0,0,NA,NA,0,0,0,0,0,0,2,NA,Frelick,NA,C,C2,2,Dempsey,Frelick,Frelick,H,H2
+2019030101,2019030101Away0402b,away,Morissette,6,out,0,0,0,0,0,1,1b,p ,0,0,0,0,0,0,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2
+2019030101,2019030101Away0503b,away,Galland,1,stole,0,2,2,1,1,0,NA,NA,0,0,0,0,0,0,2,NA,NA,NA,A,A2,2,Galland,Galland,NA,E,E2
+2019030101,2019030101Away0504b,away,Frelick,2,advanced,1,2,1,0,0,0,NA,NA,0,0,0,0,0,0,2,Galland,Galland,NA,E,E2,2,NA,Frelick,NA,C,C2
+2019030101,2019030101Away0504b,away,Galland,1,scored,1,4,3,0,0,0,NA,NA,1,0,0,0,0,0,2,Galland,Galland,NA,E,E2,2,NA,Frelick,NA,C,C2
+2019030101,2019030101Away0505b,away,Frelick,2,advanced,2,3,1,0,0,0,NA,NA,0,0,0,0,0,0,2,NA,Frelick,NA,C,C2,2,Dempsey,Frelick,Frelick,H,H2
+2019030101,2019030101Away0505b,away,Dempsey,3,stole,0,2,2,1,1,0,NA,NA,0,0,0,0,0,0,2,NA,Frelick,NA,C,C2,2,Dempsey,Dempsey,Frelick,H,H2
+2019030101,2019030101Away0603b,away,Martellini,5,out,1,0,-1,0,0,1,3b,p ,0,0,0,0,0,0,0,Martellini,NA,NA,B,B0,1,Morissette,NA,NA,B,B1
+2019030101,2019030101Away0603b,away,Morissette,6,advanced,0,2,2,0,0,0,NA,NA,0,0,0,0,1,0,0,Martellini,NA,NA,B,B0,1,Morissette,Morissette,NA,E,E1
+2019030101,2019030101Away0605b,away,Baldelli,7,advanced,1,2,1,0,0,0,NA,NA,0,0,0,0,0,0,1,Baldelli,Morissette,NA,E,E1,2,Baldelli,Baldelli,NA,E,E2
+2019030101,2019030101Away0605b,away,Morissette,6,advanced,2,3,1,0,0,0,NA,NA,0,0,0,0,0,0,1,Baldelli,Morissette,NA,E,E1,2,Baldelli,Baldelli,Morissette,H,H2
+2019030101,2019030101Away0606b,away,Baldelli,7,scored,1,4,3,0,0,0,NA,NA,1,0,0,0,0,0,2,Baldelli,Baldelli,Morissette,H,H2,2,NA,NA,NA,A,A2
+2019030101,2019030101Away0606b,away,Morissette,6,scored,3,4,1,0,0,0,NA,NA,1,0,0,0,0,0,2,Baldelli,Baldelli,Morissette,H,H2,2,NA,NA,NA,A,A2
+2019030101,2019030101Away0801b,away,Morissette,6,out,0,0,0,0,0,2,c,1b,0,1,1,0,0,0,0,NA,NA,NA,A,A0,2,Morissette,NA,NA,B,B2
+2019030101,2019030101Away0906b,away,Alu,9,advanced,1,2,1,0,0,0,NA,NA,0,0,0,0,0,0,2,Alu,NA,NA,B,B2,2,Dempsey,Alu,NA,E,E2
+2019030101,2019030101Home0204b,home,Harris,7,out,1,0,-1,0,0,1,2b,ss,0,0,0,0,0,0,2,Harris,NA,NA,B,B2,3,Thomason,NA,NA,B,B3
+2019030101,2019030101Home0502b,home,Thomason,8,out,0,0,0,0,0,1,3b,2b,0,0,0,0,0,0,0,Harris,NA,NA,B,B0,2,Harris,NA,NA,B,B2
+2019030101,2019030101Home0502b,home,Harris,7,advanced,1,2,1,0,0,0,NA,NA,0,0,0,0,0,0,0,Harris,NA,NA,B,B0,2,Harris,Harris,NA,E,E2
+2019030101,2019030101Home0503b,home,Harris,7,scored,1,4,3,0,0,0,NA,NA,1,0,0,0,0,0,2,Harris,Harris,NA,E,E2,2,Brewer,Harris,NA,E,E2
+2019030101,2019030101Home0504b,home,Brewer,9,advanced,1,3,2,0,0,0,NA,NA,0,0,0,0,0,0,2,Brewer,Harris,NA,E,E2,2,Kerr,Harris,Brewer,H,H2
+2019030101,2019030101Home0505b,home,Kerr,1,out,1,0,-1,0,0,1,2b,ss,0,0,0,0,0,0,2,Kerr,Harris,Brewer,H,H2,3,Lewis,Harris,Brewer,H,H3
+2019030101,2019030101Home0505b,home,Brewer,9,scored,3,4,1,0,0,0,NA,NA,1,0,0,0,0,0,2,Kerr,Harris,Brewer,H,H2,3,Lewis,Harris,Brewer,H,H3
+2019030101,2019030101Home0505b,home,Lewis,2,out,0,0,0,0,1,2,c,ss,0,0,0,0,0,0,2,Kerr,Harris,Brewer,H,H2,5,Lewis,Harris,Brewer,H,H5
+2019030101,2019030101Home0602b,home,Howie,3,advanced,1,2,1,0,0,0,NA,NA,0,0,0,0,0,0,0,Howie,NA,NA,B,B0,0,Johnson,Howie,NA,E,E0
+2019030101,2019030101Home0603b,home,Botsoe,5,out,0,0,0,0,0,1,p,2b,0,0,0,0,0,0,0,Johnson,Howie,NA,E,E0,2,Johnson,Howie,NA,E,E2
+2019030101,2019030101Home0603b,home,Johnson,4,advanced,1,2,1,0,0,0,NA,NA,0,0,0,0,0,0,0,Johnson,Howie,NA,E,E0,2,Johnson,Johnson,NA,E,E2
+2019030101,2019030101Home0603b,home,Howie,3,advanced,2,3,1,0,0,0,NA,NA,0,0,0,0,0,0,0,Johnson,Howie,NA,E,E0,2,Johnson,Johnson,Howie,H,H2
+2019030101,2019030101Home0604b,home,Johnson,4,advanced,1,3,2,0,0,0,NA,NA,0,0,0,0,0,0,2,Johnson,Johnson,Howie,H,H2,3,Johnson,Johnson,Johnson,H,H3
+2019030101,2019030101Home0604b,home,Howie,3,scored,3,4,1,0,0,0,NA,NA,1,0,0,0,0,0,2,Johnson,Johnson,Howie,H,H2,3,Johnson,Johnson,Johnson,H,H3
+2019030101,2019030101Home0605b,home,Harris,7,out,0,0,0,0,0,1,c,1b,0,0,0,0,0,0,3,Johnson,Johnson,Johnson,H,H3,5,Johnson,Johnson,Johnson,H,H5
+2019030101,2019030101Home0904b,home,Harris,7,advanced,1,2,1,0,0,0,NA,NA,0,0,0,0,0,0,1,Harris,NA,NA,B,B1,1,Thomason,Harris,NA,E,E1
+2019030101,2019030101Home0907b,home,Hill,8,advanced,0,2,2,0,0,0,NA,NA,0,0,0,0,0,0,2,Thomason,Harris,NA,E,E2,2,Kerr,Hill,NA,E,E2
+2019030101,2019030101Home0907b,home,Harris,7,out,2,0,-2,0,0,1,3b unassiste,RR,0,0,0,0,0,0,2,Thomason,Harris,NA,E,E2,3,Kerr,Hill,NA,E,E3

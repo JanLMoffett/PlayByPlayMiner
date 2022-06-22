@@ -1,0 +1,135 @@
+GameID,PlateAppID,AUType,AUString,startOuts,startOnFirst,startOnSecond,startOnThird,startBaseState,startBaseOutState,endOuts,endOnFirst,endOnSecond,endOnThird,endBaseState,endBaseOutState,RPrime
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA01AWAY01,bat,Mangum grounded out to ss (0-1).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA01AWAY02,bat,Westburg walked (3-1).,1,NA,NA,NA,A,A1,1,Westburg,NA,NA,B,B1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA01AWAY03,bat,Allen struck out looking (2-2).,1,Westburg,NA,NA,B,B1,2,Westburg,NA,NA,B,B2,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA01AWAY04,bat,MacNamee flied out to cf (2-2).,2,Westburg,NA,NA,B,B2,3,Westburg,NA,NA,B,B3,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA02HOME01,bat,A. Servideo struck out looking (2-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA02HOME02,bat,R. Olenek grounded out to p  bunt (0-1).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA02HOME03,bat,G. Kessinger grounded out to 3b (2-1).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA03AWAY01,bat,Foscue grounded out to ss (2-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA03AWAY02,bat,Jordan  R. flied out to rf (1-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA03AWAY03,bat,Skelton grounded out to ss (3-2).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA04HOME01,bat,T. Keenan hit by pitch (2-2).,0,NA,NA,NA,A,A0,0,Keenan,NA,NA,B,B0,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA04HOME02,bat,T. Dillard grounded out to 1b unassisted (0-0);,0,Keenan,NA,NA,B,B0,1,Keenan,NA,NA,B,B1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA04HOME02,br,T. Keenan advanced to second.,0,Keenan,NA,NA,B,B0,1,NA,Keenan,NA,C,C1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA04HOME03,bat,C. Zabowski grounded out to 2b (3-2);,1,NA,Keenan,NA,C,C1,2,NA,Keenan,NA,C,C2,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA04HOME03,br,T. Keenan advanced to third.,1,NA,Keenan,NA,C,C1,2,NA,NA,Keenan,D,D2,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA04HOME04,bat,C. Johnson walked (3-2).,2,NA,NA,Keenan,D,D2,2,Johnson,NA,Keenan,F,F2,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA04HOME05,bat,K. Graham flied out to lf (1-0).,2,Johnson,NA,Keenan,F,F2,3,Johnson,NA,Keenan,F,F3,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA05AWAY01,bat,Cumbest flied out to cf to right center (0-0).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA05AWAY02,bat,Gilbert popped up to 1b (2-1).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA05AWAY03,bat,Mangum hit by pitch (0-0).,2,NA,NA,NA,A,A2,2,Mangum,NA,NA,B,B2,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA05AWAY04,br,Mangum advanced to second on a passed ball.,2,Mangum,NA,NA,B,B2,2,NA,Mangum,NA,C,C2,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA05AWAY05,bat,Westburg struck out looking (3-2).,2,NA,Mangum,NA,C,C2,3,NA,Mangum,NA,C,C3,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA06HOME01,bat,C. Cockrell struck out swinging (1-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA06HOME02,bat,A. Servideo singled through the right side (0-0).,1,NA,NA,NA,A,A1,1,Servideo,NA,NA,B,B1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA06HOME03,br,A. Servideo advanced to second on a wild pitch.,1,Servideo,NA,NA,B,B1,1,NA,Servideo,NA,C,C1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA06HOME04,bat,R. Olenek struck out looking (2-2).,1,NA,Servideo,NA,C,C1,2,NA,Servideo,NA,C,C2,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA06HOME05,bat,G. Kessinger doubled down the lf line  RBI (1-1);,2,NA,Servideo,NA,C,C2,2,NA,Kessinger,NA,C,C2,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA06HOME05,br,A. Servideo scored.,2,NA,Servideo,NA,C,C2,2,NA,Kessinger,NA,C,C2,1
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA06HOME06,br,G. Kessinger advanced to third on a wild pitch.,2,NA,Kessinger,NA,C,C2,2,NA,NA,Kessinger,D,D2,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA06HOME07,bat,T. Keenan lined out to 1b (3-0).,2,NA,NA,Kessinger,D,D2,3,NA,NA,Kessinger,D,D3,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA07AWAY01,bat,Allen struck out swinging (2-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA07AWAY02,bat,MacNamee grounded out to ss (1-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA07AWAY03,bat,Foscue struck out swinging (1-2).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA08HOME01,bat,T. Dillard singled to left field (1-1).,0,NA,NA,NA,A,A0,0,Dillard,NA,NA,B,B0,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA08HOME02,bat,C. Zabowski flied out to cf (2-0).,0,Dillard,NA,NA,B,B0,1,Dillard,NA,NA,B,B1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA08HOME03,bat,C. Johnson lined out to 2b (0-1).,1,Dillard,NA,NA,B,B1,2,Dillard,NA,NA,B,B2,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA08HOME04,batbr,K. Graham out at first p to 2b to 1b (1-1);,2,Dillard,NA,NA,B,B2,2,Dillard,NA,NA,B,B2,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA08HOME04,batbr,K. Graham out at first p to 2b to 1b (1-1);,2,Dillard,NA,NA,B,B2,3,Dillard,NA,NA,B,B3,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA08HOME04,br,T. Dillard advanced to second.,2,Dillard,NA,NA,B,B2,3,NA,Dillard,NA,C,C3,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA09AWAY01,bat,Jordan  R. homered to left field  RBI (2-2).,0,NA,NA,NA,A,A0,0,NA,NA,NA,A,A0,1
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA09AWAY02,bat,Skelton flied out to cf (3-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA09AWAY03,bat,Cumbest grounded out to 3b (1-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA09AWAY04,bat,Gilbert struck out swinging (1-2).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA10HOME01,sub,James to p for Plumlee.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA10HOME02,batbr,C. Cockrell out at first p to 2b to 1b (2-2).,0,NA,NA,NA,A,A0,0,NA,NA,NA,A,A0,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA10HOME02,batbr,C. Cockrell out at first p to 2b to 1b (2-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA10HOME03,bat,A. Servideo walked (3-2).,1,NA,NA,NA,A,A1,1,Servideo,NA,NA,B,B1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA10HOME04,br,A. Servideo stole second.,1,Servideo,NA,NA,B,B1,1,NA,Servideo,NA,C,C1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA10HOME05,bat,R. Olenek reached on a throwing error by 3b (0-1).,1,NA,Servideo,NA,C,C1,1,Olenek,Servideo,NA,E,E1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA10HOME06,bat,G. Kessinger popped up to ss down the lf line (0-0).,1,Olenek,Servideo,NA,E,E1,2,Olenek,Servideo,NA,E,E2,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA10HOME07,sub,Barlow to p for James.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA10HOME08,br,R. Olenek advanced to second;,2,Olenek,Servideo,NA,E,E2,2,NA,Olenek,NA,C,C2,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA10HOME08,br,A. Servideo out at third c to 3b caught stealing.,2,Olenek,Servideo,NA,E,E2,3,NA,Olenek,NA,C,C3,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA11AWAY01,bat,Mangum flied out to rf (0-0).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA11AWAY02,bat,Westburg reached on a fielding error by 2b (0-2).,1,NA,NA,NA,A,A1,1,Westburg,NA,NA,B,B1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA11AWAY03,bat,Allen walked (3-0);,1,Westburg,NA,NA,B,B1,1,Allen,NA,NA,B,B1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA11AWAY03,br,Westburg advanced to second.,1,Westburg,NA,NA,B,B1,1,Allen,Westburg,NA,E,E1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA11AWAY04,sub,M. Cioffi to p for Z. Phillips.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA11AWAY05,bat,MacNamee singled to right field (1-2);,1,Allen,Westburg,NA,E,E1,1,Macnamee,Westburg,NA,E,E1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA11AWAY05,br,Allen advanced to second;,1,Allen,Westburg,NA,E,E1,1,Macnamee,Allen,NA,E,E1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA11AWAY05,br,Westburg advanced to third.,1,Allen,Westburg,NA,E,E1,1,Macnamee,Allen,Westburg,H,H1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA11AWAY06,bat,Foscue doubled down the rf line  2 RBI (2-1);,1,Macnamee,Allen,Westburg,H,H1,1,Macnamee,Foscue,Westburg,H,H1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA11AWAY06,br,MacNamee advanced to third;,1,Macnamee,Allen,Westburg,H,H1,1,NA,Foscue,Macnamee,G,G1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA11AWAY06,br,Allen scored;,1,Macnamee,Allen,Westburg,H,H1,1,NA,Foscue,Macnamee,G,G1,1
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA11AWAY06,br,Westburg scored unearned.,1,Macnamee,Allen,Westburg,H,H1,1,NA,Foscue,Macnamee,G,G1,1
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA11AWAY07,bat,Jordan  R. intentionally walked.,1,NA,Foscue,Macnamee,G,G1,1,Jordan,Foscue,Macnamee,H,H1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA11AWAY08,sub,A. Miller to p for M. Cioffi.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA11AWAY09,bat,Skelton flied out to rf  SAC  RBI (3-1);,1,Jordan,Foscue,Macnamee,H,H1,2,Jordan,Foscue,Macnamee,H,H2,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA11AWAY09,br,Foscue advanced to third;,1,Jordan,Foscue,Macnamee,H,H1,2,Jordan,NA,Foscue,F,F2,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA11AWAY09,br,MacNamee scored.,1,Jordan,Foscue,Macnamee,H,H1,2,Jordan,NA,Foscue,F,F2,1
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA11AWAY10,sub,Hatcher pinch hit for Cumbest.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA11AWAY11,bat,Hatcher struck out looking (0-2).,2,Jordan,NA,Foscue,F,F2,3,Jordan,NA,Foscue,F,F3,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA12HOME01,sub,Hatcher to rf.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA12HOME02,bat,T. Keenan flied out to lf (0-0).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA12HOME03,bat,T. Dillard struck out swinging (2-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA12HOME04,bat,C. Zabowski singled through the right side (2-1).,2,NA,NA,NA,A,A2,2,Zabowski,NA,NA,B,B2,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA12HOME05,bat,C. Johnson struck out swinging (3-2).,2,Zabowski,NA,NA,B,B2,3,Zabowski,NA,NA,B,B3,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA13AWAY01,bat,Gilbert singled through the left side (0-0).,0,NA,NA,NA,A,A0,0,Gilbert,NA,NA,B,B0,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA13AWAY02,bat,Mangum singled to right field (0-1);,0,Gilbert,NA,NA,B,B0,0,Mangum,NA,NA,B,B0,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA13AWAY02,br,Gilbert advanced to third.,0,Gilbert,NA,NA,B,B0,0,Mangum,NA,Gilbert,F,F0,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA13AWAY03,bat,"Westburg reached on a fielders choice to third base  RBI (0-1);,0,Mangum,NA,Gilbert,F,F0,0,Westburg,NA,Gilbert,F,F0,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA13AWAY03,br,Mangum advanced to second;,0,Mangum,NA,Gilbert,F,F0,0,Westburg,Mangum,Gilbert,H,H0,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA13AWAY03,br,Gilbert scored.",0,Mangum,NA,Gilbert,F,F0,0,Westburg,Mangum,NA,E,E0,1
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA13AWAY04,batbr,Allen singled up the middle advanced to third on the throw RBI (0-2);,0,Westburg,Mangum,NA,E,E0,0,Allen,Mangum,NA,E,E0,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA13AWAY04,batbr,Allen singled up the middle advanced to third on the throw RBI (0-2);,0,Westburg,Mangum,NA,E,E0,0,NA,Mangum,Allen,G,G0,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA13AWAY04,br,Westburg advanced to third scored on a throwing error by c unearned;,0,Westburg,Mangum,NA,E,E0,0,NA,Mangum,Westburg,G,G0,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA13AWAY04,br,Mangum scored.,0,Westburg,Mangum,NA,E,E0,0,NA,NA,Westburg,D,D0,1
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA13AWAY05,sub,H. Roth to p for A. Miller.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA13AWAY06,bat,MacNamee popped up to 1b (0-0).,0,NA,NA,Westburg,D,D0,1,NA,NA,Westburg,D,D1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA13AWAY07,bat,Foscue struck out swinging (2-2).,1,NA,NA,Westburg,D,D1,2,NA,NA,Westburg,D,D2,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA13AWAY08,bat,Jordan  R. struck out swinging (2-2).,2,NA,NA,Westburg,D,D2,3,NA,NA,Westburg,D,D3,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA14HOME01,sub,White to p for Barlow.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA14HOME02,bat,K. Graham struck out swinging (0-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA14HOME03,bat,C. Cockrell struck out swinging (1-2).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA14HOME04,bat,A. Servideo doubled to second base (1-0).,2,NA,NA,NA,A,A2,2,NA,Servideo,NA,C,C2,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA14HOME05,bat,R. Olenek grounded out to 1b unassisted (0-1).,2,NA,Servideo,NA,C,C2,3,NA,Servideo,NA,C,C3,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA15AWAY01,sub,C. Gindl to rf for C. Cockrell.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA15AWAY02,bat,Skelton singled to right field (2-0).,0,NA,NA,NA,A,A0,0,Skelton,NA,NA,B,B0,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA15AWAY03,bat,"Hatcher reached on a fielders choice to second base (1-1);,0,Skelton,NA,NA,B,B0,0,Hatcher,NA,NA,B,B0,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA15AWAY03,br,Skelton out at second 2b to ss.",0,Skelton,NA,NA,B,B0,1,Hatcher,NA,NA,B,B1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA15AWAY04,br,Hatcher advanced to second on a balk.,1,Hatcher,NA,NA,B,B1,1,NA,Hatcher,NA,C,C1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA15AWAY05,br,Hatcher advanced to third on a wild pitch.,1,NA,Hatcher,NA,C,C1,1,NA,NA,Hatcher,D,D1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA15AWAY06,bat,Gilbert walked (3-2).,1,NA,NA,Hatcher,D,D1,1,Gilbert,NA,Hatcher,F,F1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA15AWAY07,bat,Mangum flied out to rf  SAC  RBI (0-0);,1,Gilbert,NA,Hatcher,F,F1,2,Gilbert,NA,Hatcher,F,F2,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA15AWAY07,br,Hatcher scored.,1,Gilbert,NA,Hatcher,F,F1,2,Gilbert,NA,NA,B,B2,1
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA15AWAY08,bat,Westburg struck out swinging (2-2).,2,Gilbert,NA,NA,B,B2,3,Gilbert,NA,NA,B,B3,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA16HOME01,sub,Liebelt to p for White.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA16HOME02,bat,G. Kessinger struck out swinging (1-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA16HOME03,bat,T. Keenan singled through the left side (2-0).,1,NA,NA,NA,A,A1,1,Keenan,NA,NA,B,B1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA16HOME04,bat,T. Dillard walked (3-1);,1,Keenan,NA,NA,B,B1,1,Dillard,NA,NA,B,B1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA16HOME04,br,T. Keenan advanced to second.,1,Keenan,NA,NA,B,B1,1,Dillard,Keenan,NA,E,E1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA16HOME05,batbr,C. Zabowski out at first 1b to p (0-1);,1,Dillard,Keenan,NA,E,E1,1,Dillard,Keenan,NA,E,E1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA16HOME05,batbr,C. Zabowski out at first 1b to p (0-1);,1,Dillard,Keenan,NA,E,E1,2,Dillard,Keenan,NA,E,E2,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA16HOME05,br,T. Dillard advanced to second;,1,Dillard,Keenan,NA,E,E1,2,NA,Dillard,NA,C,C2,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA16HOME05,br,T. Keenan advanced to third.,1,Dillard,Keenan,NA,E,E1,2,NA,Dillard,Keenan,G,G2,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA16HOME06,bat,C. Johnson grounded out to ss (2-1).,2,NA,Dillard,Keenan,G,G2,3,NA,Dillard,Keenan,G,G3,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA17AWAY01,sub,G. Holston to p for H. Roth.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA17AWAY02,bat,Allen hit by pitch (0-0).,0,NA,NA,NA,A,A0,0,Allen,NA,NA,B,B0,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA17AWAY03,sub,Jones pinch hit for MacNamee.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA17AWAY04,bat,Jones walked (3-0);,0,Allen,NA,NA,B,B0,0,Jones,NA,NA,B,B0,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA17AWAY04,br,Allen advanced to second.,0,Allen,NA,NA,B,B0,0,Jones,Allen,NA,E,E0,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA17AWAY05,bat,Foscue struck out looking (0-2).,0,Jones,Allen,NA,E,E0,1,Jones,Allen,NA,E,E1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA17AWAY06,bat,Jordan  R. popped up to ss (0-0).,1,Jones,Allen,NA,E,E1,2,Jones,Allen,NA,E,E2,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA17AWAY07,bat,Skelton grounded out to ss (1-1).,2,Jones,Allen,NA,E,E2,3,Jones,Allen,NA,E,E3,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA18HOME01,batbr,K. Graham out at first 1b to p (1-2).,0,NA,NA,NA,A,A0,0,NA,NA,NA,A,A0,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA18HOME01,batbr,K. Graham out at first 1b to p (1-2).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA18HOME02,bat,C. Gindl walked (3-2).,1,NA,NA,NA,A,A1,1,Gindl,NA,NA,B,B1,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA18HOME03,bat,A. Servideo struck out swinging (1-2).,1,Gindl,NA,NA,B,B1,2,Gindl,NA,NA,B,B2,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA18HOME04,bat,R. Olenek singled to third base (0-0);,2,Gindl,NA,NA,B,B2,2,Olenek,NA,NA,B,B2,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA18HOME04,br,C. Gindl advanced to second.,2,Gindl,NA,NA,B,B2,2,Olenek,Gindl,NA,E,E2,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA18HOME05,bat,G. Kessinger singled to second base (0-2);,2,Olenek,Gindl,NA,E,E2,2,Kessinger,Gindl,NA,E,E2,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA18HOME05,br,R. Olenek advanced to second;,2,Olenek,Gindl,NA,E,E2,2,Kessinger,Olenek,NA,E,E2,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA18HOME05,br,C. Gindl advanced to third.,2,Olenek,Gindl,NA,E,E2,2,Kessinger,Olenek,Gindl,H,H2,0
+MSST_OMSS_0423201901,MSST_OMSS_0423201901_PA18HOME06,bat,T. Keenan flied out to cf (0-0).,2,Kessinger,Olenek,Gindl,H,H2,3,Kessinger,Olenek,Gindl,H,H3,0

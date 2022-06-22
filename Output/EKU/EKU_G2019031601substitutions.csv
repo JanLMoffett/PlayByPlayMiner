@@ -1,0 +1,10 @@
+GameID,PlateAppID,SubType,PlayerOut,PlayerIn,SubbedPos
+2019031601,2019031601Away0403s,def,Goe,Weins,p
+2019031601,2019031601Away0801s,def,Weins,Garbrick,p
+2019031601,2019031601Away0904s,def,Garbrick,Ziegelmeyer,p
+2019031601,2019031601Home0407s,def,NA,ERROR: SubUnit.get_players, ts: ,NA
+2019031601,2019031601Home0505s,def,NA,ERROR: SubUnit.get_players, ts: ,NA
+2019031601,2019031601Home0603s,def,Brown,Ferris,p
+2019031601,2019031601Home0701s,def,Ferris,Abbott,p
+2019031601,2019031601Home0704s,def,NA,Sells,dh
+2019031601,2019031601Home0707s,def,Abbott,Ochsenbein,p

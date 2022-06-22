@@ -1,0 +1,20 @@
+GameID,PlateAppID,SubType,PlayerOut,PlayerIn,SubbedPos
+2019021601,2019021601Away0603s,def,Brown,Ferris,p
+2019021601,2019021601Away0801s,def,NA,Lucio,3b
+2019021601,2019021601Away0802s,def,NA,Kerr,2b
+2019021601,2019021601Away0805s,off,Hession,Robinson,ph
+2019021601,2019021601Away0807s,off,Martin,Brooks,dh
+2019021601,2019021601Away0901s,def,NA,Johnson,lf
+2019021601,2019021601Away0902s,off,Hill,Thomason,1b
+2019021601,2019021601Away0903s,def,Ferris,Ochsenbein,p
+2019021601,2019021601Away0904s,off,Maxwell,Wheeler,ph
+2019021601,2019021601Away0909s,def,NA,ERROR: SubUnit.get_players, ts: ,NA
+2019021601,2019021601Home0204s,def,NA,ERROR: SubUnit.get_players, ts: HOWIE, N. singled through the left side, RBI;,NA
+2019021601,2019021601Home0303s,off,Mcdaniel,Mitchell,c
+2019021601,2019021601Home0504s,def,Coleman,Grant,p
+2019021601,2019021601Home0602s,def,Grant,Lister,p
+2019021601,2019021601Home0701s,off,Conklin,Kerr,ph
+2019021601,2019021601Home0705s,def,Lister,Mendez,p
+2019021601,2019021601Home0801s,def,NA,Robinson,3b
+2019021601,2019021601Home0802s,def,Mendez,Morea,p
+2019021601,2019021601Home0804s,off,Brewer,Hill,ph

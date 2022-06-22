@@ -1,0 +1,146 @@
+GameID,PlateAppID,AUType,AUString,startOuts,startOnFirst,startOnSecond,startOnThird,startBaseState,startBaseOutState,endOuts,endOnFirst,endOnSecond,endOnThird,endBaseState,endBaseOutState,RPrime
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA01AWAY01,bat,Mangum struck out swinging (1-2 KFBS).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA01AWAY02,bat,Westburg struck out swinging (3-2 KSBFBFBFS).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA01AWAY03,bat,Allen flied out to cf (2-2 KFBB).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA02HOME01,bat,A. Servideo grounded out to ss (0-0).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA02HOME02,bat,G. Kessinger grounded out to 3b (3-2 BFBBF).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA02HOME03,batbr,T. Keenan singled to left center advanced to second on an error by cf (1-1 BK).,2,NA,NA,NA,A,A2,2,Keenan,NA,NA,B,B2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA02HOME03,batbr,T. Keenan singled to left center advanced to second on an error by cf (1-1 BK).,2,NA,NA,NA,A,A2,2,NA,Keenan,NA,C,C2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA02HOME04,bat,T. Dillard walked (3-1 BBBKB).,2,NA,Keenan,NA,C,C2,2,Dillard,Keenan,NA,E,E2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA02HOME05,bat,C. Zabowski singled to right center  RBI (2-0 BB);,2,Dillard,Keenan,NA,E,E2,2,Zabowski,Keenan,NA,E,E2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA02HOME05,br,T. Dillard advanced to third;,2,Dillard,Keenan,NA,E,E2,2,Zabowski,Keenan,Dillard,H,H2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA02HOME05,br,T. Keenan scored.,2,Dillard,Keenan,NA,E,E2,2,Zabowski,NA,Dillard,F,F2,1
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA02HOME06,bat,C. Johnson singled to center field  RBI (3-0 BBB);,2,Zabowski,NA,Dillard,F,F2,2,Johnson,NA,Dillard,F,F2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA02HOME06,br,C. Zabowski advanced to second advanced to third on an error by cf;,2,Zabowski,NA,Dillard,F,F2,2,Johnson,Zabowski,Dillard,H,H2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA02HOME06,br,T. Dillard scored.,2,Zabowski,NA,Dillard,F,F2,2,Johnson,Zabowski,NA,E,E2,1
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA02HOME07,bat,K. Graham walked (3-2 FBBBSB);,2,Johnson,Zabowski,NA,E,E2,2,Graham,Zabowski,NA,E,E2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA02HOME07,br,C. Johnson advanced to second.,2,Johnson,Zabowski,NA,E,E2,2,Graham,Johnson,NA,E,E2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA02HOME08,bat,"J. Adams reached on a fielders choice (2-0 BB);,2,Graham,Johnson,NA,E,E2,2,Adams,Johnson,NA,E,E2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA02HOME08,br,K. Graham out at second 2b unassisted interference.",2,Graham,Johnson,NA,E,E2,3,Adams,Johnson,NA,E,E3,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA03AWAY01,bat,MacNamee grounded out to 3b (1-0 B).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA03AWAY02,other,Play at first was reviewed. Call stands.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA03AWAY03,bat,Foscue singled to shortstop (2-2 BBFFF).,1,NA,NA,NA,A,A1,1,Foscue,NA,NA,B,B1,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA03AWAY04,bat,Jordan  R. popped up to 1b (2-2 BBFK).,1,Foscue,NA,NA,B,B1,2,Foscue,NA,NA,B,B2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA03AWAY05,br,Foscue out at second c to 1b to 2b picked off caught stealing.,2,Foscue,NA,NA,B,B2,3,NA,NA,NA,A,A3,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA04HOME01,batbr,J. Hall out at first 1b to p (1-1 BK).,0,NA,NA,NA,A,A0,0,NA,NA,NA,A,A0,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA04HOME01,batbr,J. Hall out at first 1b to p (1-1 BK).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA04HOME02,other,Play at first was reviewed. Call stands.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA04HOME03,bat,A. Servideo struck out swinging (0-2 KFS).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA04HOME04,batbr,G. Kessinger struck out swinging out at first c to 1b (1-2 KKBS).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA04HOME04,batbr,G. Kessinger struck out swinging out at first c to 1b (1-2 KKBS).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA05AWAY01,bat,Skelton walked (3-2 KBBBSB).,0,NA,NA,NA,A,A0,0,Skelton,NA,NA,B,B0,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA05AWAY02,bat,Halter singled to second base  bunt (0-0);,0,Skelton,NA,NA,B,B0,0,Halter,NA,NA,B,B0,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA05AWAY02,br,Skelton advanced to second.,0,Skelton,NA,NA,B,B0,0,Halter,Skelton,NA,E,E0,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA05AWAY03,bat,Gilbert hit by pitch (0-0);,0,Halter,Skelton,NA,E,E0,0,Gilbert,Skelton,NA,E,E0,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA05AWAY03,br,Halter advanced to second;,0,Halter,Skelton,NA,E,E0,0,Gilbert,Halter,NA,E,E0,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA05AWAY03,br,Skelton advanced to third.,0,Halter,Skelton,NA,E,E0,0,Gilbert,Halter,Skelton,H,H0,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA05AWAY04,bat,Mangum flied out to rf (0-0).,0,Gilbert,Halter,Skelton,H,H0,1,Gilbert,Halter,Skelton,H,H1,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA05AWAY05,bat,Westburg walked  RBI (3-2 FKFFBBBB);,1,Gilbert,Halter,Skelton,H,H1,1,Westburg,Halter,Skelton,H,H1,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA05AWAY05,br,Gilbert advanced to second;,1,Gilbert,Halter,Skelton,H,H1,1,Westburg,Gilbert,Skelton,H,H1,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA05AWAY05,br,Halter advanced to third;,1,Gilbert,Halter,Skelton,H,H1,1,Westburg,Gilbert,Halter,H,H1,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA05AWAY05,br,Skelton scored.,1,Gilbert,Halter,Skelton,H,H1,1,Westburg,Gilbert,Halter,H,H1,1
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA05AWAY06,bat,Allen grounded into double play p to c to 1b (0-0);,1,Westburg,Gilbert,Halter,H,H1,2,Westburg,Gilbert,Halter,H,H2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA05AWAY06,br,Halter out on the play.,1,Westburg,Gilbert,Halter,H,H1,3,Westburg,Gilbert,NA,E,E3,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA06HOME01,bat,T. Keenan grounded out to 2b (3-1 BFBB).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA06HOME02,bat,T. Dillard grounded out to 3b (0-0).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA06HOME03,other,3B Marshall Gilbert was playing in 2B position during shift.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA06HOME04,bat,C. Zabowski grounded out to 3b (0-0).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA07AWAY01,other,3B Marshall Gilbert was playing in 2B position during shift.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA07AWAY02,bat,MacNamee doubled down the lf line (2-1 BBK).,0,NA,NA,NA,A,A0,0,NA,Macnamee,NA,C,C0,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA07AWAY03,bat,Foscue walked (3-2 KBBFFBB);,0,NA,Macnamee,NA,C,C0,0,Foscue,Macnamee,NA,E,E0,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA07AWAY03,br,MacNamee advanced to third on a wild pitch.,0,NA,Macnamee,NA,C,C0,0,Foscue,NA,Macnamee,F,F0,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA07AWAY04,bat,Jordan  R. grounded into double play 2b to 1b (2-2 KKBBF);,0,Foscue,NA,Macnamee,F,F0,1,Foscue,NA,Macnamee,F,F1,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA07AWAY04,br,Foscue out on the play;,0,Foscue,NA,Macnamee,F,F0,2,NA,NA,Macnamee,D,D2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA07AWAY04,br,MacNamee scored.,0,Foscue,NA,Macnamee,F,F0,2,NA,NA,NA,A,A2,1
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA07AWAY05,bat,Skelton struck out looking (1-2 KBSFK).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA08HOME01,bat,C. Johnson grounded out to 3b (0-2 SS).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA08HOME02,bat,K. Graham grounded out to p (1-2 SBF).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA08HOME03,bat,J. Adams struck out swinging  reached first on a wild pitch (2-2 SBBKS).,2,NA,NA,NA,A,A2,2,Adams,NA,NA,B,B2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA08HOME04,br,J. Adams advanced to second on a wild pitch advanced to third on a throwing error by c.,2,Adams,NA,NA,B,B2,2,NA,Adams,NA,C,C2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA08HOME05,bat,J. Hall struck out looking (2-2 KSFBBFK).,2,NA,Adams,NA,C,C2,3,NA,Adams,NA,C,C3,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA09AWAY01,bat,Halter flied out to rf (2-1 BKB).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA09AWAY02,bat,Gilbert hit by pitch (0-1 F).,1,NA,NA,NA,A,A1,1,Gilbert,NA,NA,B,B1,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA09AWAY03,bat,Mangum flied out to rf (3-2 FBBKB).,1,Gilbert,NA,NA,B,B1,2,Gilbert,NA,NA,B,B2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA09AWAY04,bat,Westburg struck out looking (1-2 KBFK).,2,Gilbert,NA,NA,B,B2,3,Gilbert,NA,NA,B,B3,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA10HOME01,bat,A. Servideo walked (3-0 BBBB).,0,NA,NA,NA,A,A0,0,Servideo,NA,NA,B,B0,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA10HOME02,bat,G. Kessinger grounded into double play 3b to 2b to 1b (3-1 BBBK);,0,Servideo,NA,NA,B,B0,1,Servideo,NA,NA,B,B1,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA10HOME02,br,A. Servideo out on the play.,0,Servideo,NA,NA,B,B0,2,NA,NA,NA,A,A2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA10HOME03,bat,T. Keenan struck out swinging  reached first on a passed ball (2-2 SFBBS).,2,NA,NA,NA,A,A2,2,Keenan,NA,NA,B,B2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA10HOME04,bat,T. Dillard singled through the left side (2-2 FBSB);,2,Keenan,NA,NA,B,B2,2,Dillard,NA,NA,B,B2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA10HOME04,br,T. Keenan advanced to third.,2,Keenan,NA,NA,B,B2,2,Dillard,NA,Keenan,F,F2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA10HOME05,sub,Barlow to p for Ginn.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA10HOME06,br,T. Dillard advanced to second on a wild pitch;,2,Dillard,NA,Keenan,F,F2,2,NA,Dillard,Keenan,G,G2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA10HOME06,br,T. Keenan scored on a wild pitch unearned.,2,Dillard,NA,Keenan,F,F2,2,NA,Dillard,NA,C,C2,1
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA10HOME07,bat,C. Zabowski struck out swinging (3-2 SSBBBS).,2,NA,Dillard,NA,C,C2,3,NA,Dillard,NA,C,C3,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA11AWAY01,bat,Allen struck out looking (0-2 FKFFK).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA11AWAY02,bat,MacNamee fouled out to rf (2-2 BKSFB).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA11AWAY03,bat,Foscue singled through the right side (1-2 FBFF).,2,NA,NA,NA,A,A2,2,Foscue,NA,NA,B,B2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA11AWAY04,bat,Jordan  R. popped up to ss (3-2 BKSFBB).,2,Foscue,NA,NA,B,B2,3,Foscue,NA,NA,B,B3,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA12HOME01,sub,Self to p for Barlow.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA12HOME02,batbr,C. Johnson struck out swinging out at first c to 1b (2-2 BBKFS).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA12HOME02,batbr,C. Johnson struck out swinging out at first c to 1b (2-2 BBKFS).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA12HOME03,bat,K. Graham singled to first base (0-1 S).,1,NA,NA,NA,A,A1,1,Graham,NA,NA,B,B1,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA12HOME04,bat,J. Adams singled through the left side (3-2 BFFBBF);,1,Graham,NA,NA,B,B1,1,Adams,NA,NA,B,B1,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA12HOME04,br,K. Graham advanced to third.,1,Graham,NA,NA,B,B1,1,Adams,NA,Graham,F,F1,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA12HOME05,bat,"J. Hall reached on a fielders choice  RBI (2-2 KFFBB);,1,Adams,NA,Graham,F,F1,1,Hall,NA,Graham,F,F1,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA12HOME05,br,J. Adams out at second 2b to ss;,1,Adams,NA,Graham,F,F1,2,Hall,NA,Graham,F,F2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA12HOME05,br,K. Graham scored.",1,Adams,NA,Graham,F,F1,2,Hall,NA,NA,B,B2,1
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA12HOME06,bat,A. Servideo struck out swinging (3-2 BBFBKFS).,2,Hall,NA,NA,B,B2,3,Hall,NA,NA,B,B3,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA13AWAY01,sub,A. Miller to p for D. Nikhazy.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA13AWAY02,bat,Skelton doubled down the lf line (2-0 BB).,0,NA,NA,NA,A,A0,0,NA,Skelton,NA,C,C0,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA13AWAY03,bat,Halter doubled to center field  RBI (3-1 BBBK);,0,NA,Skelton,NA,C,C0,0,NA,Halter,NA,C,C0,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA13AWAY03,br,Skelton scored.,0,NA,Skelton,NA,C,C0,0,NA,Halter,NA,C,C0,1
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA13AWAY04,bat,Gilbert walked (3-1 BBBKB).,0,NA,Halter,NA,C,C0,0,Gilbert,Halter,NA,E,E0,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA13AWAY05,batbr,Mangum singled through the right side RBI advanced to second on a muffed throw by 2b (2-1 SBB);,0,Gilbert,Halter,NA,E,E0,0,Mangum,Halter,NA,E,E0,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA13AWAY05,batbr,Mangum singled through the right side RBI advanced to second on a muffed throw by 2b (2-1 SBB);,0,Gilbert,Halter,NA,E,E0,0,NA,Mangum,NA,C,C0,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA13AWAY05,br,Gilbert advanced to third;,0,Gilbert,Halter,NA,E,E0,0,NA,Mangum,Gilbert,G,G0,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA13AWAY05,br,Halter scored.,0,Gilbert,Halter,NA,E,E0,0,NA,Mangum,Gilbert,G,G0,1
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA13AWAY06,sub,P. Caracci to p for A. Miller.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA13AWAY07,bat,Westburg walked (3-2 BBBKKB).,0,NA,Mangum,Gilbert,G,G0,0,Westburg,Mangum,Gilbert,H,H0,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA13AWAY08,bat,Allen singled to center field  2 RBI (0-0);,0,Westburg,Mangum,Gilbert,H,H0,0,Allen,Mangum,Gilbert,H,H0,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA13AWAY08,br,Westburg advanced to second;,0,Westburg,Mangum,Gilbert,H,H0,0,Allen,Westburg,Gilbert,H,H0,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA13AWAY08,br,Mangum scored;,0,Westburg,Mangum,Gilbert,H,H0,0,Allen,Westburg,Gilbert,H,H0,1
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA13AWAY08,br,Gilbert scored.,0,Westburg,Mangum,Gilbert,H,H0,0,Allen,Westburg,NA,E,E0,1
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA13AWAY09,bat,MacNamee struck out swinging (1-2 FBKS).,0,Allen,Westburg,NA,E,E0,1,Allen,Westburg,NA,E,E1,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA13AWAY10,bat,"Foscue reached on a fielders choice (1-2 KBF);,1,Allen,Westburg,NA,E,E1,1,Foscue,Westburg,NA,E,E1,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA13AWAY10,br,Allen out at second 3b to 2b;,1,Allen,Westburg,NA,E,E1,2,Foscue,Westburg,NA,E,E2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA13AWAY10,br,Westburg advanced to third.",1,Allen,Westburg,NA,E,E1,2,Foscue,NA,Westburg,F,F2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA13AWAY11,br,Foscue stole second.,2,Foscue,NA,Westburg,F,F2,2,NA,Foscue,Westburg,G,G2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA13AWAY12,bat,Jordan  R. singled to left field  2 RBI (1-1 FB);,2,NA,Foscue,Westburg,G,G2,2,Jordan,Foscue,Westburg,H,H2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA13AWAY12,br,Foscue scored;,2,NA,Foscue,Westburg,G,G2,2,Jordan,NA,Westburg,F,F2,1
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA13AWAY12,br,Westburg scored.,2,NA,Foscue,Westburg,G,G2,2,Jordan,NA,NA,B,B2,1
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA13AWAY13,bat,Skelton flied out to rf (0-0).,2,Jordan,NA,NA,B,B2,3,Jordan,NA,NA,B,B3,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA14HOME01,bat,G. Kessinger popped up to 2b (3-2 KBBSBF).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA14HOME02,bat,T. Keenan walked (3-2 BBKFBFB).,1,NA,NA,NA,A,A1,1,Keenan,NA,NA,B,B1,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA14HOME03,sub,Eagan to p for Self.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA14HOME04,bat,T. Dillard walked (3-2 BBBKFFB);,1,Keenan,NA,NA,B,B1,1,Dillard,NA,NA,B,B1,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA14HOME04,br,T. Keenan advanced to second.,1,Keenan,NA,NA,B,B1,1,Dillard,Keenan,NA,E,E1,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA14HOME05,bat,C. Zabowski doubled down the rf line  RBI (1-0 B);,1,Dillard,Keenan,NA,E,E1,1,Dillard,Zabowski,NA,E,E1,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA14HOME05,br,T. Dillard advanced to third out at home rf to 2b to c;,1,Dillard,Keenan,NA,E,E1,2,NA,Zabowski,NA,C,C2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA14HOME05,br,T. Keenan scored.,1,Dillard,Keenan,NA,E,E1,2,NA,Zabowski,NA,C,C2,1
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA14HOME06,sub,Smith to p for Eagan.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA14HOME07,bat,C. Johnson grounded out to 2b (2-2 BSFFB).,2,NA,Zabowski,NA,C,C2,3,NA,Zabowski,NA,C,C3,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA15AWAY01,sub,T. Myers to p for P. Caracci.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA15AWAY02,bat,Halter grounded out to ss (1-0 B).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA15AWAY03,bat,Gilbert walked (3-2 SKBBFBFB).,1,NA,NA,NA,A,A1,1,Gilbert,NA,NA,B,B1,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA15AWAY04,bat,Mangum singled to center field (1-0 B);,1,Gilbert,NA,NA,B,B1,1,Mangum,NA,NA,B,B1,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA15AWAY04,br,Gilbert advanced to second.,1,Gilbert,NA,NA,B,B1,1,Mangum,Gilbert,NA,E,E1,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA15AWAY05,bat,Westburg struck out swinging (1-2 KBKS).,1,Mangum,Gilbert,NA,E,E1,2,Mangum,Gilbert,NA,E,E2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA15AWAY06,sub,K. Hill to p for T. Myers.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA15AWAY07,bat,Allen grounded out to 1b unassisted (0-0).,2,Mangum,Gilbert,NA,E,E2,3,Mangum,Gilbert,NA,E,E3,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA16HOME01,sub,White to p for Smith.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA16HOME02,bat,K. Graham struck out swinging (0-2 SKS).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA16HOME03,bat,J. Adams struck out swinging (2-2 FSBBFFS).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA16HOME04,sub,C. Cockrell pinch hit for J. Hall.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA16HOME05,bat,C. Cockrell struck out swinging (1-2 KBSS).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA17AWAY01,sub,A. Servideo to cf.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA17AWAY02,sub,C. Gindl to rf for C. Cockrell.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA17AWAY03,bat,MacNamee flied out to lf (1-1 FB).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA17AWAY04,sub,C. Green to p for K. Hill.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA17AWAY05,bat,Foscue struck out looking (3-2 SSBFBBK).,1,NA,NA,NA,A,A1,2,NA,NA,NA,A,A2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA17AWAY06,bat,Jordan  R. grounded out to 1b unassisted (1-0 B).,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA18HOME01,sub,Gordon to p for White.,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA18HOME02,bat,A. Servideo struck out looking (1-2 KSBK).,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA18HOME03,bat,G. Kessinger singled to second base (3-2 SSBBB).,1,NA,NA,NA,A,A1,1,Kessinger,NA,NA,B,B1,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA18HOME04,bat,T. Keenan grounded into double play 3b to 2b to 1b (2-2 BFSB);,1,Kessinger,NA,NA,B,B1,2,Kessinger,NA,NA,B,B2,0
+MSST_OMSS_0511201901,MSST_OMSS_0511201901_PA18HOME04,br,G. Kessinger out on the play.,1,Kessinger,NA,NA,B,B1,3,NA,NA,NA,A,A3,0

@@ -1,0 +1,16 @@
+GameID,PlateAppID,SubType,PlayerOut,PlayerIn,SubbedPos
+2019021901,2019021901Away0701s,def,Smith,Kirian,p
+2019021901,2019021901Away0801s,off,Conklin,Brewer,ph
+2019021901,2019021901Away0803s,def,Kirian,Mcavene,p
+2019021901,2019021901Away0901s,off,Binelas,Pinkham,c
+2019021901,2019021901Away0902s,def,NA,Leonard,lf
+2019021901,2019021901Away0905s,def,Mcavene,Smiddy,p
+2019021901,2019021901Home0301s,def,Jackson,Ferris,p
+2019021901,2019021901Home0305s,def,NA,ERROR: SubUnit.get_players, ts: ,NA
+2019021901,2019021901Home0406s,def,NA,ERROR: SubUnit.get_players, ts: ,NA
+2019021901,2019021901Home0501s,def,Ferris,Farley,p
+2019021901,2019021901Home0507s,def,Farley,Labarbera,p
+2019021901,2019021901Home0701s,def,Labarbera,Ochsenbein,p
+2019021901,2019021901Home0802s,off,Davis,Oriente,ph
+2019021901,2019021901Home0804s,off,Oriente,Leonard,pr
+2019021901,2019021901Home0806s,off,Snider,Binelas,ph

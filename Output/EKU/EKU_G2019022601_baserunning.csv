@@ -1,0 +1,39 @@
+GameID,PlateAppID,HomeAway,RunnerName,Hole,Action,StartBase,EndBase,BasesAdded,SB,SBA,OutsAdded,Fielder1,Fielder2,RunsAdded,PO,POA,WP,PB,AOE,bostartOuts,bostartOnFirst,bostartOnSecond,bostartOnThird,bostartBaseState,bostartBaseOutState,boendOuts,boendOnFirst,boendOnSecond,boendOnThird,boendBaseState,boendBaseOutState
+2019022601,2019022601Away0103b,away,Kerr,1,out,1,0,-1,0,0,1,NA,NA,0,0,0,0,0,0,1,Kerr,NA,NA,B,B1,3,Kerr,NA,NA,B,B3
+2019022601,2019022601Away0403b,away,Howie,3,out,0,0,0,0,0,1,1b,p ,0,0,0,0,0,0,2,NA,NA,NA,A,A2,3,NA,NA,NA,A,A3
+2019022601,2019022601Away0602b,away,Hill,9,advanced,0,2,2,0,0,0,NA,NA,0,0,0,0,1,0,1,NA,NA,NA,A,A1,1,Hill,Hill,NA,E,E1
+2019022601,2019022601Away0602b,away,Hill,9,advanced,0,3,3,0,0,0,NA,NA,0,0,0,0,1,0,1,NA,NA,NA,A,A1,1,Hill,Hill,Hill,H,H1
+2019022601,2019022601Away0603b,away,Hill,9,scored,1,4,3,0,0,0,NA,NA,1,0,0,0,0,0,1,Hill,Hill,Hill,H,H1,2,Hill,Hill,Hill,H,H2
+2019022601,2019022601Away0607b,away,Botsoe,2,advanced,1,2,1,0,0,0,NA,NA,0,0,0,0,0,0,2,Botsoe,Hill,Hill,H,H2,2,Howie,Botsoe,Hill,H,H2
+2019022601,2019022601Away06014b,away,Howie,3,advanced,1,2,1,0,0,0,NA,NA,0,0,0,0,0,0,2,Howie,Botsoe,Hill,H,H2,2,Johnson,Howie,Hill,H,H2
+2019022601,2019022601Away06014b,away,Botsoe,2,advanced,2,3,1,0,0,0,NA,NA,0,0,0,0,0,0,2,Howie,Botsoe,Hill,H,H2,2,Johnson,Howie,Botsoe,H,H2
+2019022601,2019022601Away0904b,away,Howie,3,advanced,1,2,1,0,0,0,NA,NA,0,0,0,0,0,0,0,Howie,NA,NA,B,B0,0,Johnson,Howie,NA,E,E0
+2019022601,2019022601Away0907b,away,Howie,3,advanced,1,3,2,0,0,0,NA,NA,0,0,0,0,1,0,0,Howie,NA,NA,B,B0,0,Johnson,Howie,Howie,H,H0
+2019022601,2019022601Away0908b,away,Johnson,4,advanced,1,2,1,0,0,0,NA,NA,0,0,0,0,0,0,0,Johnson,Howie,Howie,H,H0,0,Lewis,Johnson,Howie,H,H0
+2019022601,2019022601Away09011b,away,Lewis,5,advanced,1,2,1,0,0,0,NA,NA,0,0,0,0,0,0,2,Lewis,Johnson,Howie,H,H2,2,ERROR: name not in batting order, ts: THOMASON, L. singled through the left side, 2 RBI (3-1 BBBK);,Lewis,Howie,H,H2
+2019022601,2019022601Away09011b,away,Johnson,4,scored,2,4,2,0,0,0,NA,NA,1,0,0,0,0,0,2,Lewis,Johnson,Howie,H,H2,2,ERROR: name not in batting order, ts: THOMASON, L. singled through the left side, 2 RBI (3-1 BBBK);,Lewis,Howie,H,H2
+2019022601,2019022601Away09011b,away,Howie,3,scored,3,4,1,0,0,0,NA,NA,1,0,0,0,0,0,2,Lewis,Johnson,Howie,H,H2,2,ERROR: name not in batting order, ts: THOMASON, L. singled through the left side, 2 RBI (3-1 BBBK);,Lewis,Howie,H,H2
+2019022601,2019022601Home0208b,home,Reed,5,advanced,2,3,1,0,0,0,NA,NA,0,0,0,0,0,0,2,NA,Reed,NA,C,C2,2,Rodriguez,Reed,Reed,H,H2
+2019022601,2019022601Home02011b,home,Rodriguez,7,advanced,1,2,1,0,0,0,NA,NA,0,0,0,0,0,0,2,Rodriguez,Reed,Reed,H,H2,2,Hill,Rodriguez,Reed,H,H2
+2019022601,2019022601Home02012b,home,Reed,5,scored,2,4,2,0,0,0,NA,NA,1,0,0,0,0,0,2,Rodriguez,Reed,Reed,H,H2,2,Hill,Rodriguez,Reed,H,H2
+2019022601,2019022601Home0403b,home,Reed,5,advanced,1,2,1,0,0,0,NA,NA,0,0,0,0,0,1,1,NA,NA,NA,A,A1,1,NA,Reed,NA,C,C1
+2019022601,2019022601Home0506b,home,Shinn,2,advanced,0,2,2,0,0,0,NA,NA,0,0,1,0,0,1,2,NA,NA,NA,A,A2,2,Shinn,Shinn,NA,E,E2
+2019022601,2019022601Home0509b,home,Shinn,2,scored,1,4,3,0,0,0,NA,NA,1,0,0,0,0,0,2,Shinn,Shinn,NA,E,E2,2,NA,NA,NA,A,A2
+2019022601,2019022601Home05013b,home,Shelby,4,stole,0,2,2,1,1,0,NA,NA,0,0,0,0,0,0,2,NA,NA,NA,A,A2,2,Shelby,Shelby,NA,E,E2
+2019022601,2019022601Home05016b,home,Shelby,4,stole,1,3,2,1,1,0,NA,NA,0,0,0,0,0,0,2,Shelby,Shelby,NA,E,E2,2,Reed,Shelby,Shelby,H,H2
+2019022601,2019022601Home05017b,home,Shelby,4,stole,1,0,-1,0,0,0,NA,NA,0,0,0,0,0,0,2,Shelby,Shelby,NA,E,E2,2,Reed,Shelby,Shelby,H,H2
+2019022601,2019022601Home05020b,home,Reed,5,advanced,1,2,1,0,0,0,NA,NA,0,0,0,0,0,0,2,Reed,Shelby,Shelby,H,H2,2,Kessler,Reed,Shelby,H,H2
+2019022601,2019022601Home05022b,home,Reed,5,advanced,1,3,2,0,0,0,NA,NA,0,0,0,1,0,0,2,Reed,Shelby,Shelby,H,H2,2,Kessler,Reed,Reed,H,H2
+2019022601,2019022601Home05023b,home,Kessler,6,advanced,0,2,2,0,0,0,NA,NA,0,0,0,0,0,0,2,Reed,Shelby,Shelby,H,H2,2,Kessler,Kessler,Reed,H,H2
+2019022601,2019022601Home0602b,home,Lewis,9,stole,0,2,2,1,1,0,NA,NA,0,0,0,0,0,0,0,NA,NA,NA,A,A0,0,Lewis,Lewis,NA,E,E0
+2019022601,2019022601Home0606b,home,Daniel,1,advanced,0,2,2,0,0,0,NA,NA,0,0,0,1,0,0,0,Lewis,Lewis,NA,E,E0,0,Daniel,Daniel,NA,E,E0
+2019022601,2019022601Home0607b,home,Lewis,9,advanced,1,3,2,0,0,0,NA,NA,0,0,0,0,0,0,0,Lewis,Lewis,NA,E,E0,0,Daniel,Daniel,Lewis,H,H0
+2019022601,2019022601Home06014b,home,Shinn,2,advanced,1,3,2,0,0,0,NA,NA,0,0,0,0,0,0,1,Shinn,Daniel,Lewis,H,H1,1,Shelby,Daniel,Shinn,H,H1
+2019022601,2019022601Home06015b,home,Daniel,1,scored,2,4,2,0,0,0,NA,NA,1,0,0,0,0,0,1,Shinn,Daniel,Lewis,H,H1,1,Shelby,Daniel,Shinn,H,H1
+2019022601,2019022601Home06016b,home,Lewis,9,scored,3,4,1,0,0,0,NA,NA,1,0,0,0,0,0,1,Shinn,Daniel,Lewis,H,H1,1,Shelby,Daniel,Shinn,H,H1
+2019022601,2019022601Home06017b,home,Shelby,4,stole,0,2,2,1,1,0,NA,NA,0,0,0,0,0,0,1,Shinn,Daniel,Lewis,H,H1,1,Shelby,Shelby,Shinn,H,H1
+2019022601,2019022601Home06018b,home,Shinn,2,scored,1,4,3,0,0,0,NA,NA,1,0,0,0,0,0,1,Shinn,Daniel,Lewis,H,H1,1,Shelby,Shelby,Shinn,H,H1
+2019022601,2019022601Home06021b,home,Shelby,4,stole,1,3,2,1,1,0,NA,NA,0,0,0,0,0,0,1,Shelby,Shelby,Shinn,H,H1,2,Shelby,Shelby,Shelby,H,H2
+2019022601,2019022601Home0707b,home,Rodriguez,7,advanced,2,3,1,0,0,0,NA,NA,0,0,0,0,0,0,0,NA,Rodriguez,NA,C,C0,1,NA,Rodriguez,Rodriguez,G,G1
+2019022601,2019022601Home07010b,home,Rodriguez,7,out,2,0,-2,0,0,1,p,c.,0,0,0,0,0,0,1,NA,Rodriguez,Rodriguez,G,G1,2,Lewis,Rodriguez,Rodriguez,H,H2
+2019022601,2019022601Home07011b,home,Lewis,9,stole,0,2,2,1,1,0,NA,NA,0,0,0,0,0,0,1,NA,Rodriguez,Rodriguez,G,G1,2,Lewis,Lewis,Rodriguez,H,H2

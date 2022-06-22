@@ -1,0 +1,27 @@
+GameID,PlateAppID,HomeAway,RunnerName,Hole,Action,StartBase,EndBase,BasesAdded,SB,SBA,OutsAdded,Fielder1,Fielder2,RunsAdded,PO,POA,WP,PB,AOE,bostartOuts,bostartOnFirst,bostartOnSecond,bostartOnThird,bostartBaseState,bostartBaseOutState,boendOuts,boendOnFirst,boendOnSecond,boendOnThird,boendBaseState,boendBaseOutState
+2019031301,2019031301Away0101b,away,Sims,1,out,0,0,0,0,0,2,p,1b,0,1,1,0,0,0,0,NA,NA,NA,A,A0,2,Sims,NA,NA,B,B2
+2019031301,2019031301Away0103b,away,Ransom,2,out,0,0,0,0,0,1,c,1b,0,0,0,0,0,0,2,Sims,NA,NA,B,B2,4,Sims,NA,NA,B,B4
+2019031301,2019031301Away0404b,away,Sims,1,advanced,1,2,1,0,0,0,NA,NA,0,0,0,0,0,0,0,Sims,NA,NA,B,B0,0,Ransom,Sims,NA,E,E0
+2019031301,2019031301Away0405b,away,Sims,1,out,2,0,-2,0,0,1,NA,NA,0,0,0,0,0,0,0,Ransom,Sims,NA,E,E0,2,Ransom,Sims,NA,E,E2
+2019031301,2019031301Away0406b,away,Ransom,2,out,1,0,-1,0,1,2,c,2b,0,0,0,0,0,0,0,Ransom,Sims,NA,E,E0,4,Ransom,Sims,NA,E,E4
+2019031301,2019031301Away0604b,away,Wilson,7,out,1,0,-1,0,0,1,NA,NA,0,0,0,0,0,0,0,Wilson,NA,NA,B,B0,2,Wilson,NA,NA,B,B2
+2019031301,2019031301Away0608b,away,Mason,9,scored,1,4,3,0,0,0,NA,NA,1,0,0,0,0,0,2,Mason,NA,NA,B,B2,2,Mason,Sims,NA,E,E2
+2019031301,2019031301Away0707b,away,Starks,4,out,1,0,-1,0,0,1,NA,NA,0,0,0,0,0,0,1,Starks,NA,NA,B,B1,3,Starks,NA,NA,B,B3
+2019031301,2019031301Away0809b,away,Santomo,6,out,1,0,-1,0,0,1,NA,NA,0,0,0,0,0,0,1,Santomo,NA,NA,B,B1,3,Santomo,NA,NA,B,B3
+2019031301,2019031301Away09010b,away,Mason,9,advanced,1,2,1,0,0,0,NA,NA,0,0,0,0,0,0,0,Mason,NA,NA,B,B0,0,Kumar,Mason,NA,E,E0
+2019031301,2019031301Away09013b,away,NA,0,advanced,3,2,-1,0,0,0,NA,NA,0,0,0,0,0,1,0,Kumar,Mason,NA,E,E0,0,ERROR: name not in batting order, ts: Dakota Dull reached on a fielding error by lf, advanced to second (3-2 SFFBBFB);,NA,NA,B,B0
+2019031301,2019031301Away09013b,away,Kumar,1,scored,1,4,3,0,0,0,NA,NA,1,0,0,0,0,0,0,Kumar,Mason,NA,E,E0,0,ERROR: name not in batting order, ts: Dakota Dull reached on a fielding error by lf, advanced to second (3-2 SFFBBFB);,NA,NA,B,B0
+2019031301,2019031301Away09014b,away,Mason,9,scored,2,4,2,0,0,0,NA,NA,1,0,0,0,0,0,0,Kumar,Mason,NA,E,E0,0,ERROR: name not in batting order, ts: Dakota Dull reached on a fielding error by lf, advanced to second (3-2 SFFBBFB);,NA,NA,B,B0
+2019031301,2019031301Away09018b,away,NA,0,advanced,2,3,1,0,0,0,NA,NA,0,0,0,0,0,0,0,ERROR: name not in batting order, ts: Dakota Dull reached on a fielding error by lf, advanced to second (3-2 SFFBBFB);,NA,NA,B,B0,1,ERROR: name not in batting order, ts: Dakota Dull reached on a fielding error by lf, advanced to second (3-2 SFFBBFB);,NA,NA,B,B1
+2019031301,2019031301Home0205b,home,Lovell,7,scored,2,4,2,0,0,0,NA,NA,1,0,0,0,0,0,2,NA,Lovell,NA,C,C2,2,Harris,Lovell,NA,E,E2
+2019031301,2019031301Home0205b,home,Harris,8,advanced,0,2,2,0,0,0,NA,NA,0,0,0,1,0,0,2,NA,Lovell,NA,C,C2,2,Harris,Harris,NA,E,E2
+2019031301,2019031301Home0304b,home,Lewis,3,scored,1,4,3,0,0,0,NA,NA,1,0,0,0,0,0,2,Lewis,NA,NA,B,B2,2,NA,NA,NA,A,A2
+2019031301,2019031301Home0502b,home,Johnson,1,stole,0,2,2,1,1,0,NA,NA,0,0,0,0,0,0,1,NA,NA,NA,A,A1,1,Johnson,Johnson,NA,E,E1
+2019031301,2019031301Home0505b,home,Kerr,2,scored,1,4,3,0,0,0,NA,NA,1,0,0,0,0,0,2,Kerr,Johnson,NA,E,E2,2,NA,NA,NA,A,A2
+2019031301,2019031301Home0505b,home,Johnson,1,scored,2,4,2,0,0,0,NA,NA,1,0,0,0,0,0,2,Kerr,Johnson,NA,E,E2,2,NA,NA,NA,A,A2
+2019031301,2019031301Home0601b,home,Lucio,6,out,0,0,0,0,0,1,1b,p ,0,0,0,0,0,0,0,NA,NA,NA,A,A0,1,NA,NA,NA,A,A1
+2019031301,2019031301Home0705b,home,Lewis,3,scored,1,4,3,0,0,0,NA,NA,1,0,0,0,0,0,1,Lewis,Kerr,NA,E,E1,1,NA,NA,NA,A,A1
+2019031301,2019031301Home0705b,home,Kerr,2,scored,2,4,2,0,0,0,NA,NA,1,0,0,0,0,0,1,Lewis,Kerr,NA,E,E1,1,NA,NA,NA,A,A1
+2019031301,2019031301Home0804b,home,Hill,7,out,1,0,-1,0,0,1,ss,2b,0,0,0,0,0,0,0,Hill,NA,NA,B,B0,1,Harris,NA,NA,B,B1
+2019031301,2019031301Home0807b,home,Harris,8,stole,1,2,1,1,1,0,NA,NA,0,0,0,0,0,0,1,Harris,NA,NA,B,B1,2,Harris,Harris,NA,E,E2
+2019031301,2019031301Home0808b,home,Weaver,1,out,0,0,0,0,0,1,c,1b,0,0,0,0,0,0,2,Harris,Harris,NA,E,E2,4,Harris,Harris,NA,E,E4
